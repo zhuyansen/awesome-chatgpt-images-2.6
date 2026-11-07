@@ -2,7 +2,7 @@
 
 English | [简体中文](README.zh-CN.md)
 
-Images and GIFs made with **ChatGPT Images 2.6** (OpenAI, released 2026-11-04; GPT-Image-2.6 Flare / Sunburst in the API) by creators on X: **18** works, **5** with the prompt the creator shared. Updated daily (last update: 2026-11-05).
+Images and GIFs made with **ChatGPT Images 2.6** (OpenAI, released 2026-11-04; GPT-Image-2.6 Flare / Sunburst in the API) by creators on X: **34** works, **12** with the prompt the creator shared. Updated daily (last update: 2026-11-07).
 
 Browse with playable GIFs and one-click copy: **[jasonzhu.ai/en/prompts/chatgpt-images-2-6](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6)**
 
@@ -11,24 +11,25 @@ Browse with playable GIFs and one-click copy: **[jasonzhu.ai/en/prompts/chatgpt-
     <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118235544459387112"><img src="https://pbs.twimg.com/tweet_video_thumb/HWV7862aEAAFTz1.jpg" width="200" alt="Chibi Chinese reaction stickers, animated set"></a><br><sub>Chibi Chinese reaction stickers, animated set</sub></td>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118135343354720648"><img src="https://pbs.twimg.com/amplify_video_thumb/2118130005637308416/img/k0Px0jbGnj348cBm.jpg" width="200" alt="Standing backflip GIF at three complexity levels"></a><br><sub>Standing backflip GIF at three complexity levels</sub></td>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118150226330734787"><img src="https://pbs.twimg.com/media/HWUs6utbwAAgLxv?format=jpg&name=small" width="200" alt="Woman spraying water in a sunny garden"></a><br><sub>Woman spraying water in a sunny garden</sub></td>
-    <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118181775688241456"><img src="https://pbs.twimg.com/tweet_video_thumb/HWVKFMFboAApgRC.jpg" width="200" alt="Blue-haired maid reaction sticker GIFs"></a><br><sub>Blue-haired maid reaction sticker GIFs</sub></td>
+    <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118381855166881928"><img src="https://pbs.twimg.com/media/HWYBDXJboAAM73l?format=jpg&name=small" width="200" alt="Kingfisher diving comparison across two image models"></a><br><sub>Kingfisher diving comparison across two image models</sub></td>
   </tr>
   <tr>
+    <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118308538564989025"><img src="https://pbs.twimg.com/tweet_video_thumb/HWW9tuiWsAArMUF.jpg" width="200" alt="Illustrated travel scenes in a looping GIF set"></a><br><sub>Illustrated travel scenes in a looping GIF set</sub></td>
+    <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118408795026043260"><img src="https://pbs.twimg.com/amplify_video_thumb/2118405386575269888/img/IhQYvdATP4n1FINn.jpg" width="200" alt="Grayscale corridor to wooden door, animated video"></a><br><sub>Grayscale corridor to wooden door, animated video</sub></td>
+    <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118181775688241456"><img src="https://pbs.twimg.com/tweet_video_thumb/HWVKFMFboAApgRC.jpg" width="200" alt="Blue-haired maid reaction sticker GIFs"></a><br><sub>Blue-haired maid reaction sticker GIFs</sub></td>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118166046175908016"><img src="https://pbs.twimg.com/media/HWU8w0Wa8AAb9LS?format=jpg&name=small" width="200" alt="Blue-haired maid eating rice, reaction GIF"></a><br><sub>Blue-haired maid eating rice, reaction GIF</sub></td>
-    <td width="25%" align="center"><a href="https://x.com/hinakira_ai/status/2118213172943577144"><img src="https://pbs.twimg.com/media/HWVnpwHbcAA9WMO?format=jpg&name=small" width="200" alt="Skincare salon landing pages: ChatGPT vs Gemini"></a><br><sub>Skincare salon landing pages: ChatGPT vs Gemini</sub></td>
-    <td width="25%" align="center"><a href="https://x.com/tianmakibo/status/2118263296520519786"><img src="https://pbs.twimg.com/media/HWWVPNxbkAARj_K?format=jpg&name=small" width="200" alt="Surreal bouncing grayscale faces, looping GIF"></a><br><sub>Surreal bouncing grayscale faces, looping GIF</sub></td>
-    <td width="25%" align="center"><a href="https://x.com/aisumeragi/status/2118188273134915596"><img src="https://pbs.twimg.com/amplify_video_thumb/2118188156541652992/img/HxP3kMxixlZh66BM.jpg" width="200" alt="Black one-piece fashion portrait in a studio"></a><br><sub>Black one-piece fashion portrait in a studio</sub></td>
   </tr>
 </table>
 
 ## Categories
 
-- [GIFs & animation](cases/gif.md) (10)
-- [Portraits & photo](cases/portrait.md) (1)
+- [GIFs & animation](cases/gif.md) (17)
+- [Portraits & photo](cases/portrait.md) (3)
+- [Illustration & anime](cases/illustration.md) (2)
 - [Posters, typography & design](cases/design.md) (1)
-- [Photo edits & reference images](cases/edit.md) (1)
-- [Stickers & memes](cases/sticker.md) (3)
-- [Model comparisons](cases/comparison.md) (2)
+- [Photo edits & reference images](cases/edit.md) (2)
+- [Stickers & memes](cases/sticker.md) (5)
+- [Model comparisons](cases/comparison.md) (4)
 
 ## What gets included
 

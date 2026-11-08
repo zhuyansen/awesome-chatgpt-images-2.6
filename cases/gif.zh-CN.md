@@ -1,6 +1,6 @@
 # GIF 动图
 
-共 17 个作品，其中 8 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 18 个作品，其中 8 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 类型 | 创作者 | 提示词 |
 |---|---|---|---|
@@ -8,6 +8,7 @@
 | [四色纹理背景循环 GIF](https://x.com/gbroai/status/2118360718554894395) | gif | [@gbroai](https://x.com/gbroai) | — |
 | [三种复杂度的站立后空翻 GIF](https://x.com/gabrielchua/status/2118135343354720648) | video | [@gabrielchua](https://x.com/gabrielchua) | [一句话指令](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2118135343354720648) |
 | [阳光花园里喷水的女性](https://x.com/nima2qisi2/status/2118150226330734787) | image | [@nima2qisi2](https://x.com/nima2qisi2) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2118150226330734787) |
+| [攻击、跳舞与跳跃的循环像素 GIF](https://x.com/Mayz1169/status/2118670168415182931) | video | [@Mayz1169](https://x.com/Mayz1169) | — |
 | [循环 GIF 动图中的旅行风景插画组](https://x.com/devteamdrew/status/2118308538564989025) | gif | [@devteamdrew](https://x.com/devteamdrew) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2118308538564989025) |
 | [灰色走廊变木门的动画视频](https://x.com/cocktailpeanut/status/2118408795026043260) | video | [@cocktailpeanut](https://x.com/cocktailpeanut) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2118408795026043260) |
 | [蓝发女仆吃白饭的表情 GIF](https://x.com/Gorden_Sun/status/2118166046175908016) | image | [@Gorden_Sun](https://x.com/Gorden_Sun) | [一句话指令](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2118166046175908016) |

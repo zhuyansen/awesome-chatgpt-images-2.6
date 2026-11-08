@@ -4,8 +4,8 @@
  "released": "2026-11-04T23:35:14Z",
  "inclusion_rule": "Original post by the creator, images / GIF / video attached, >= 5000 views on that post, creator states it was made with ChatGPT Images 2.6 (GPT-Image-2.6). Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-11-07T07:43:33.410Z",
- "updated_at": "2026-11-07T07:43:33.410Z",
+ "stats_checked_at": "2026-11-08T07:39:52.712Z",
+ "updated_at": "2026-11-08T07:39:52.712Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -359,6 +359,37 @@
    "resources": []
   },
   {
+   "id": "2118670168415182931",
+   "category": "gif",
+   "title": {
+    "zh": "攻击、跳舞与跳跃的循环像素 GIF",
+    "en": "Looping pixel-art character moves: attack, dance and jump"
+   },
+   "creator": {
+    "handle": "Mayz1169",
+    "name": "Kiki"
+   },
+   "original_post_url": "https://x.com/Mayz1169/status/2118670168415182931",
+   "posted_at": "2026-11-06T11:41:45.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2118667000902004736/img/7xpc20yYZMfI596w.jpg"
+    }
+   ],
+   "views": 39687,
+   "likes": 642,
+   "bookmarks": 635,
+   "views_checked_at": "2026-11-08T07:39:52.712Z",
+   "tools_reported": [],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2118381855166881928",
    "category": "comparison",
    "title": {
@@ -596,6 +627,52 @@
    "resources": []
   },
   {
+   "id": "2118884892427551046",
+   "category": "comparison",
+   "title": {
+    "zh": "三种图像模型中的精灵女英雄与猫咪肖像对比",
+    "en": "Elf heroine and cat portraits across three models"
+   },
+   "creator": {
+    "handle": "lyraxana",
+    "name": "lyra"
+   },
+   "original_post_url": "https://x.com/lyraxana/status/2118884892427551046",
+   "posted_at": "2026-11-07T01:54:59.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "photo",
+     "width": 2048,
+     "height": 1370,
+     "thumbnail_url": "https://pbs.twimg.com/media/HWfKk2sXkAA5Zcm?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 2048,
+     "height": 1118,
+     "thumbnail_url": "https://pbs.twimg.com/media/HWfKk2qWcAAOzkN?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1672,
+     "height": 941,
+     "thumbnail_url": "https://pbs.twimg.com/media/HWfKk22W4AEVIdn?format=jpg&name=small"
+    }
+   ],
+   "views": 26102,
+   "likes": 188,
+   "bookmarks": 35,
+   "views_checked_at": "2026-11-08T07:39:52.712Z",
+   "tools_reported": [
+    "Seedream 5.5",
+    "Nano Banana Pro"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2118181775688241456",
    "category": "sticker",
    "title": {
@@ -688,6 +765,43 @@
     "Nano Banana"
    ],
    "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2118713676417175785",
+   "category": "comparison",
+   "title": {
+    "zh": "两款彩色甜甜圈店落地页设计",
+    "en": "Two colorful donut shop landing-page designs"
+   },
+   "creator": {
+    "handle": "revolvtech",
+    "name": "Ryoka｜AIデザインツール開発"
+   },
+   "original_post_url": "https://x.com/revolvtech/status/2118713676417175785",
+   "posted_at": "2026-11-06T14:34:38.000Z",
+   "language": "ja",
+   "media": [
+    {
+     "type": "photo",
+     "width": 936,
+     "height": 1664,
+     "thumbnail_url": "https://pbs.twimg.com/media/HWcu28wacAAdE9f?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 941,
+     "height": 1672,
+     "thumbnail_url": "https://pbs.twimg.com/media/HWcu29FbIAALUNA?format=jpg&name=small"
+    }
+   ],
+   "views": 19746,
+   "likes": 187,
+   "bookmarks": 122,
+   "views_checked_at": "2026-11-08T07:39:52.712Z",
+   "tools_reported": [],
+   "reference_assets": true,
    "prompt": null,
    "resources": []
   },
@@ -800,6 +914,57 @@
    "resources": []
   },
   {
+   "id": "2118946557319856526",
+   "category": "comparison",
+   "title": {
+    "zh": "四页图解式图像创作指南",
+    "en": "Four-page illustrated guide to image prompting"
+   },
+   "creator": {
+    "handle": "gufutokuku999",
+    "name": "ぐふとくく"
+   },
+   "original_post_url": "https://x.com/gufutokuku999/status/2118946557319856526",
+   "posted_at": "2026-11-07T06:00:02.000Z",
+   "language": "ja",
+   "media": [
+    {
+     "type": "photo",
+     "width": 1060,
+     "height": 1484,
+     "thumbnail_url": "https://pbs.twimg.com/media/HWbzrxEaIAAzl5u?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1060,
+     "height": 1484,
+     "thumbnail_url": "https://pbs.twimg.com/media/HWbzsRla4AAWb3T?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1060,
+     "height": 1484,
+     "thumbnail_url": "https://pbs.twimg.com/media/HWbzsxNaIAAPJxC?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1060,
+     "height": 1484,
+     "thumbnail_url": "https://pbs.twimg.com/media/HWbztWIaMAAlneD?format=jpg&name=small"
+    }
+   ],
+   "views": 17032,
+   "likes": 286,
+   "bookmarks": 302,
+   "views_checked_at": "2026-11-08T07:39:52.712Z",
+   "tools_reported": [
+    "Muse"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2118173626424025414",
    "category": "gif",
    "title": {
@@ -837,6 +1002,43 @@
    "resources": []
   },
   {
+   "id": "2118685698056483227",
+   "category": "comparison",
+   "title": {
+    "zh": "同一时尚场景中的两张不同面孔",
+    "en": "Same fashion scene, two different faces"
+   },
+   "creator": {
+    "handle": "SOPHIA_AIART",
+    "name": "SOPHIA🦆"
+   },
+   "original_post_url": "https://x.com/SOPHIA_AIART/status/2118685698056483227",
+   "posted_at": "2026-11-06T12:43:28.000Z",
+   "language": "ja",
+   "media": [
+    {
+     "type": "photo",
+     "width": 1088,
+     "height": 1920,
+     "thumbnail_url": "https://pbs.twimg.com/media/HWcVaafaIAAHu23?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1088,
+     "height": 1920,
+     "thumbnail_url": "https://pbs.twimg.com/media/HWcVaaVa8AAVgsp?format=jpg&name=small"
+    }
+   ],
+   "views": 15365,
+   "likes": 120,
+   "bookmarks": 24,
+   "views_checked_at": "2026-11-08T07:39:52.712Z",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2118271313764925886",
    "category": "gif",
    "title": {
@@ -864,6 +1066,39 @@
    "views_checked_at": "2026-11-05T16:32:09.076Z",
    "tools_reported": [],
    "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2118655272050663653",
+   "category": "illustration",
+   "title": {
+    "zh": "秋日纽约街头行走的女英雄动画",
+    "en": "Walking heroine on an autumn New York street"
+   },
+   "creator": {
+    "handle": "ZaraIrahh",
+    "name": "Zara"
+   },
+   "original_post_url": "https://x.com/ZaraIrahh/status/2118655272050663653",
+   "posted_at": "2026-11-06T10:42:34.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2118654812523020288/img/8taOESm5qJECoyan.jpg"
+    }
+   ],
+   "views": 14111,
+   "likes": 152,
+   "bookmarks": 18,
+   "views_checked_at": "2026-11-08T07:39:52.712Z",
+   "tools_reported": [
+    "Seedance 2.5"
+   ],
+   "reference_assets": true,
    "prompt": null,
    "resources": []
   },

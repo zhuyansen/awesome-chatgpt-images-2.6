@@ -1,6 +1,6 @@
 # GIFs & animation
 
-17 works, 8 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+18 works, 8 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Type | Creator | Prompt |
 |---|---|---|---|
@@ -8,6 +8,7 @@
 | [Four-color textured background loops](https://x.com/gbroai/status/2118360718554894395) | gif | [@gbroai](https://x.com/gbroai) | — |
 | [Standing backflip GIF at three complexity levels](https://x.com/gabrielchua/status/2118135343354720648) | video | [@gabrielchua](https://x.com/gabrielchua) | [Brief](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118135343354720648) |
 | [Woman spraying water in a sunny garden](https://x.com/nima2qisi2/status/2118150226330734787) | image | [@nima2qisi2](https://x.com/nima2qisi2) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118150226330734787) |
+| [Looping pixel-art character moves: attack, dance and jump](https://x.com/Mayz1169/status/2118670168415182931) | video | [@Mayz1169](https://x.com/Mayz1169) | — |
 | [Illustrated travel scenes in a looping GIF set](https://x.com/devteamdrew/status/2118308538564989025) | gif | [@devteamdrew](https://x.com/devteamdrew) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118308538564989025) |
 | [Grayscale corridor to wooden door, animated video](https://x.com/cocktailpeanut/status/2118408795026043260) | video | [@cocktailpeanut](https://x.com/cocktailpeanut) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118408795026043260) |
 | [Blue-haired maid eating rice, reaction GIF](https://x.com/Gorden_Sun/status/2118166046175908016) | image | [@Gorden_Sun](https://x.com/Gorden_Sun) | [Brief](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118166046175908016) |

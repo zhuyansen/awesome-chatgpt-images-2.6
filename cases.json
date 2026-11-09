@@ -4,8 +4,8 @@
  "released": "2026-11-04T23:35:14Z",
  "inclusion_rule": "Original post by the creator, images / GIF / video attached, >= 5000 views on that post, creator states it was made with ChatGPT Images 2.6 (GPT-Image-2.6). Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-11-08T07:39:52.712Z",
- "updated_at": "2026-11-08T07:39:52.712Z",
+ "stats_checked_at": "2026-11-09T01:31:37.150Z",
+ "updated_at": "2026-11-09T01:31:37.150Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -673,6 +673,61 @@
    "resources": []
   },
   {
+   "id": "2119088172433109353",
+   "category": "design",
+   "title": {
+    "zh": "玻璃物件里的微型世界插画海报系列",
+    "en": "Glass-object micro worlds, illustrated poster series"
+   },
+   "creator": {
+    "handle": "MrLarus",
+    "name": "Larus Canus"
+   },
+   "original_post_url": "https://x.com/MrLarus/status/2119088172433109353",
+   "posted_at": "2026-11-07T15:22:45.000Z",
+   "language": "zh",
+   "media": [
+    {
+     "type": "photo",
+     "width": 941,
+     "height": 1672,
+     "thumbnail_url": "https://pbs.twimg.com/media/HWiDZwFakAEmK99?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 941,
+     "height": 1672,
+     "thumbnail_url": "https://pbs.twimg.com/media/HWiDbhsbIAEOQtA?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 941,
+     "height": 1672,
+     "thumbnail_url": "https://pbs.twimg.com/media/HWiDcQ_bwAA0vM4?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 941,
+     "height": 1672,
+     "thumbnail_url": "https://pbs.twimg.com/media/HWiDc2uakAApZwR?format=jpg&name=small"
+    }
+   ],
+   "views": 24340,
+   "likes": 383,
+   "bookmarks": 339,
+   "views_checked_at": "2026-11-09T01:31:37.150Z",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/MrLarus/status/2119088491657330799",
+    "length": 1016,
+    "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2119088172433109353"
+   },
+   "resources": []
+  },
+  {
    "id": "2118181775688241456",
    "category": "sticker",
    "title": {
@@ -802,6 +857,39 @@
    "views_checked_at": "2026-11-08T07:39:52.712Z",
    "tools_reported": [],
    "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2119154946969133308",
+   "category": "illustration",
+   "title": {
+    "zh": "温馨语言学习农场游戏",
+    "en": "Cozy language-learning farming game"
+   },
+   "creator": {
+    "handle": "alexcooldev",
+    "name": "Alex Nguyen"
+   },
+   "original_post_url": "https://x.com/alexcooldev/status/2119154946969133308",
+   "posted_at": "2026-11-07T19:48:06.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "photo",
+     "width": 318,
+     "height": 116,
+     "thumbnail_url": "https://pbs.twimg.com/media/HWjAE-saYAAalhn?format=png&name=small"
+    }
+   ],
+   "views": 19009,
+   "likes": 123,
+   "bookmarks": 99,
+   "views_checked_at": "2026-11-09T01:31:37.150Z",
+   "tools_reported": [
+    "Opus 5.5"
+   ],
+   "reference_assets": false,
    "prompt": null,
    "resources": []
   },
@@ -1342,6 +1430,43 @@
    "resources": []
   },
   {
+   "id": "2118991862564262140",
+   "category": "gif",
+   "title": {
+    "zh": "动漫角色 GIF 海报合集",
+    "en": "Anime character GIF poster collection"
+   },
+   "creator": {
+    "handle": "Leviwoyun",
+    "name": "Levi 卧云"
+   },
+   "original_post_url": "https://x.com/Leviwoyun/status/2118991862564262140",
+   "posted_at": "2026-11-07T09:00:03.000Z",
+   "language": "zh",
+   "media": [
+    {
+     "type": "video",
+     "width": 912,
+     "height": 1280,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2118986088949948416/img/SCjnifqQxBedRTh4.jpg"
+    },
+    {
+     "type": "video",
+     "width": 810,
+     "height": 1080,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2118986088937394176/img/r-utQv7ovLHSnm9k.jpg"
+    }
+   ],
+   "views": 10742,
+   "likes": 135,
+   "bookmarks": 124,
+   "views_checked_at": "2026-11-09T01:31:37.150Z",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2118543259257712714",
    "category": "portrait",
    "title": {
@@ -1394,6 +1519,37 @@
     "length": 38,
     "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118543259257712714"
    },
+   "resources": []
+  },
+  {
+   "id": "2119108577927548944",
+   "category": "gif",
+   "title": {
+    "zh": "像素风女巫施放魔法循环 GIF",
+    "en": "Pixel-art witch casting spells, looping GIF"
+   },
+   "creator": {
+    "handle": "Mayz1169",
+    "name": "Kiki"
+   },
+   "original_post_url": "https://x.com/Mayz1169/status/2119108577927548944",
+   "posted_at": "2026-11-07T16:43:50.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "gif",
+     "width": 1920,
+     "height": 1080,
+     "thumbnail_url": "https://pbs.twimg.com/tweet_video_thumb/HWiTOBIaMAEdM1Z.jpg"
+    }
+   ],
+   "views": 9681,
+   "likes": 548,
+   "bookmarks": 260,
+   "views_checked_at": "2026-11-09T01:31:37.150Z",
+   "tools_reported": [],
+   "reference_assets": true,
+   "prompt": null,
    "resources": []
   },
   {

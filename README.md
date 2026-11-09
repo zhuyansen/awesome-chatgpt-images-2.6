@@ -2,7 +2,7 @@
 
 English | [简体中文](README.zh-CN.md)
 
-Images and GIFs made with **ChatGPT Images 2.6** (OpenAI, released 2026-11-04; GPT-Image-2.6 Flare / Sunburst in the API) by creators on X: **40** works, **12** with the prompt the creator shared. Updated daily (last update: 2026-11-08).
+Images and GIFs made with **ChatGPT Images 2.6** (OpenAI, released 2026-11-04; GPT-Image-2.6 Flare / Sunburst in the API) by creators on X: **44** works, **13** with the prompt the creator shared. Updated daily (last update: 2026-11-09).
 
 Browse with playable GIFs and one-click copy: **[jasonzhu.ai/en/prompts/chatgpt-images-2-6](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6)**
 
@@ -16,17 +16,17 @@ Browse with playable GIFs and one-click copy: **[jasonzhu.ai/en/prompts/chatgpt-
   <tr>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118308538564989025"><img src="https://pbs.twimg.com/tweet_video_thumb/HWW9tuiWsAArMUF.jpg" width="200" alt="Illustrated travel scenes in a looping GIF set"></a><br><sub>Illustrated travel scenes in a looping GIF set</sub></td>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118408795026043260"><img src="https://pbs.twimg.com/amplify_video_thumb/2118405386575269888/img/IhQYvdATP4n1FINn.jpg" width="200" alt="Grayscale corridor to wooden door, animated video"></a><br><sub>Grayscale corridor to wooden door, animated video</sub></td>
+    <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2119088172433109353"><img src="https://pbs.twimg.com/media/HWiDZwFakAEmK99?format=jpg&name=small" width="200" alt="Glass-object micro worlds, illustrated poster series"></a><br><sub>Glass-object micro worlds, illustrated poster series</sub></td>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118181775688241456"><img src="https://pbs.twimg.com/tweet_video_thumb/HWVKFMFboAApgRC.jpg" width="200" alt="Blue-haired maid reaction sticker GIFs"></a><br><sub>Blue-haired maid reaction sticker GIFs</sub></td>
-    <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118166046175908016"><img src="https://pbs.twimg.com/media/HWU8w0Wa8AAb9LS?format=jpg&name=small" width="200" alt="Blue-haired maid eating rice, reaction GIF"></a><br><sub>Blue-haired maid eating rice, reaction GIF</sub></td>
   </tr>
 </table>
 
 ## Categories
 
-- [GIFs & animation](cases/gif.md) (18)
+- [GIFs & animation](cases/gif.md) (20)
 - [Portraits & photo](cases/portrait.md) (3)
-- [Illustration & anime](cases/illustration.md) (3)
-- [Posters, typography & design](cases/design.md) (1)
+- [Illustration & anime](cases/illustration.md) (4)
+- [Posters, typography & design](cases/design.md) (2)
 - [Photo edits & reference images](cases/edit.md) (2)
 - [Stickers & memes](cases/sticker.md) (5)
 - [Model comparisons](cases/comparison.md) (8)

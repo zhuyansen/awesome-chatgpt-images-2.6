@@ -2,7 +2,7 @@
 
 [English](README.md) | 简体中文
 
-X 上用 **ChatGPT Images 2.6**（OpenAI 2026-11-04 发布，API 名 GPT-Image-2.6 Flare / Sunburst）做的图片和 GIF 作品，**40** 个，其中 **12** 个附作者公开的提示词。每天自动更新（最近一次：2026-11-08）。
+X 上用 **ChatGPT Images 2.6**（OpenAI 2026-11-04 发布，API 名 GPT-Image-2.6 Flare / Sunburst）做的图片和 GIF 作品，**44** 个，其中 **13** 个附作者公开的提示词。每天自动更新（最近一次：2026-11-09）。
 
 在线浏览（GIF 可直接播放、提示词一键复制）：**[jasonzhu.ai/zh/prompts/chatgpt-images-2-6](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6)**
 
@@ -16,17 +16,17 @@ X 上用 **ChatGPT Images 2.6**（OpenAI 2026-11-04 发布，API 名 GPT-Image-2
   <tr>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2118308538564989025"><img src="https://pbs.twimg.com/tweet_video_thumb/HWW9tuiWsAArMUF.jpg" width="200" alt="循环 GIF 动图中的旅行风景插画组"></a><br><sub>循环 GIF 动图中的旅行风景插画组</sub></td>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2118408795026043260"><img src="https://pbs.twimg.com/amplify_video_thumb/2118405386575269888/img/IhQYvdATP4n1FINn.jpg" width="200" alt="灰色走廊变木门的动画视频"></a><br><sub>灰色走廊变木门的动画视频</sub></td>
+    <td width="25%" align="center"><a href="https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2119088172433109353"><img src="https://pbs.twimg.com/media/HWiDZwFakAEmK99?format=jpg&name=small" width="200" alt="玻璃物件里的微型世界插画海报系列"></a><br><sub>玻璃物件里的微型世界插画海报系列</sub></td>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2118181775688241456"><img src="https://pbs.twimg.com/tweet_video_thumb/HWVKFMFboAApgRC.jpg" width="200" alt="蓝发女仆反应表情 GIF 动图"></a><br><sub>蓝发女仆反应表情 GIF 动图</sub></td>
-    <td width="25%" align="center"><a href="https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2118166046175908016"><img src="https://pbs.twimg.com/media/HWU8w0Wa8AAb9LS?format=jpg&name=small" width="200" alt="蓝发女仆吃白饭的表情 GIF"></a><br><sub>蓝发女仆吃白饭的表情 GIF</sub></td>
   </tr>
 </table>
 
 ## 分类
 
-- [GIF 动图](cases/gif.zh-CN.md)（18）
+- [GIF 动图](cases/gif.zh-CN.md)（20）
 - [人像摄影](cases/portrait.zh-CN.md)（3）
-- [插画动漫](cases/illustration.zh-CN.md)（3）
-- [海报排版](cases/design.zh-CN.md)（1）
+- [插画动漫](cases/illustration.zh-CN.md)（4）
+- [海报排版](cases/design.zh-CN.md)（2）
 - [改图与参考图](cases/edit.zh-CN.md)（2）
 - [表情包贴纸](cases/sticker.zh-CN.md)（5）
 - [模型对比](cases/comparison.zh-CN.md)（8）

@@ -1,6 +1,6 @@
 # GIF 动图
 
-共 18 个作品，其中 8 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 20 个作品，其中 8 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 类型 | 创作者 | 提示词 |
 |---|---|---|---|
@@ -19,6 +19,8 @@
 | [绿发 Q 版女学生循环 GIF](https://x.com/midori_tatsuta/status/2118519274482586001) | gif | [@midori_tatsuta](https://x.com/midori_tatsuta) | — |
 | [华丽礼服的 Q 版角角女孩舞蹈 GIF](https://x.com/798145343h/status/2118164732989608405) | gif | [@798145343h](https://x.com/798145343h) | — |
 | [操控悬浮球体的动漫女孩](https://x.com/MiraMusic_AI/status/2118513591490163168) | image | [@MiraMusic_AI](https://x.com/MiraMusic_AI) | [一句话指令](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2118513591490163168) |
+| [动漫角色 GIF 海报合集](https://x.com/Leviwoyun/status/2118991862564262140) | video | [@Leviwoyun](https://x.com/Leviwoyun) | — |
+| [像素风女巫施放魔法循环 GIF](https://x.com/Mayz1169/status/2119108577927548944) | gif | [@Mayz1169](https://x.com/Mayz1169) | — |
 | [戴大帽子的绿色角色阅读报纸循环 GIF](https://x.com/testingcatalog/status/2118138826212385225) | gif | [@testingcatalog](https://x.com/testingcatalog) | — |
 | [卡特曼角色循环 GIF](https://x.com/DeryaTR_/status/2118135257618657778) | gif | [@DeryaTR_](https://x.com/DeryaTR_) | — |
 | [动漫偶像心跳舞的低中高模式对比](https://x.com/Mayz1169/status/2118241781074862569) | video | [@Mayz1169](https://x.com/Mayz1169) | — |

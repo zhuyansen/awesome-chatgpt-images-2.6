@@ -1,6 +1,6 @@
 # GIFs & animation
 
-18 works, 8 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+20 works, 8 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Type | Creator | Prompt |
 |---|---|---|---|
@@ -19,6 +19,8 @@
 | [Green-haired chibi schoolgirl loop GIF](https://x.com/midori_tatsuta/status/2118519274482586001) | gif | [@midori_tatsuta](https://x.com/midori_tatsuta) | — |
 | [Chibi horned girls in ornate dresses, dancing GIFs](https://x.com/798145343h/status/2118164732989608405) | gif | [@798145343h](https://x.com/798145343h) | — |
 | [Anime girl controlling a floating sphere](https://x.com/MiraMusic_AI/status/2118513591490163168) | image | [@MiraMusic_AI](https://x.com/MiraMusic_AI) | [Brief](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118513591490163168) |
+| [Anime character GIF poster collection](https://x.com/Leviwoyun/status/2118991862564262140) | video | [@Leviwoyun](https://x.com/Leviwoyun) | — |
+| [Pixel-art witch casting spells, looping GIF](https://x.com/Mayz1169/status/2119108577927548944) | gif | [@Mayz1169](https://x.com/Mayz1169) | — |
 | [Green sombrero characters reading newspapers, looping GIF](https://x.com/testingcatalog/status/2118138826212385225) | gif | [@testingcatalog](https://x.com/testingcatalog) | — |
 | [Cartman character loop GIF](https://x.com/DeryaTR_/status/2118135257618657778) | gif | [@DeryaTR_](https://x.com/DeryaTR_) | — |
 | [Anime idol heartbeat dance, low/medium/high comparison](https://x.com/Mayz1169/status/2118241781074862569) | video | [@Mayz1169](https://x.com/Mayz1169) | — |

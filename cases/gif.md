@@ -1,9 +1,10 @@
 # GIFs & animation
 
-20 works, 8 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+22 works, 8 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Type | Creator | Prompt |
 |---|---|---|---|
+| [Bear makes tea in a gentle picture-book animation](https://x.com/Leviwoyun/status/2119275395736584576) | video | [@Leviwoyun](https://x.com/Leviwoyun) | — |
 | [Surreal bouncing grayscale faces, looping GIF](https://x.com/tianmakibo/status/2118263296520519786) | image | [@tianmakibo](https://x.com/tianmakibo) | — |
 | [Four-color textured background loops](https://x.com/gbroai/status/2118360718554894395) | gif | [@gbroai](https://x.com/gbroai) | — |
 | [Standing backflip GIF at three complexity levels](https://x.com/gabrielchua/status/2118135343354720648) | video | [@gabrielchua](https://x.com/gabrielchua) | [Brief](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118135343354720648) |
@@ -11,6 +12,7 @@
 | [Looping pixel-art character moves: attack, dance and jump](https://x.com/Mayz1169/status/2118670168415182931) | video | [@Mayz1169](https://x.com/Mayz1169) | — |
 | [Illustrated travel scenes in a looping GIF set](https://x.com/devteamdrew/status/2118308538564989025) | gif | [@devteamdrew](https://x.com/devteamdrew) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118308538564989025) |
 | [Grayscale corridor to wooden door, animated video](https://x.com/cocktailpeanut/status/2118408795026043260) | video | [@cocktailpeanut](https://x.com/cocktailpeanut) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118408795026043260) |
+| [The Little Match Girl, animated picture book](https://x.com/Untethered_X/status/2119341030248165772) | video | [@Untethered_X](https://x.com/Untethered_X) | — |
 | [Blue-haired maid eating rice, reaction GIF](https://x.com/Gorden_Sun/status/2118166046175908016) | image | [@Gorden_Sun](https://x.com/Gorden_Sun) | [Brief](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118166046175908016) |
 | [Pixel-art wizard and fighter action loop](https://x.com/LerSentAI/status/2118173626424025414) | gif | [@LerSentAI](https://x.com/LerSentAI) | — |
 | [Bespectacled man with orange radial backdrop, looping GIF](https://x.com/CuiMao/status/2118271313764925886) | gif | [@CuiMao](https://x.com/CuiMao) | — |

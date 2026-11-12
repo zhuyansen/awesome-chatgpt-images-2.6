@@ -2,34 +2,34 @@
 
 [English](README.md) | 简体中文
 
-X 上用 **ChatGPT Images 2.6**（OpenAI 2026-11-04 发布，API 名 GPT-Image-2.6 Flare / Sunburst）做的图片和 GIF 作品，**60** 个，其中 **17** 个附作者公开的提示词。每天自动更新（最近一次：2026-11-11）。
+X 上用 **ChatGPT Images 2.6**（OpenAI 2026-11-04 发布，API 名 GPT-Image-2.6 Flare / Sunburst）做的图片和 GIF 作品，**68** 个，其中 **20** 个附作者公开的提示词。每天自动更新（最近一次：2026-11-12）。
 
 在线浏览（GIF 可直接播放、提示词一键复制）：**[jasonzhu.ai/zh/prompts/chatgpt-images-2-6](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6)**
 
 <table>
   <tr>
+    <td width="25%" align="center"><a href="https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2120189335194706023"><img src="https://pbs.twimg.com/media/HWxs9f0WoAACu7U?format=jpg&name=small" width="200" alt="电梯镜自拍：GPT Image 2.6 与 Seedream 5.5 对比"></a><br><sub>电梯镜自拍：GPT Image 2.6 与 Seedream 5.5 对比</sub></td>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2118235544459387112"><img src="https://pbs.twimg.com/tweet_video_thumb/HWV7862aEAAFTz1.jpg" width="200" alt="中文 Q 版反应动态表情包"></a><br><sub>中文 Q 版反应动态表情包</sub></td>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2118135343354720648"><img src="https://pbs.twimg.com/amplify_video_thumb/2118130005637308416/img/k0Px0jbGnj348cBm.jpg" width="200" alt="三种复杂度的站立后空翻 GIF"></a><br><sub>三种复杂度的站立后空翻 GIF</sub></td>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2118150226330734787"><img src="https://pbs.twimg.com/media/HWUs6utbwAAgLxv?format=jpg&name=small" width="200" alt="阳光花园里喷水的女性"></a><br><sub>阳光花园里喷水的女性</sub></td>
-    <td width="25%" align="center"><a href="https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2118381855166881928"><img src="https://pbs.twimg.com/media/HWYBDXJboAAM73l?format=jpg&name=small" width="200" alt="两种图像模型的翠鸟入水对比"></a><br><sub>两种图像模型的翠鸟入水对比</sub></td>
   </tr>
   <tr>
+    <td width="25%" align="center"><a href="https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2118381855166881928"><img src="https://pbs.twimg.com/media/HWYBDXJboAAM73l?format=jpg&name=small" width="200" alt="两种图像模型的翠鸟入水对比"></a><br><sub>两种图像模型的翠鸟入水对比</sub></td>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2118308538564989025"><img src="https://pbs.twimg.com/tweet_video_thumb/HWW9tuiWsAArMUF.jpg" width="200" alt="循环 GIF 动图中的旅行风景插画组"></a><br><sub>循环 GIF 动图中的旅行风景插画组</sub></td>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2118408795026043260"><img src="https://pbs.twimg.com/amplify_video_thumb/2118405386575269888/img/IhQYvdATP4n1FINn.jpg" width="200" alt="灰色走廊变木门的动画视频"></a><br><sub>灰色走廊变木门的动画视频</sub></td>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2119088172433109353"><img src="https://pbs.twimg.com/media/HWiDZwFakAEmK99?format=jpg&name=small" width="200" alt="玻璃物件里的微型世界插画海报系列"></a><br><sub>玻璃物件里的微型世界插画海报系列</sub></td>
-    <td width="25%" align="center"><a href="https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2118181775688241456"><img src="https://pbs.twimg.com/tweet_video_thumb/HWVKFMFboAApgRC.jpg" width="200" alt="蓝发女仆反应表情 GIF 动图"></a><br><sub>蓝发女仆反应表情 GIF 动图</sub></td>
   </tr>
 </table>
 
 ## 分类
 
-- [GIF 动图](cases/gif.zh-CN.md)（22）
+- [GIF 动图](cases/gif.zh-CN.md)（23）
 - [人像摄影](cases/portrait.zh-CN.md)（4）
 - [插画动漫](cases/illustration.zh-CN.md)（8）
-- [海报排版](cases/design.zh-CN.md)（9）
+- [海报排版](cases/design.zh-CN.md)（13）
 - [改图与参考图](cases/edit.zh-CN.md)（2）
 - [表情包贴纸](cases/sticker.zh-CN.md)（5）
-- [模型对比](cases/comparison.zh-CN.md)（10）
+- [模型对比](cases/comparison.zh-CN.md)（13）
 
 ## 收录标准
 

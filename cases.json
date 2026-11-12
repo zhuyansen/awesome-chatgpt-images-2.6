@@ -4,8 +4,8 @@
  "released": "2026-11-04T23:35:14Z",
  "inclusion_rule": "Original post by the creator, images / GIF / video attached, >= 5000 views on that post, creator states it was made with ChatGPT Images 2.6 (GPT-Image-2.6). Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-11-11T01:38:00.134Z",
- "updated_at": "2026-11-11T01:38:00.134Z",
+ "stats_checked_at": "2026-11-12T01:45:18.257Z",
+ "updated_at": "2026-11-12T01:45:18.257Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -40,6 +40,51 @@
    ],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2120189335194706023",
+   "category": "comparison",
+   "title": {
+    "zh": "电梯镜自拍：GPT Image 2.6 与 Seedream 5.5 对比",
+    "en": "Elevator mirror portraits: GPT Image 2.6 vs Seedream 5.5"
+   },
+   "creator": {
+    "handle": "simonecanciello",
+    "name": "Simone Canc"
+   },
+   "original_post_url": "https://x.com/simonecanciello/status/2120189335194706023",
+   "posted_at": "2026-11-10T16:18:23.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "photo",
+     "width": 1158,
+     "height": 2048,
+     "thumbnail_url": "https://pbs.twimg.com/media/HWxs9f0WoAACu7U?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1157,
+     "height": 2048,
+     "thumbnail_url": "https://pbs.twimg.com/media/HWxs9foXwAQzped?format=jpg&name=small"
+    }
+   ],
+   "views": 127409,
+   "likes": 790,
+   "bookmarks": 983,
+   "views_checked_at": "2026-11-12T01:45:18.257Z",
+   "tools_reported": [
+    "Seedream 5.5"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/simonecanciello/status/2120190266216718622",
+    "length": 2173,
+    "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2120189335194706023"
+   },
    "resources": []
   },
   {
@@ -651,6 +696,52 @@
    "resources": []
   },
   {
+   "id": "2120163581673230500",
+   "category": "comparison",
+   "title": {
+    "zh": "三种图像模型的沙漠弓箭手人像对比",
+    "en": "Desert archer portraits across three image models"
+   },
+   "creator": {
+    "handle": "EmirAILab",
+    "name": "Emir."
+   },
+   "original_post_url": "https://x.com/EmirAILab/status/2120163581673230500",
+   "posted_at": "2026-11-10T14:36:03.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "photo",
+     "width": 971,
+     "height": 1619,
+     "thumbnail_url": "https://pbs.twimg.com/media/HWxViHBbAAAt7hE?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 971,
+     "height": 1619,
+     "thumbnail_url": "https://pbs.twimg.com/media/HWxViX2aoAAt-hg?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 971,
+     "height": 1619,
+     "thumbnail_url": "https://pbs.twimg.com/media/HWxVioPbgAAio3Y?format=jpg&name=small"
+    }
+   ],
+   "views": 37562,
+   "likes": 142,
+   "bookmarks": 8,
+   "views_checked_at": "2026-11-12T01:45:18.257Z",
+   "tools_reported": [
+    "Seedream 5.5",
+    "Nano Banana"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2118157265480122457",
    "category": "comparison",
    "title": {
@@ -965,6 +1056,37 @@
     "Claude Opus 5.5",
     "fal"
    ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2120320609531875716",
+   "category": "design",
+   "title": {
+    "zh": "亮黑色兔女郎服装设定图",
+    "en": "Glossy black bunny-girl costume reference sheet"
+   },
+   "creator": {
+    "handle": "1banana2546",
+    "name": "バナーナ"
+   },
+   "original_post_url": "https://x.com/1banana2546/status/2120320609531875716",
+   "posted_at": "2026-11-11T01:00:01.000Z",
+   "language": "ja",
+   "media": [
+    {
+     "type": "photo",
+     "width": 1670,
+     "height": 942,
+     "thumbnail_url": "https://pbs.twimg.com/media/HWxFkQ4aQAA9qFp?format=jpg&name=small"
+    }
+   ],
+   "views": 24914,
+   "likes": 467,
+   "bookmarks": 331,
+   "views_checked_at": "2026-11-12T01:45:18.257Z",
+   "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -1291,6 +1413,39 @@
     "Seedance 2.5"
    ],
    "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2120042751509332310",
+   "category": "gif",
+   "title": {
+    "zh": "红色黏土定格动画",
+    "en": "Red clay stop-motion animation"
+   },
+   "creator": {
+    "handle": "lemomo_ai",
+    "name": "Lemomo"
+   },
+   "original_post_url": "https://x.com/lemomo_ai/status/2120042751509332310",
+   "posted_at": "2026-11-10T06:35:55.000Z",
+   "language": "zh",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120042366946168832/img/DQVgTSIDV_ApDCx8.jpg"
+    }
+   ],
+   "views": 18242,
+   "likes": 264,
+   "bookmarks": 203,
+   "views_checked_at": "2026-11-12T01:45:18.257Z",
+   "tools_reported": [
+    "Codex"
+   ],
+   "reference_assets": false,
    "prompt": null,
    "resources": []
   },
@@ -1773,6 +1928,61 @@
    "resources": []
   },
   {
+   "id": "2120183974912036870",
+   "category": "design",
+   "title": {
+    "zh": "颜料、水花、泡泡与蜂蜜冒险海报组",
+    "en": "Paint, water, bubbles and honey adventure posters"
+   },
+   "creator": {
+    "handle": "MrLarus",
+    "name": "Larus Canus"
+   },
+   "original_post_url": "https://x.com/MrLarus/status/2120183974912036870",
+   "posted_at": "2026-11-10T15:57:05.000Z",
+   "language": "zh",
+   "media": [
+    {
+     "type": "photo",
+     "width": 941,
+     "height": 1671,
+     "thumbnail_url": "https://pbs.twimg.com/media/HWxncpkaMAAilRV?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 941,
+     "height": 1671,
+     "thumbnail_url": "https://pbs.twimg.com/media/HWxngMwbkAAI3uH?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 941,
+     "height": 1672,
+     "thumbnail_url": "https://pbs.twimg.com/media/HWxnh1iaAAAm6YH?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 941,
+     "height": 1670,
+     "thumbnail_url": "https://pbs.twimg.com/media/HWxnjTTacAAoggV?format=jpg&name=small"
+    }
+   ],
+   "views": 11986,
+   "likes": 173,
+   "bookmarks": 104,
+   "views_checked_at": "2026-11-12T01:45:18.257Z",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/MrLarus/status/2120184956291088768",
+    "length": 1393,
+    "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2120183974912036870"
+   },
+   "resources": []
+  },
+  {
    "id": "2118164732989608405",
    "category": "gif",
    "title": {
@@ -2133,6 +2343,39 @@
    "resources": []
   },
   {
+   "id": "2119985044542705916",
+   "category": "design",
+   "title": {
+    "zh": "深色创意作品集网站首页",
+    "en": "Dark creative portfolio website homepage"
+   },
+   "creator": {
+    "handle": "viktoroddy",
+    "name": "Viktor Oddy"
+   },
+   "original_post_url": "https://x.com/viktoroddy/status/2119985044542705916",
+   "posted_at": "2026-11-10T02:46:36.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1600,
+     "height": 900,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119984993820897280/img/uTAWiUTErxhNwwG7.jpg"
+    }
+   ],
+   "views": 9217,
+   "likes": 137,
+   "bookmarks": 68,
+   "views_checked_at": "2026-11-12T01:45:18.257Z",
+   "tools_reported": [
+    "Fable 5.2"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2118135257618657778",
    "category": "gif",
    "title": {
@@ -2219,6 +2462,61 @@
    "resources": []
   },
   {
+   "id": "2120192333148987761",
+   "category": "design",
+   "title": {
+    "zh": "手绘人物与写实布料融合的时尚海报",
+    "en": "Hand-drawn figures with photorealistic fashion fabrics"
+   },
+   "creator": {
+    "handle": "MrLarus",
+    "name": "Larus Canus"
+   },
+   "original_post_url": "https://x.com/MrLarus/status/2120192333148987761",
+   "posted_at": "2026-11-10T16:30:18.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "photo",
+     "width": 941,
+     "height": 1671,
+     "thumbnail_url": "https://pbs.twimg.com/media/HWxsQxObUAAN1C6?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 941,
+     "height": 1672,
+     "thumbnail_url": "https://pbs.twimg.com/media/HWxsQwQacAATuNQ?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 941,
+     "height": 1672,
+     "thumbnail_url": "https://pbs.twimg.com/media/HWxsQ7Ja8AAuJ-b?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 941,
+     "height": 1672,
+     "thumbnail_url": "https://pbs.twimg.com/media/HWxsRNoaoAA30Kl?format=jpg&name=small"
+    }
+   ],
+   "views": 7646,
+   "likes": 135,
+   "bookmarks": 86,
+   "views_checked_at": "2026-11-12T01:45:18.257Z",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/MrLarus/status/2120192405186154720",
+    "length": 2735,
+    "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2120192333148987761"
+   },
+   "resources": []
+  },
+  {
    "id": "2118128944058716210",
    "category": "design",
    "title": {
@@ -2277,6 +2575,39 @@
    "views_checked_at": "2026-11-05T16:32:09.076Z",
    "tools_reported": [
     "Codex"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2120147921069019473",
+   "category": "comparison",
+   "title": {
+    "zh": "GPT Image 2.6 与 Seedream 5.5 的动漫角色对比",
+    "en": "Same anime character across GPT Image 2.6 and Seedream 5.5"
+   },
+   "creator": {
+    "handle": "Mayz1169",
+    "name": "Kiki"
+   },
+   "original_post_url": "https://x.com/Mayz1169/status/2120147921069019473",
+   "posted_at": "2026-11-10T13:33:49.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "photo",
+     "width": 2400,
+     "height": 1702,
+     "thumbnail_url": "https://pbs.twimg.com/media/HWxGlombMAEGnhJ?format=jpg&name=small"
+    }
+   ],
+   "views": 6645,
+   "likes": 188,
+   "bookmarks": 37,
+   "views_checked_at": "2026-11-12T01:45:18.257Z",
+   "tools_reported": [
+    "Seedream 5.5"
    ],
    "reference_assets": false,
    "prompt": null,

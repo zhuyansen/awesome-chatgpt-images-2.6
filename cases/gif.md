@@ -1,6 +1,6 @@
 # GIFs & animation
 
-22 works, 8 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+23 works, 8 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Type | Creator | Prompt |
 |---|---|---|---|
@@ -12,6 +12,7 @@
 | [Looping pixel-art character moves: attack, dance and jump](https://x.com/Mayz1169/status/2118670168415182931) | video | [@Mayz1169](https://x.com/Mayz1169) | — |
 | [Illustrated travel scenes in a looping GIF set](https://x.com/devteamdrew/status/2118308538564989025) | gif | [@devteamdrew](https://x.com/devteamdrew) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118308538564989025) |
 | [Grayscale corridor to wooden door, animated video](https://x.com/cocktailpeanut/status/2118408795026043260) | video | [@cocktailpeanut](https://x.com/cocktailpeanut) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118408795026043260) |
+| [Red clay stop-motion animation](https://x.com/lemomo_ai/status/2120042751509332310) | video | [@lemomo_ai](https://x.com/lemomo_ai) | — |
 | [The Little Match Girl, animated picture book](https://x.com/Untethered_X/status/2119341030248165772) | video | [@Untethered_X](https://x.com/Untethered_X) | — |
 | [Blue-haired maid eating rice, reaction GIF](https://x.com/Gorden_Sun/status/2118166046175908016) | image | [@Gorden_Sun](https://x.com/Gorden_Sun) | [Brief](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118166046175908016) |
 | [Pixel-art wizard and fighter action loop](https://x.com/LerSentAI/status/2118173626424025414) | gif | [@LerSentAI](https://x.com/LerSentAI) | — |

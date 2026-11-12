@@ -1,6 +1,6 @@
 # GIF 动图
 
-共 22 个作品，其中 8 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 23 个作品，其中 8 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 类型 | 创作者 | 提示词 |
 |---|---|---|---|
@@ -12,6 +12,7 @@
 | [攻击、跳舞与跳跃的循环像素 GIF](https://x.com/Mayz1169/status/2118670168415182931) | video | [@Mayz1169](https://x.com/Mayz1169) | — |
 | [循环 GIF 动图中的旅行风景插画组](https://x.com/devteamdrew/status/2118308538564989025) | gif | [@devteamdrew](https://x.com/devteamdrew) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2118308538564989025) |
 | [灰色走廊变木门的动画视频](https://x.com/cocktailpeanut/status/2118408795026043260) | video | [@cocktailpeanut](https://x.com/cocktailpeanut) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2118408795026043260) |
+| [红色黏土定格动画](https://x.com/lemomo_ai/status/2120042751509332310) | video | [@lemomo_ai](https://x.com/lemomo_ai) | — |
 | [《卖火柴的小女孩》动画绘本](https://x.com/Untethered_X/status/2119341030248165772) | video | [@Untethered_X](https://x.com/Untethered_X) | — |
 | [蓝发女仆吃白饭的表情 GIF](https://x.com/Gorden_Sun/status/2118166046175908016) | image | [@Gorden_Sun](https://x.com/Gorden_Sun) | [一句话指令](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2118166046175908016) |
 | [像素风法师与格斗家动作循环](https://x.com/LerSentAI/status/2118173626424025414) | gif | [@LerSentAI](https://x.com/LerSentAI) | — |

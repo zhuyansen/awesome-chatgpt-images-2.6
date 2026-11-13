@@ -4,8 +4,8 @@
  "released": "2026-11-04T23:35:14Z",
  "inclusion_rule": "Original post by the creator, images / GIF / video attached, >= 5000 views on that post, creator states it was made with ChatGPT Images 2.6 (GPT-Image-2.6). Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-11-12T01:45:18.257Z",
- "updated_at": "2026-11-12T01:45:18.257Z",
+ "stats_checked_at": "2026-11-13T01:28:09.380Z",
+ "updated_at": "2026-11-13T01:28:09.380Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -88,6 +88,55 @@
    "resources": []
   },
   {
+   "id": "2120469968060043639",
+   "category": "design",
+   "title": {
+    "zh": "中文书法与大字排版的风景海报",
+    "en": "Scenic Chinese calligraphy posters with bold typography"
+   },
+   "creator": {
+    "handle": "Leviwoyun",
+    "name": "Levi 卧云"
+   },
+   "original_post_url": "https://x.com/Leviwoyun/status/2120469968060043639",
+   "posted_at": "2026-11-11T10:53:31.000Z",
+   "language": "zh",
+   "media": [
+    {
+     "type": "photo",
+     "width": 2448,
+     "height": 2832,
+     "thumbnail_url": "https://pbs.twimg.com/media/HW1rljna4AAnSfB?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 2448,
+     "height": 2832,
+     "thumbnail_url": "https://pbs.twimg.com/media/HW1rnLYaQAAF7xH?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 2459,
+     "height": 2998,
+     "thumbnail_url": "https://pbs.twimg.com/media/HW1rpydaMAA3whD?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 2459,
+     "height": 2998,
+     "thumbnail_url": "https://pbs.twimg.com/media/HW1rrDoawAAA5jw?format=jpg&name=small"
+    }
+   ],
+   "views": 120129,
+   "likes": 1952,
+   "bookmarks": 1933,
+   "views_checked_at": "2026-11-13T01:28:09.380Z",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2119841736679686222",
    "category": "design",
    "title": {
@@ -150,6 +199,65 @@
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2120470049672826952",
+   "category": "comparison",
+   "title": {
+    "zh": "四种图像模型生成的香港夜景自拍",
+    "en": "Hong Kong night selfies across four image models"
+   },
+   "creator": {
+    "handle": "VibeEverything",
+    "name": "LOOPY"
+   },
+   "original_post_url": "https://x.com/VibeEverything/status/2120470049672826952",
+   "posted_at": "2026-11-11T10:53:50.000Z",
+   "language": "ko",
+   "media": [
+    {
+     "type": "photo",
+     "width": 2300,
+     "height": 4096,
+     "thumbnail_url": "https://pbs.twimg.com/media/HW1o5d1aUAAD7bb?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1536,
+     "height": 2736,
+     "thumbnail_url": "https://pbs.twimg.com/media/HW1py_Fa8AAGE2y?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1152,
+     "height": 2048,
+     "thumbnail_url": "https://pbs.twimg.com/media/HW1p7o6aMAA7kMZ?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1536,
+     "height": 2752,
+     "thumbnail_url": "https://pbs.twimg.com/media/HW1qAnMbsAADkPn?format=jpg&name=small"
+    }
+   ],
+   "views": 89915,
+   "likes": 794,
+   "bookmarks": 843,
+   "views_checked_at": "2026-11-13T01:28:09.380Z",
+   "tools_reported": [
+    "MiniMax H3 Image",
+    "Seedream 5.5",
+    "Nano Banana 2.1"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/VibeEverything/status/2120470052919271610",
+    "length": 2748,
+    "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2120470049672826952"
+   },
    "resources": []
   },
   {
@@ -1147,6 +1255,59 @@
    "resources": []
   },
   {
+   "id": "2120567673482543108",
+   "category": "comparison",
+   "title": {
+    "zh": "四种图像模型生成的衣帽间趣味自拍",
+    "en": "Playful closet selfies across four image models"
+   },
+   "creator": {
+    "handle": "simonecanciello",
+    "name": "Simone Canc"
+   },
+   "original_post_url": "https://x.com/simonecanciello/status/2120567673482543108",
+   "posted_at": "2026-11-11T17:21:46.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "photo",
+     "width": 1157,
+     "height": 2048,
+     "thumbnail_url": "https://pbs.twimg.com/media/HW3FDf-WoAAARPY?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1158,
+     "height": 2048,
+     "thumbnail_url": "https://pbs.twimg.com/media/HW3FDf0XYAAgVAB?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1143,
+     "height": 2048,
+     "thumbnail_url": "https://pbs.twimg.com/media/HW3FDf1XUAAEdMU?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1150,
+     "height": 2048,
+     "thumbnail_url": "https://pbs.twimg.com/media/HW3FDgeWkAAqpqj?format=jpg&name=small"
+    }
+   ],
+   "views": 22883,
+   "likes": 196,
+   "bookmarks": 189,
+   "views_checked_at": "2026-11-13T01:28:09.380Z",
+   "tools_reported": [
+    "Seedream",
+    "Nano Banana",
+    "Minimax"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2118181775688241456",
    "category": "sticker",
    "title": {
@@ -1925,6 +2086,39 @@
     "length": 1088,
     "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2119426684848107773"
    },
+   "resources": []
+  },
+  {
+   "id": "2120682994029727756",
+   "category": "design",
+   "title": {
+    "zh": "复古怀表知识卡片",
+    "en": "Vintage pocket watch knowledge card"
+   },
+   "creator": {
+    "handle": "Leviwoyun",
+    "name": "Levi 卧云"
+   },
+   "original_post_url": "https://x.com/Leviwoyun/status/2120682994029727756",
+   "posted_at": "2026-11-12T01:00:00.000Z",
+   "language": "zh",
+   "media": [
+    {
+     "type": "video",
+     "width": 1080,
+     "height": 1920,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120680813633409024/img/L_rHPlJeEEBwsLJe.jpg"
+    }
+   ],
+   "views": 12140,
+   "likes": 112,
+   "bookmarks": 100,
+   "views_checked_at": "2026-11-13T01:28:09.380Z",
+   "tools_reported": [
+    "Fable"
+   ],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {

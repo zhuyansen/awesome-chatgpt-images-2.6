@@ -1,6 +1,6 @@
 # 模型对比
 
-共 15 个作品，其中 3 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 16 个作品，其中 3 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 类型 | 创作者 | 提示词 |
 |---|---|---|---|
@@ -17,5 +17,6 @@
 | [两种图像模型的咖啡馆人像对比](https://x.com/ash_twtz/status/2118332926769480091) | image | [@ash_twtz](https://x.com/ash_twtz) | — |
 | [两款彩色甜甜圈店落地页设计](https://x.com/revolvtech/status/2118713676417175785) | image | [@revolvtech](https://x.com/revolvtech) | — |
 | [四页图解式图像创作指南](https://x.com/gufutokuku999/status/2118946557319856526) | image | [@gufutokuku999](https://x.com/gufutokuku999) | — |
+| [四种模型的女性日常人像对比](https://x.com/EEJ_OOXO/status/2120772387348300055) | image | [@EEJ_OOXO](https://x.com/EEJ_OOXO) | — |
 | [同一时尚场景中的两张不同面孔](https://x.com/SOPHIA_AIART/status/2118685698056483227) | image | [@SOPHIA_AIART](https://x.com/SOPHIA_AIART) | — |
 | [GPT Image 2.6 与 Seedream 5.5 的动漫角色对比](https://x.com/Mayz1169/status/2120147921069019473) | image | [@Mayz1169](https://x.com/Mayz1169) | — |

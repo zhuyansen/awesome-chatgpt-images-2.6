@@ -4,8 +4,8 @@
  "released": "2026-11-04T23:35:14Z",
  "inclusion_rule": "Original post by the creator, images / GIF / video attached, >= 5000 views on that post, creator states it was made with ChatGPT Images 2.6 (GPT-Image-2.6). Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-11-13T01:28:09.380Z",
- "updated_at": "2026-11-13T01:28:09.380Z",
+ "stats_checked_at": "2026-11-14T01:24:29.084Z",
+ "updated_at": "2026-11-14T01:24:29.084Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -1800,6 +1800,59 @@
    "views_checked_at": "2026-11-05T16:32:09.076Z",
    "tools_reported": [],
    "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2120772387348300055",
+   "category": "comparison",
+   "title": {
+    "zh": "四种模型的女性日常人像对比",
+    "en": "Four-model comparison of a woman's everyday portraits"
+   },
+   "creator": {
+    "handle": "EEJ_OOXO",
+    "name": "OOXO"
+   },
+   "original_post_url": "https://x.com/EEJ_OOXO/status/2120772387348300055",
+   "posted_at": "2026-11-12T06:55:13.000Z",
+   "language": "ko",
+   "media": [
+    {
+     "type": "photo",
+     "width": 2416,
+     "height": 3216,
+     "thumbnail_url": "https://pbs.twimg.com/media/HW5-lcEb0AABhdu?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 3856,
+     "height": 2176,
+     "thumbnail_url": "https://pbs.twimg.com/media/HW5-lcEbMAAf5ir?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 3016,
+     "height": 3016,
+     "thumbnail_url": "https://pbs.twimg.com/media/HW5-lcGa0AA39e5?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 2176,
+     "height": 3856,
+     "thumbnail_url": "https://pbs.twimg.com/media/HW5-lcDagAAcxb-?format=jpg&name=small"
+    }
+   ],
+   "views": 15751,
+   "likes": 133,
+   "bookmarks": 90,
+   "views_checked_at": "2026-11-14T01:24:29.084Z",
+   "tools_reported": [
+    "Seedream",
+    "Nano Banana",
+    "MiniMax H3 Image"
+   ],
+   "reference_assets": true,
    "prompt": null,
    "resources": []
   },

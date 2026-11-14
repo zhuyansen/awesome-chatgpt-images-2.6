@@ -1,6 +1,6 @@
 # Model comparisons
 
-15 works, 3 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+16 works, 3 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Type | Creator | Prompt |
 |---|---|---|---|
@@ -17,5 +17,6 @@
 | [Café portraits compared across two image models](https://x.com/ash_twtz/status/2118332926769480091) | image | [@ash_twtz](https://x.com/ash_twtz) | — |
 | [Two colorful donut shop landing-page designs](https://x.com/revolvtech/status/2118713676417175785) | image | [@revolvtech](https://x.com/revolvtech) | — |
 | [Four-page illustrated guide to image prompting](https://x.com/gufutokuku999/status/2118946557319856526) | image | [@gufutokuku999](https://x.com/gufutokuku999) | — |
+| [Four-model comparison of a woman's everyday portraits](https://x.com/EEJ_OOXO/status/2120772387348300055) | image | [@EEJ_OOXO](https://x.com/EEJ_OOXO) | — |
 | [Same fashion scene, two different faces](https://x.com/SOPHIA_AIART/status/2118685698056483227) | image | [@SOPHIA_AIART](https://x.com/SOPHIA_AIART) | — |
 | [Same anime character across GPT Image 2.6 and Seedream 5.5](https://x.com/Mayz1169/status/2120147921069019473) | image | [@Mayz1169](https://x.com/Mayz1169) | — |

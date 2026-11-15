@@ -4,8 +4,8 @@
  "released": "2026-11-04T23:35:14Z",
  "inclusion_rule": "Original post by the creator, images / GIF / video attached, >= 5000 views on that post, creator states it was made with ChatGPT Images 2.6 (GPT-Image-2.6). Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-11-14T01:24:29.084Z",
- "updated_at": "2026-11-14T01:24:29.084Z",
+ "stats_checked_at": "2026-11-15T01:21:24.804Z",
+ "updated_at": "2026-11-15T01:21:24.804Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -987,6 +987,40 @@
    "views_checked_at": "2026-11-07T07:43:33.410Z",
    "tools_reported": [
     "Python"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2121361947446677797",
+   "category": "gif",
+   "title": {
+    "zh": "头戴方巾墨镜的苔藓下巴头像动画",
+    "en": "Moss-chinned head in bandana and shades, animated"
+   },
+   "creator": {
+    "handle": "ingi_erlingsson",
+    "name": "Ingi Erlingsson 🪄"
+   },
+   "original_post_url": "https://x.com/ingi_erlingsson/status/2121361947446677797",
+   "posted_at": "2026-11-13T21:57:55.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1080,
+     "height": 1080,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121361296088014848/img/SNi_oFbmZIz8nO0o.jpg"
+    }
+   ],
+   "views": 26724,
+   "likes": 710,
+   "bookmarks": 381,
+   "views_checked_at": "2026-11-15T01:21:24.804Z",
+   "tools_reported": [
+    "Fable 5.2",
+    "ComfyUI"
    ],
    "reference_assets": true,
    "prompt": null,
@@ -2618,6 +2652,37 @@
    "tools_reported": [
     "Fable 5.2"
    ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2121082378047086863",
+   "category": "illustration",
+   "title": {
+    "zh": "紫花映雪的小镇街巷刮刀油画",
+    "en": "Snowy village lane with purple blossoms, palette-knife painting"
+   },
+   "creator": {
+    "handle": "DeryaTR_",
+    "name": "Derya Unutmaz, MD"
+   },
+   "original_post_url": "https://x.com/DeryaTR_/status/2121082378047086863",
+   "posted_at": "2026-11-13T03:27:01.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "photo",
+     "width": 1122,
+     "height": 1402,
+     "thumbnail_url": "https://pbs.twimg.com/media/HW-ZKDCWsAE05sj?format=jpg&name=small"
+    }
+   ],
+   "views": 8638,
+   "likes": 139,
+   "bookmarks": 11,
+   "views_checked_at": "2026-11-15T01:21:24.804Z",
+   "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
    "resources": []

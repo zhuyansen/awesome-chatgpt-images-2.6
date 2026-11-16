@@ -1,6 +1,6 @@
 # Posters, typography & design
 
-15 works, 6 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+18 works, 8 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Type | Creator | Prompt |
 |---|---|---|---|
@@ -16,6 +16,9 @@
 | [Paint, water, bubbles and honey adventure posters](https://x.com/MrLarus/status/2120183974912036870) | image | [@MrLarus](https://x.com/MrLarus) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2120183974912036870) |
 | [Interactive vinyl record store website](https://x.com/AmirMushich/status/2119859995248312662) | video | [@AmirMushich](https://x.com/AmirMushich) | — |
 | [Dark creative portfolio website homepage](https://x.com/viktoroddy/status/2119985044542705916) | video | [@viktoroddy](https://x.com/viktoroddy) | — |
+| [Animated game book menu](https://x.com/Stefan_3D_AI/status/2121647529750311377) | video | [@Stefan_3D_AI](https://x.com/Stefan_3D_AI) | — |
+| [Four typographic landmark posters: New York to Istanbul](https://x.com/Naiknelofar788/status/2121485625769763094) | image | [@Naiknelofar788](https://x.com/Naiknelofar788) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2121485625769763094) |
 | [Hand-drawn figures with photorealistic fashion fabrics](https://x.com/MrLarus/status/2120192333148987761) | image | [@MrLarus](https://x.com/MrLarus) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2120192333148987761) |
 | [Pastel blossoms framing a promotional title card](https://x.com/vikktorrrre/status/2118128944058716210) | image | [@vikktorrrre](https://x.com/vikktorrrre) | — |
 | [Three branded ride-hailing campaigns](https://x.com/Diplomeme/status/2119302158936146170) | image | [@Diplomeme](https://x.com/Diplomeme) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2119302158936146170) |
+| [Four landmark monogram architectural posters](https://x.com/Aiwithkami/status/2121660880178106681) | image | [@Aiwithkami](https://x.com/Aiwithkami) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2121660880178106681) |

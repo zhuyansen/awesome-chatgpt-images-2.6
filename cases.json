@@ -4,8 +4,8 @@
  "released": "2026-11-04T23:35:14Z",
  "inclusion_rule": "Original post by the creator, images / GIF / video attached, >= 5000 views on that post, creator states it was made with ChatGPT Images 2.6 (GPT-Image-2.6). Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-11-15T01:21:24.804Z",
- "updated_at": "2026-11-15T01:21:24.804Z",
+ "stats_checked_at": "2026-11-16T01:28:30.682Z",
+ "updated_at": "2026-11-16T01:28:30.682Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -671,6 +671,46 @@
    "views_checked_at": "2026-11-08T07:39:52.712Z",
    "tools_reported": [],
    "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2121568922285777298",
+   "category": "comparison",
+   "title": {
+    "zh": "两种图像模型的电梯自拍对比",
+    "en": "Two-model comparison of elevator selfies"
+   },
+   "creator": {
+    "handle": "kentdhani",
+    "name": "Kent Dhani"
+   },
+   "original_post_url": "https://x.com/kentdhani/status/2121568922285777298",
+   "posted_at": "2026-11-14T11:40:22.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "photo",
+     "width": 1904,
+     "height": 2544,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXFTBIhboAAqJQ3?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1254,
+     "height": 1254,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXFTCMyb0AApjAv?format=jpg&name=small"
+    }
+   ],
+   "views": 38568,
+   "likes": 304,
+   "bookmarks": 320,
+   "views_checked_at": "2026-11-16T01:28:30.682Z",
+   "tools_reported": [
+    "MiniMax H3-Image",
+    "ComfyUI"
+   ],
+   "reference_assets": false,
    "prompt": null,
    "resources": []
   },
@@ -1436,6 +1476,54 @@
    "reference_assets": false,
    "prompt": null,
    "resources": []
+  },
+  {
+   "id": "2121679564929958152",
+   "category": "comparison",
+   "title": {
+    "zh": "三种图像模型的女性自拍对比",
+    "en": "Three-model comparison of a beauty selfie"
+   },
+   "creator": {
+    "handle": "DavidRunsAds",
+    "name": "David"
+   },
+   "original_post_url": "https://x.com/DavidRunsAds/status/2121679564929958152",
+   "posted_at": "2026-11-14T19:00:01.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "photo",
+     "width": 675,
+     "height": 1199,
+     "thumbnail_url": "https://pbs.twimg.com/media/HW_5aI-WgAANzPM?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 670,
+     "height": 1200,
+     "thumbnail_url": "https://pbs.twimg.com/media/HW_5aH0XkAA9Jbl?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 678,
+     "height": 1199,
+     "thumbnail_url": "https://pbs.twimg.com/media/HW_5aH0W8AA17K0?format=jpg&name=small"
+    }
+   ],
+   "views": 19751,
+   "likes": 227,
+   "bookmarks": 334,
+   "views_checked_at": "2026-11-16T01:28:30.682Z",
+   "tools_reported": [
+    "Nano Banana 2.1",
+    "Seedance 2.5"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": [
+    "https://t.me/davidrunsadsai"
+   ]
   },
   {
    "id": "2118713676417175785",
@@ -2405,6 +2493,37 @@
    "resources": []
   },
   {
+   "id": "2121591769347612821",
+   "category": "illustration",
+   "title": {
+    "zh": "湖畔猫咪与群山的彩绘风景",
+    "en": "Painted lakeside view with cat and mountains"
+   },
+   "creator": {
+    "handle": "DeryaTR_",
+    "name": "Derya Unutmaz, MD"
+   },
+   "original_post_url": "https://x.com/DeryaTR_/status/2121591769347612821",
+   "posted_at": "2026-11-14T13:11:09.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "photo",
+     "width": 1536,
+     "height": 1024,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXFodZLbwAEF0r9?format=jpg&name=small"
+    }
+   ],
+   "views": 10808,
+   "likes": 158,
+   "bookmarks": 11,
+   "views_checked_at": "2026-11-16T01:28:30.682Z",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2118991862564262140",
    "category": "gif",
    "title": {
@@ -2688,6 +2807,42 @@
    "resources": []
   },
   {
+   "id": "2121647529750311377",
+   "category": "design",
+   "title": {
+    "zh": "书本展开式游戏菜单",
+    "en": "Animated game book menu"
+   },
+   "creator": {
+    "handle": "Stefan_3D_AI",
+    "name": "Stefan 3D AI"
+   },
+   "original_post_url": "https://x.com/Stefan_3D_AI/status/2121647529750311377",
+   "posted_at": "2026-11-14T16:52:44.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121647404839849984/img/V6qmZciN5QE6aiJZ.jpg"
+    }
+   ],
+   "views": 8493,
+   "likes": 290,
+   "bookmarks": 112,
+   "views_checked_at": "2026-11-16T01:28:30.682Z",
+   "tools_reported": [
+    "Blender",
+    "Claude Fable 5.2",
+    "Tripo P2.0",
+    "Higgsfield MCP"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2118135257618657778",
    "category": "gif",
    "title": {
@@ -2716,6 +2871,61 @@
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2121485625769763094",
+   "category": "design",
+   "title": {
+    "zh": "纽约至伊斯坦布尔的四张地标字体海报",
+    "en": "Four typographic landmark posters: New York to Istanbul"
+   },
+   "creator": {
+    "handle": "Naiknelofar788",
+    "name": "simeon-sanai"
+   },
+   "original_post_url": "https://x.com/Naiknelofar788/status/2121485625769763094",
+   "posted_at": "2026-11-14T06:09:23.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "photo",
+     "width": 1122,
+     "height": 1402,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXEH5tuacAAE5j2?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1199,
+     "height": 1312,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXEH5toaAAAhoB_?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 800,
+     "height": 800,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXEH5tlaAAA1MID?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1122,
+     "height": 1402,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXEH5tvaoAIrRHH?format=jpg&name=small"
+    }
+   ],
+   "views": 7784,
+   "likes": 184,
+   "bookmarks": 145,
+   "views_checked_at": "2026-11-16T01:28:30.682Z",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "post",
+    "source_url": "https://x.com/Naiknelofar788/status/2121485625769763094",
+    "length": 2784,
+    "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2121485625769763094"
+   },
    "resources": []
   },
   {
@@ -2860,6 +3070,55 @@
    "resources": []
   },
   {
+   "id": "2121765678382252363",
+   "category": "illustration",
+   "title": {
+    "zh": "电影感动漫风的《最终幻想 VII》角色群像",
+    "en": "Final Fantasy VII characters in cinematic anime style"
+   },
+   "creator": {
+    "handle": "AIna_artmusic",
+    "name": "AI.na"
+   },
+   "original_post_url": "https://x.com/AIna_artmusic/status/2121765678382252363",
+   "posted_at": "2026-11-15T00:42:12.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "photo",
+     "width": 941,
+     "height": 1672,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXIGnLKWAAEnEcq?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 941,
+     "height": 1672,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXIGnK_XEAEhdwP?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 941,
+     "height": 1672,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXIGnKjXEAAhd_K?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 941,
+     "height": 1672,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXIGnKkWQAACGZY?format=jpg&name=small"
+    }
+   ],
+   "views": 7216,
+   "likes": 264,
+   "bookmarks": 67,
+   "views_checked_at": "2026-11-16T01:28:30.682Z",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2118241781074862569",
    "category": "gif",
    "title": {
@@ -2971,6 +3230,61 @@
     "source_url": "https://x.com/Diplomeme/status/2119302245233926342",
     "length": 6105,
     "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2119302158936146170"
+   },
+   "resources": []
+  },
+  {
+   "id": "2121660880178106681",
+   "category": "design",
+   "title": {
+    "zh": "四幅地标字母构成建筑海报",
+    "en": "Four landmark monogram architectural posters"
+   },
+   "creator": {
+    "handle": "Aiwithkami",
+    "name": "Kami AI"
+   },
+   "original_post_url": "https://x.com/Aiwithkami/status/2121660880178106681",
+   "posted_at": "2026-11-14T17:45:47.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "photo",
+     "width": 784,
+     "height": 1168,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXGnA-9bIAAW1Ba?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 784,
+     "height": 1168,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXGnGoMaoAA9Zen?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 784,
+     "height": 1168,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXGnONkbgAApZ7k?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 784,
+     "height": 1168,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXGnS8zaQAAxDok?format=jpg&name=small"
+    }
+   ],
+   "views": 5029,
+   "likes": 195,
+   "bookmarks": 111,
+   "views_checked_at": "2026-11-16T01:28:30.682Z",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "post",
+    "source_url": "https://x.com/Aiwithkami/status/2121660880178106681",
+    "length": 2784,
+    "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2121660880178106681"
    },
    "resources": []
   }

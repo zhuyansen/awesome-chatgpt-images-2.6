@@ -1,6 +1,6 @@
 # 海报排版
 
-共 15 个作品，其中 6 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 18 个作品，其中 8 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 类型 | 创作者 | 提示词 |
 |---|---|---|---|
@@ -16,6 +16,9 @@
 | [颜料、水花、泡泡与蜂蜜冒险海报组](https://x.com/MrLarus/status/2120183974912036870) | image | [@MrLarus](https://x.com/MrLarus) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2120183974912036870) |
 | [互动黑胶唱片商店网页](https://x.com/AmirMushich/status/2119859995248312662) | video | [@AmirMushich](https://x.com/AmirMushich) | — |
 | [深色创意作品集网站首页](https://x.com/viktoroddy/status/2119985044542705916) | video | [@viktoroddy](https://x.com/viktoroddy) | — |
+| [书本展开式游戏菜单](https://x.com/Stefan_3D_AI/status/2121647529750311377) | video | [@Stefan_3D_AI](https://x.com/Stefan_3D_AI) | — |
+| [纽约至伊斯坦布尔的四张地标字体海报](https://x.com/Naiknelofar788/status/2121485625769763094) | image | [@Naiknelofar788](https://x.com/Naiknelofar788) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2121485625769763094) |
 | [手绘人物与写实布料融合的时尚海报](https://x.com/MrLarus/status/2120192333148987761) | image | [@MrLarus](https://x.com/MrLarus) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2120192333148987761) |
 | [彩色花朵环绕的宣传标题卡](https://x.com/vikktorrrre/status/2118128944058716210) | image | [@vikktorrrre](https://x.com/vikktorrrre) | — |
 | [三个品牌的网约车广告系列](https://x.com/Diplomeme/status/2119302158936146170) | image | [@Diplomeme](https://x.com/Diplomeme) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2119302158936146170) |
+| [四幅地标字母构成建筑海报](https://x.com/Aiwithkami/status/2121660880178106681) | image | [@Aiwithkami](https://x.com/Aiwithkami) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2121660880178106681) |

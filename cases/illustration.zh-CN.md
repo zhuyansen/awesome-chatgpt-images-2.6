@@ -1,6 +1,6 @@
 # 插画动漫
 
-共 9 个作品，其中 1 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 11 个作品，其中 1 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 类型 | 创作者 | 提示词 |
 |---|---|---|---|
@@ -11,5 +11,7 @@
 | [手绘风雪夜城市爱情动画视频](https://x.com/ZaraIrahh/status/2119293619282567471) | video | [@ZaraIrahh](https://x.com/ZaraIrahh) | — |
 | [生活方式拼贴与圣诞老人熊猫节日手绘](https://x.com/mmmiyama_D/status/2118462563331735755) | image | [@mmmiyama_D](https://x.com/mmmiyama_D) | — |
 | [秋日纽约街头行走的女英雄动画](https://x.com/ZaraIrahh/status/2118655272050663653) | video | [@ZaraIrahh](https://x.com/ZaraIrahh) | — |
+| [湖畔猫咪与群山的彩绘风景](https://x.com/DeryaTR_/status/2121591769347612821) | image | [@DeryaTR_](https://x.com/DeryaTR_) | — |
 | [紫花映雪的小镇街巷刮刀油画](https://x.com/DeryaTR_/status/2121082378047086863) | image | [@DeryaTR_](https://x.com/DeryaTR_) | — |
 | [巨型机械零件上的维修工人组图](https://x.com/MrLarus/status/2119822756347036091) | image | [@MrLarus](https://x.com/MrLarus) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2119822756347036091) |
+| [电影感动漫风的《最终幻想 VII》角色群像](https://x.com/AIna_artmusic/status/2121765678382252363) | image | [@AIna_artmusic](https://x.com/AIna_artmusic) | — |

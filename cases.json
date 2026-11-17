@@ -4,8 +4,8 @@
  "released": "2026-11-04T23:35:14Z",
  "inclusion_rule": "Original post by the creator, images / GIF / video attached, >= 5000 views on that post, creator states it was made with ChatGPT Images 2.6 (GPT-Image-2.6). Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-11-16T01:28:30.682Z",
- "updated_at": "2026-11-16T01:28:30.682Z",
+ "stats_checked_at": "2026-11-17T01:26:49.725Z",
+ "updated_at": "2026-11-17T01:26:49.725Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -3036,6 +3036,37 @@
     "length": 2735,
     "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2120192333148987761"
    },
+   "resources": []
+  },
+  {
+   "id": "2122068315690692778",
+   "category": "illustration",
+   "title": {
+    "zh": "枫树间的秋日村庄屋顶",
+    "en": "Autumn village rooftops among maple trees"
+   },
+   "creator": {
+    "handle": "DeryaTR_",
+    "name": "Derya Unutmaz, MD"
+   },
+   "original_post_url": "https://x.com/DeryaTR_/status/2122068315690692778",
+   "posted_at": "2026-11-15T20:44:47.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "photo",
+     "width": 1254,
+     "height": 1254,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXMZ4X4agAAeLhs?format=jpg&name=small"
+    }
+   ],
+   "views": 7622,
+   "likes": 101,
+   "bookmarks": 3,
+   "views_checked_at": "2026-11-17T01:26:49.725Z",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {

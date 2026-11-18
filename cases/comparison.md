@@ -1,6 +1,6 @@
 # Model comparisons
 
-18 works, 3 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+19 works, 3 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Type | Creator | Prompt |
 |---|---|---|---|
@@ -21,4 +21,5 @@
 | [Four-page illustrated guide to image prompting](https://x.com/gufutokuku999/status/2118946557319856526) | image | [@gufutokuku999](https://x.com/gufutokuku999) | — |
 | [Four-model comparison of a woman's everyday portraits](https://x.com/EEJ_OOXO/status/2120772387348300055) | image | [@EEJ_OOXO](https://x.com/EEJ_OOXO) | — |
 | [Same fashion scene, two different faces](https://x.com/SOPHIA_AIART/status/2118685698056483227) | image | [@SOPHIA_AIART](https://x.com/SOPHIA_AIART) | — |
+| [MiniMax H3-Image vs GPT Image 2.6 portrait comparison](https://x.com/kentdhani/status/2122504273963761736) | image | [@kentdhani](https://x.com/kentdhani) | — |
 | [Same anime character across GPT Image 2.6 and Seedream 5.5](https://x.com/Mayz1169/status/2120147921069019473) | image | [@Mayz1169](https://x.com/Mayz1169) | — |

@@ -1,12 +1,13 @@
 # 海报排版
 
-共 18 个作品，其中 8 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 20 个作品，其中 9 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 类型 | 创作者 | 提示词 |
 |---|---|---|---|
 | [中文书法与大字排版的风景海报](https://x.com/Leviwoyun/status/2120469968060043639) | image | [@Leviwoyun](https://x.com/Leviwoyun) | — |
 | [特拉维夫-雅法等距插画地图](https://x.com/DmytroKrasun/status/2119841736679686222) | video | [@DmytroKrasun](https://x.com/DmytroKrasun) | — |
 | [展示穿搭模特与商品标签的时尚购物界面](https://x.com/viktoroddy/status/2119741442012893369) | video | [@viktoroddy](https://x.com/viktoroddy) | — |
+| [“Money Moves” 金融科技落地页](https://x.com/bogdan_qclay/status/2122244915946225682) | video | [@bogdan_qclay](https://x.com/bogdan_qclay) | — |
 | [聚合物与毒性研究信息图组](https://x.com/guishou_56/status/2119617631422669200) | image | [@guishou_56](https://x.com/guishou_56) | — |
 | [亮黑色兔女郎服装设定图](https://x.com/1banana2546/status/2120320609531875716) | image | [@1banana2546](https://x.com/1banana2546) | — |
 | [玻璃物件里的微型世界插画海报系列](https://x.com/MrLarus/status/2119088172433109353) | image | [@MrLarus](https://x.com/MrLarus) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2119088172433109353) |
@@ -17,6 +18,7 @@
 | [互动黑胶唱片商店网页](https://x.com/AmirMushich/status/2119859995248312662) | video | [@AmirMushich](https://x.com/AmirMushich) | — |
 | [深色创意作品集网站首页](https://x.com/viktoroddy/status/2119985044542705916) | video | [@viktoroddy](https://x.com/viktoroddy) | — |
 | [书本展开式游戏菜单](https://x.com/Stefan_3D_AI/status/2121647529750311377) | video | [@Stefan_3D_AI](https://x.com/Stefan_3D_AI) | — |
+| [嵌套拱门中的超现实地标旅行海报](https://x.com/Naiknelofar788/status/2122546769049624715) | image | [@Naiknelofar788](https://x.com/Naiknelofar788) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2122546769049624715) |
 | [纽约至伊斯坦布尔的四张地标字体海报](https://x.com/Naiknelofar788/status/2121485625769763094) | image | [@Naiknelofar788](https://x.com/Naiknelofar788) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2121485625769763094) |
 | [手绘人物与写实布料融合的时尚海报](https://x.com/MrLarus/status/2120192333148987761) | image | [@MrLarus](https://x.com/MrLarus) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2120192333148987761) |
 | [彩色花朵环绕的宣传标题卡](https://x.com/vikktorrrre/status/2118128944058716210) | image | [@vikktorrrre](https://x.com/vikktorrrre) | — |

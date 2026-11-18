@@ -1,6 +1,6 @@
 # 模型对比
 
-共 18 个作品，其中 3 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 19 个作品，其中 3 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 类型 | 创作者 | 提示词 |
 |---|---|---|---|
@@ -21,4 +21,5 @@
 | [四页图解式图像创作指南](https://x.com/gufutokuku999/status/2118946557319856526) | image | [@gufutokuku999](https://x.com/gufutokuku999) | — |
 | [四种模型的女性日常人像对比](https://x.com/EEJ_OOXO/status/2120772387348300055) | image | [@EEJ_OOXO](https://x.com/EEJ_OOXO) | — |
 | [同一时尚场景中的两张不同面孔](https://x.com/SOPHIA_AIART/status/2118685698056483227) | image | [@SOPHIA_AIART](https://x.com/SOPHIA_AIART) | — |
+| [MiniMax H3-Image 与 GPT Image 2.6 人像对比](https://x.com/kentdhani/status/2122504273963761736) | image | [@kentdhani](https://x.com/kentdhani) | — |
 | [GPT Image 2.6 与 Seedream 5.5 的动漫角色对比](https://x.com/Mayz1169/status/2120147921069019473) | image | [@Mayz1169](https://x.com/Mayz1169) | — |

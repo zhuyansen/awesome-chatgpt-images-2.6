@@ -4,8 +4,8 @@
  "released": "2026-11-04T23:35:14Z",
  "inclusion_rule": "Original post by the creator, images / GIF / video attached, >= 5000 views on that post, creator states it was made with ChatGPT Images 2.6 (GPT-Image-2.6). Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-11-17T01:26:49.725Z",
- "updated_at": "2026-11-17T01:26:49.725Z",
+ "stats_checked_at": "2026-11-18T08:52:06.116Z",
+ "updated_at": "2026-11-18T08:52:06.116Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -429,6 +429,40 @@
    "views_checked_at": "2026-11-07T07:43:33.410Z",
    "tools_reported": [
     "Opus 5.5"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2122244915946225682",
+   "category": "design",
+   "title": {
+    "zh": "“Money Moves” 金融科技落地页",
+    "en": "Money Moves fintech landing page"
+   },
+   "creator": {
+    "handle": "bogdan_qclay",
+    "name": "Bogdan"
+   },
+   "original_post_url": "https://x.com/bogdan_qclay/status/2122244915946225682",
+   "posted_at": "2026-11-16T08:26:32.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 2236,
+     "height": 1440,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122244729429475328/img/PP-8wnD-lC4TytBq.jpg"
+    }
+   ],
+   "views": 54266,
+   "likes": 1757,
+   "bookmarks": 1657,
+   "views_checked_at": "2026-11-18T08:46:36.806Z",
+   "tools_reported": [
+    "Claude",
+    "Meshy"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -1209,6 +1243,39 @@
    "resources": []
   },
   {
+   "id": "2122497368625184947",
+   "category": "product",
+   "title": {
+    "zh": "Berry Oat 植物蛋白棒包装系列",
+    "en": "Berry Oat protein bar packaging lineup"
+   },
+   "creator": {
+    "handle": "viktoroddy",
+    "name": "Viktor Oddy"
+   },
+   "original_post_url": "https://x.com/viktoroddy/status/2122497368625184947",
+   "posted_at": "2026-11-17T01:09:41.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1440,
+     "height": 810,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122496485967417344/img/2Z9-uxOZdVsvfFMP.jpg"
+    }
+   ],
+   "views": 25066,
+   "likes": 437,
+   "bookmarks": 373,
+   "views_checked_at": "2026-11-18T08:46:36.806Z",
+   "tools_reported": [
+    "Claude"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2119436039488156158",
    "category": "illustration",
    "title": {
@@ -1325,6 +1392,55 @@
     "source_url": "https://x.com/MrLarus/status/2119088491657330799",
     "length": 1016,
     "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2119088172433109353"
+   },
+   "resources": []
+  },
+  {
+   "id": "2122186361193341356",
+   "category": "edit",
+   "title": {
+    "zh": "大眼圆框眼镜的可爱 3D 肖像组",
+    "en": "Cute 3D portraits with oversized eyes and glasses"
+   },
+   "creator": {
+    "handle": "oggii_0",
+    "name": "Oogie"
+   },
+   "original_post_url": "https://x.com/oggii_0/status/2122186361193341356",
+   "posted_at": "2026-11-16T04:33:51.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "photo",
+     "width": 1086,
+     "height": 1448,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXOFOrZbsAA0SCr?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1086,
+     "height": 1448,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXOFPLDaIAAg2SH?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1086,
+     "height": 1448,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXOFPniacAECQFI?format=jpg&name=small"
+    }
+   ],
+   "views": 23995,
+   "likes": 441,
+   "bookmarks": 210,
+   "views_checked_at": "2026-11-18T08:46:36.806Z",
+   "tools_reported": [],
+   "reference_assets": true,
+   "prompt": {
+    "kind": "full",
+    "source": "post",
+    "source_url": "https://x.com/oggii_0/status/2122186361193341356",
+    "length": 307,
+    "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2122186361193341356"
    },
    "resources": []
   },
@@ -2080,6 +2196,61 @@
    "resources": []
   },
   {
+   "id": "2122349313770856909",
+   "category": "illustration",
+   "title": {
+    "zh": "手绘人物与小狗的海边故事组",
+    "en": "Hand-drawn seaside stories with a dog"
+   },
+   "creator": {
+    "handle": "MrLarus",
+    "name": "Larus Canus"
+   },
+   "original_post_url": "https://x.com/MrLarus/status/2122349313770856909",
+   "posted_at": "2026-11-16T15:21:22.000Z",
+   "language": "zh",
+   "media": [
+    {
+     "type": "photo",
+     "width": 941,
+     "height": 1672,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXQZQvebAAIW6hh?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 941,
+     "height": 1672,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXQZQvnawAAUpCD?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 941,
+     "height": 1672,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXQZRQda8AAR25q?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 941,
+     "height": 1672,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXQZRnaa4AAzHMC?format=jpg&name=small"
+    }
+   ],
+   "views": 13765,
+   "likes": 217,
+   "bookmarks": 141,
+   "views_checked_at": "2026-11-18T08:46:36.806Z",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/MrLarus/status/2122349497225523483",
+    "length": 1177,
+    "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2122349313770856909"
+   },
+   "resources": []
+  },
+  {
    "id": "2118343700929753503",
    "category": "gif",
    "title": {
@@ -2561,6 +2732,43 @@
    "resources": []
   },
   {
+   "id": "2122336282093469990",
+   "category": "edit",
+   "title": {
+    "zh": "两种视觉风格呈现历史布宜诺斯艾利斯广场",
+    "en": "Historic Buenos Aires plaza in two visual styles"
+   },
+   "creator": {
+    "handle": "mormonnegro",
+    "name": "Mormon Negro"
+   },
+   "original_post_url": "https://x.com/mormonnegro/status/2122336282093469990",
+   "posted_at": "2026-11-16T14:29:35.000Z",
+   "language": "es",
+   "media": [
+    {
+     "type": "photo",
+     "width": 1656,
+     "height": 950,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXQNYR7X0AAVUrR?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 2048,
+     "height": 1176,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXQNgQWWMAADB08?format=jpg&name=small"
+    }
+   ],
+   "views": 10640,
+   "likes": 210,
+   "bookmarks": 25,
+   "views_checked_at": "2026-11-18T08:46:36.806Z",
+   "tools_reported": [],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2119859995248312662",
    "category": "design",
    "title": {
@@ -2843,6 +3051,61 @@
    "resources": []
   },
   {
+   "id": "2122546769049624715",
+   "category": "design",
+   "title": {
+    "zh": "嵌套拱门中的超现实地标旅行海报",
+    "en": "Surreal landmark travel posters with nested arches"
+   },
+   "creator": {
+    "handle": "Naiknelofar788",
+    "name": "simeon-sanai"
+   },
+   "original_post_url": "https://x.com/Naiknelofar788/status/2122546769049624715",
+   "posted_at": "2026-11-17T04:25:59.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "photo",
+     "width": 1086,
+     "height": 1448,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXTNCAQaUAAINm0?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1086,
+     "height": 1448,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXTNCAVb0AAgKdN?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1086,
+     "height": 1448,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXTNCASa4AAVHpO?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1086,
+     "height": 1448,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXTNCAba4AA6GbO?format=jpg&name=small"
+    }
+   ],
+   "views": 7994,
+   "likes": 226,
+   "bookmarks": 130,
+   "views_checked_at": "2026-11-18T08:52:06.116Z",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "post",
+    "source_url": "https://x.com/Naiknelofar788/status/2122546769049624715",
+    "length": 1727,
+    "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2122546769049624715"
+   },
+   "resources": []
+  },
+  {
    "id": "2118135257618657778",
    "category": "gif",
    "title": {
@@ -3096,6 +3359,47 @@
    "bookmarks": 20,
    "views_checked_at": "2026-11-05T16:32:09.076Z",
    "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2122504273963761736",
+   "category": "comparison",
+   "title": {
+    "zh": "MiniMax H3-Image 与 GPT Image 2.6 人像对比",
+    "en": "MiniMax H3-Image vs GPT Image 2.6 portrait comparison"
+   },
+   "creator": {
+    "handle": "kentdhani",
+    "name": "Kent Dhani"
+   },
+   "original_post_url": "https://x.com/kentdhani/status/2122504273963761736",
+   "posted_at": "2026-11-17T01:37:07.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "photo",
+     "width": 2416,
+     "height": 2016,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXSmPFxa8AABGa_?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1024,
+     "height": 1024,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXSmT3dasAANJ5E?format=jpg&name=small"
+    }
+   ],
+   "views": 7301,
+   "likes": 112,
+   "bookmarks": 78,
+   "views_checked_at": "2026-11-18T08:52:06.116Z",
+   "tools_reported": [
+    "MiniMax H3-Image",
+    "Seedream 5.5",
+    "Midjourney v8.2"
+   ],
    "reference_assets": false,
    "prompt": null,
    "resources": []

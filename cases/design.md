@@ -1,12 +1,13 @@
 # Posters, typography & design
 
-18 works, 8 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+20 works, 9 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Type | Creator | Prompt |
 |---|---|---|---|
 | [Scenic Chinese calligraphy posters with bold typography](https://x.com/Leviwoyun/status/2120469968060043639) | image | [@Leviwoyun](https://x.com/Leviwoyun) | — |
 | [Isometric illustrated map of Tel Aviv-Yafo](https://x.com/DmytroKrasun/status/2119841736679686222) | video | [@DmytroKrasun](https://x.com/DmytroKrasun) | — |
 | [Fashion storefront UI with styled models and product labels](https://x.com/viktoroddy/status/2119741442012893369) | video | [@viktoroddy](https://x.com/viktoroddy) | — |
+| [Money Moves fintech landing page](https://x.com/bogdan_qclay/status/2122244915946225682) | video | [@bogdan_qclay](https://x.com/bogdan_qclay) | — |
 | [Scientific infographics on polymers and toxicity](https://x.com/guishou_56/status/2119617631422669200) | image | [@guishou_56](https://x.com/guishou_56) | — |
 | [Glossy black bunny-girl costume reference sheet](https://x.com/1banana2546/status/2120320609531875716) | image | [@1banana2546](https://x.com/1banana2546) | — |
 | [Glass-object micro worlds, illustrated poster series](https://x.com/MrLarus/status/2119088172433109353) | image | [@MrLarus](https://x.com/MrLarus) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2119088172433109353) |
@@ -17,6 +18,7 @@
 | [Interactive vinyl record store website](https://x.com/AmirMushich/status/2119859995248312662) | video | [@AmirMushich](https://x.com/AmirMushich) | — |
 | [Dark creative portfolio website homepage](https://x.com/viktoroddy/status/2119985044542705916) | video | [@viktoroddy](https://x.com/viktoroddy) | — |
 | [Animated game book menu](https://x.com/Stefan_3D_AI/status/2121647529750311377) | video | [@Stefan_3D_AI](https://x.com/Stefan_3D_AI) | — |
+| [Surreal landmark travel posters with nested arches](https://x.com/Naiknelofar788/status/2122546769049624715) | image | [@Naiknelofar788](https://x.com/Naiknelofar788) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2122546769049624715) |
 | [Four typographic landmark posters: New York to Istanbul](https://x.com/Naiknelofar788/status/2121485625769763094) | image | [@Naiknelofar788](https://x.com/Naiknelofar788) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2121485625769763094) |
 | [Hand-drawn figures with photorealistic fashion fabrics](https://x.com/MrLarus/status/2120192333148987761) | image | [@MrLarus](https://x.com/MrLarus) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2120192333148987761) |
 | [Pastel blossoms framing a promotional title card](https://x.com/vikktorrrre/status/2118128944058716210) | image | [@vikktorrrre](https://x.com/vikktorrrre) | — |

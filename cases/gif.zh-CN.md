@@ -1,6 +1,6 @@
 # GIF 动图
 
-共 24 个作品，其中 8 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 25 个作品，其中 8 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 类型 | 创作者 | 提示词 |
 |---|---|---|---|
@@ -16,6 +16,7 @@
 | [红色黏土定格动画](https://x.com/lemomo_ai/status/2120042751509332310) | video | [@lemomo_ai](https://x.com/lemomo_ai) | — |
 | [《卖火柴的小女孩》动画绘本](https://x.com/Untethered_X/status/2119341030248165772) | video | [@Untethered_X](https://x.com/Untethered_X) | — |
 | [蓝发女仆吃白饭的表情 GIF](https://x.com/Gorden_Sun/status/2118166046175908016) | image | [@Gorden_Sun](https://x.com/Gorden_Sun) | [一句话指令](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2118166046175908016) |
+| [草地视角的阳光公园写实短片](https://x.com/Super_Nius/status/2123073957800898969) | video | [@Super_Nius](https://x.com/Super_Nius) | — |
 | [像素风法师与格斗家动作循环](https://x.com/LerSentAI/status/2118173626424025414) | gif | [@LerSentAI](https://x.com/LerSentAI) | — |
 | [橙色放射背景中的眼镜男肖像循环 GIF](https://x.com/CuiMao/status/2118271313764925886) | gif | [@CuiMao](https://x.com/CuiMao) | — |
 | [角色弹跳登场 GIF](https://x.com/YU_TAI2414/status/2118343700929753503) | gif | [@YU_TAI2414](https://x.com/YU_TAI2414) | [一句话指令](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2118343700929753503) |

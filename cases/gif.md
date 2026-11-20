@@ -1,6 +1,6 @@
 # GIFs & animation
 
-24 works, 8 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+25 works, 8 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Type | Creator | Prompt |
 |---|---|---|---|
@@ -16,6 +16,7 @@
 | [Red clay stop-motion animation](https://x.com/lemomo_ai/status/2120042751509332310) | video | [@lemomo_ai](https://x.com/lemomo_ai) | — |
 | [The Little Match Girl, animated picture book](https://x.com/Untethered_X/status/2119341030248165772) | video | [@Untethered_X](https://x.com/Untethered_X) | — |
 | [Blue-haired maid eating rice, reaction GIF](https://x.com/Gorden_Sun/status/2118166046175908016) | image | [@Gorden_Sun](https://x.com/Gorden_Sun) | [Brief](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118166046175908016) |
+| [Grass-level journey through a sunlit park, video](https://x.com/Super_Nius/status/2123073957800898969) | video | [@Super_Nius](https://x.com/Super_Nius) | — |
 | [Pixel-art wizard and fighter action loop](https://x.com/LerSentAI/status/2118173626424025414) | gif | [@LerSentAI](https://x.com/LerSentAI) | — |
 | [Bespectacled man with orange radial backdrop, looping GIF](https://x.com/CuiMao/status/2118271313764925886) | gif | [@CuiMao](https://x.com/CuiMao) | — |
 | [Bouncing character entrance GIF](https://x.com/YU_TAI2414/status/2118343700929753503) | gif | [@YU_TAI2414](https://x.com/YU_TAI2414) | [Brief](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118343700929753503) |

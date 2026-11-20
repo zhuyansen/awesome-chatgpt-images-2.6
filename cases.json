@@ -4,8 +4,8 @@
  "released": "2026-11-04T23:35:14Z",
  "inclusion_rule": "Original post by the creator, images / GIF / video attached, >= 5000 views on that post, creator states it was made with ChatGPT Images 2.6 (GPT-Image-2.6). Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-11-18T08:52:06.116Z",
- "updated_at": "2026-11-18T08:52:06.116Z",
+ "stats_checked_at": "2026-11-20T01:22:24.248Z",
+ "updated_at": "2026-11-20T01:22:24.248Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -517,6 +517,37 @@
     "Opus 5.5",
     "Gemini Omni Flash"
    ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2123039101318255047",
+   "category": "design",
+   "title": {
+    "zh": "喜庆红色插画微信红包封面",
+    "en": "Festive red illustrated WeChat envelope cover"
+   },
+   "creator": {
+    "handle": "VaneAILab",
+    "name": "不叫韦恩"
+   },
+   "original_post_url": "https://x.com/VaneAILab/status/2123039101318255047",
+   "posted_at": "2026-11-18T13:02:20.000Z",
+   "language": "zh",
+   "media": [
+    {
+     "type": "photo",
+     "width": 1200,
+     "height": 675,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXaMzaMboAAMgFE?format=jpg&name=small"
+    }
+   ],
+   "views": 45438,
+   "likes": 335,
+   "bookmarks": 328,
+   "views_checked_at": "2026-11-20T01:22:24.248Z",
+   "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -1341,6 +1372,41 @@
    "resources": []
   },
   {
+   "id": "2122969346935017497",
+   "category": "illustration",
+   "title": {
+    "zh": "粉彩剪纸风游戏场景中的微笑团子",
+    "en": "Smiling blob in a pastel paper-cut game landscape"
+   },
+   "creator": {
+    "handle": "kevin_t_ngo",
+    "name": "Kevin Ngo"
+   },
+   "original_post_url": "https://x.com/kevin_t_ngo/status/2122969346935017497",
+   "posted_at": "2026-11-18T08:25:09.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 3840,
+     "height": 2160,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122967328568827904/img/MMJhfmzUHB0dEaiW.jpg"
+    }
+   ],
+   "views": 24357,
+   "likes": 477,
+   "bookmarks": 278,
+   "views_checked_at": "2026-11-20T01:22:24.248Z",
+   "tools_reported": [
+    "Fable 5.2",
+    "fal",
+    "ElevenLabs SFX"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2119088172433109353",
    "category": "design",
    "title": {
@@ -2005,6 +2071,40 @@
    "resources": []
   },
   {
+   "id": "2123073957800898969",
+   "category": "gif",
+   "title": {
+    "zh": "草地视角的阳光公园写实短片",
+    "en": "Grass-level journey through a sunlit park, video"
+   },
+   "creator": {
+    "handle": "Super_Nius",
+    "name": "Super Niu"
+   },
+   "original_post_url": "https://x.com/Super_Nius/status/2123073957800898969",
+   "posted_at": "2026-11-18T15:20:51.000Z",
+   "language": "zh",
+   "media": [
+    {
+     "type": "video",
+     "width": 1280,
+     "height": 720,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123046419506323456/img/5Pt11Vpt1b_VXg5y.jpg"
+    }
+   ],
+   "views": 16536,
+   "likes": 104,
+   "bookmarks": 67,
+   "views_checked_at": "2026-11-20T01:22:24.248Z",
+   "tools_reported": [
+    "GPT 6.2 Astra",
+    "Seedance"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2118173626424025414",
    "category": "gif",
    "title": {
@@ -2629,6 +2729,61 @@
     "source_url": "https://x.com/MiraMusic_AI/status/2118513591490163168",
     "length": 77,
     "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118513591490163168"
+   },
+   "resources": []
+  },
+  {
+   "id": "2123104862523306337",
+   "category": "edit",
+   "title": {
+    "zh": "四幅 GTA VI 风格角色加载画面",
+    "en": "Four GTA VI-style character loading screens"
+   },
+   "creator": {
+    "handle": "Goodmanprotocol",
+    "name": "Saul Goodman"
+   },
+   "original_post_url": "https://x.com/Goodmanprotocol/status/2123104862523306337",
+   "posted_at": "2026-11-18T17:23:39.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "photo",
+     "width": 1122,
+     "height": 1402,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXbIlDqagAAzwcv?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1122,
+     "height": 1402,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXbIlxVbUAEDny7?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1122,
+     "height": 1402,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXbImcMaMAAj2OQ?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1122,
+     "height": 1402,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXbInJla0AAnf8E?format=jpg&name=small"
+    }
+   ],
+   "views": 11191,
+   "likes": 136,
+   "bookmarks": 98,
+   "views_checked_at": "2026-11-20T01:22:24.248Z",
+   "tools_reported": [],
+   "reference_assets": true,
+   "prompt": {
+    "kind": "full",
+    "source": "post",
+    "source_url": "https://x.com/Goodmanprotocol/status/2123104862523306337",
+    "length": 3036,
+    "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2123104862523306337"
    },
    "resources": []
   },

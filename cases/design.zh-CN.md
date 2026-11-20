@@ -1,6 +1,6 @@
 # 海报排版
 
-共 20 个作品，其中 9 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 21 个作品，其中 9 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 类型 | 创作者 | 提示词 |
 |---|---|---|---|
@@ -8,6 +8,7 @@
 | [特拉维夫-雅法等距插画地图](https://x.com/DmytroKrasun/status/2119841736679686222) | video | [@DmytroKrasun](https://x.com/DmytroKrasun) | — |
 | [展示穿搭模特与商品标签的时尚购物界面](https://x.com/viktoroddy/status/2119741442012893369) | video | [@viktoroddy](https://x.com/viktoroddy) | — |
 | [“Money Moves” 金融科技落地页](https://x.com/bogdan_qclay/status/2122244915946225682) | video | [@bogdan_qclay](https://x.com/bogdan_qclay) | — |
+| [喜庆红色插画微信红包封面](https://x.com/VaneAILab/status/2123039101318255047) | image | [@VaneAILab](https://x.com/VaneAILab) | — |
 | [聚合物与毒性研究信息图组](https://x.com/guishou_56/status/2119617631422669200) | image | [@guishou_56](https://x.com/guishou_56) | — |
 | [亮黑色兔女郎服装设定图](https://x.com/1banana2546/status/2120320609531875716) | image | [@1banana2546](https://x.com/1banana2546) | — |
 | [玻璃物件里的微型世界插画海报系列](https://x.com/MrLarus/status/2119088172433109353) | image | [@MrLarus](https://x.com/MrLarus) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2119088172433109353) |

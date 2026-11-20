@@ -1,6 +1,6 @@
 # Posters, typography & design
 
-20 works, 9 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+21 works, 9 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Type | Creator | Prompt |
 |---|---|---|---|
@@ -8,6 +8,7 @@
 | [Isometric illustrated map of Tel Aviv-Yafo](https://x.com/DmytroKrasun/status/2119841736679686222) | video | [@DmytroKrasun](https://x.com/DmytroKrasun) | — |
 | [Fashion storefront UI with styled models and product labels](https://x.com/viktoroddy/status/2119741442012893369) | video | [@viktoroddy](https://x.com/viktoroddy) | — |
 | [Money Moves fintech landing page](https://x.com/bogdan_qclay/status/2122244915946225682) | video | [@bogdan_qclay](https://x.com/bogdan_qclay) | — |
+| [Festive red illustrated WeChat envelope cover](https://x.com/VaneAILab/status/2123039101318255047) | image | [@VaneAILab](https://x.com/VaneAILab) | — |
 | [Scientific infographics on polymers and toxicity](https://x.com/guishou_56/status/2119617631422669200) | image | [@guishou_56](https://x.com/guishou_56) | — |
 | [Glossy black bunny-girl costume reference sheet](https://x.com/1banana2546/status/2120320609531875716) | image | [@1banana2546](https://x.com/1banana2546) | — |
 | [Glass-object micro worlds, illustrated poster series](https://x.com/MrLarus/status/2119088172433109353) | image | [@MrLarus](https://x.com/MrLarus) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2119088172433109353) |

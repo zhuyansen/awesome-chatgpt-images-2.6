@@ -2,7 +2,7 @@
 
 [English](README.md) | 简体中文
 
-X 上用 **ChatGPT Images 2.6**（OpenAI 2026-11-04 发布，API 名 GPT-Image-2.6 Flare / Sunburst）做的图片和 GIF 作品，**94** 个，其中 **27** 个附作者公开的提示词。每天自动更新（最近一次：2026-11-20）。
+X 上用 **ChatGPT Images 2.6**（OpenAI 2026-11-04 发布，API 名 GPT-Image-2.6 Flare / Sunburst）做的图片和 GIF 作品，**95** 个，其中 **28** 个附作者公开的提示词。每天自动更新（最近一次：2026-11-21）。
 
 在线浏览（GIF 可直接播放、提示词一键复制）：**[jasonzhu.ai/zh/prompts/chatgpt-images-2-6](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6)**
 
@@ -17,7 +17,7 @@ X 上用 **ChatGPT Images 2.6**（OpenAI 2026-11-04 发布，API 名 GPT-Image-2
     <td width="25%" align="center"><a href="https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2118150226330734787"><img src="https://pbs.twimg.com/media/HWUs6utbwAAgLxv?format=jpg&name=small" width="200" alt="阳光花园里喷水的女性"></a><br><sub>阳光花园里喷水的女性</sub></td>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2118381855166881928"><img src="https://pbs.twimg.com/media/HWYBDXJboAAM73l?format=jpg&name=small" width="200" alt="两种图像模型的翠鸟入水对比"></a><br><sub>两种图像模型的翠鸟入水对比</sub></td>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2118308538564989025"><img src="https://pbs.twimg.com/tweet_video_thumb/HWW9tuiWsAArMUF.jpg" width="200" alt="循环 GIF 动图中的旅行风景插画组"></a><br><sub>循环 GIF 动图中的旅行风景插画组</sub></td>
-    <td width="25%" align="center"><a href="https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2118408795026043260"><img src="https://pbs.twimg.com/amplify_video_thumb/2118405386575269888/img/IhQYvdATP4n1FINn.jpg" width="200" alt="灰色走廊变木门的动画视频"></a><br><sub>灰色走廊变木门的动画视频</sub></td>
+    <td width="25%" align="center"><a href="https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2123499286222741652"><img src="https://pbs.twimg.com/media/HXgvFslbcAAk6fP?format=jpg&name=small" width="200" alt="安娜·德·阿玛斯与罗伯特·帕丁森的 GTA VI 风角色海报"></a><br><sub>安娜·德·阿玛斯与罗伯特·帕丁森的 GTA VI 风角色海报</sub></td>
   </tr>
 </table>
 
@@ -28,7 +28,7 @@ X 上用 **ChatGPT Images 2.6**（OpenAI 2026-11-04 发布，API 名 GPT-Image-2
 - [插画动漫](cases/illustration.zh-CN.md)（14）
 - [产品广告](cases/product.zh-CN.md)（1）
 - [海报排版](cases/design.zh-CN.md)（21）
-- [改图与参考图](cases/edit.zh-CN.md)（5）
+- [改图与参考图](cases/edit.zh-CN.md)（6）
 - [表情包贴纸](cases/sticker.zh-CN.md)（5）
 - [模型对比](cases/comparison.zh-CN.md)（19）
 

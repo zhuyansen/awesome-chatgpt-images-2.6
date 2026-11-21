@@ -2,7 +2,7 @@
 
 English | [简体中文](README.zh-CN.md)
 
-Images and GIFs made with **ChatGPT Images 2.6** (OpenAI, released 2026-11-04; GPT-Image-2.6 Flare / Sunburst in the API) by creators on X: **94** works, **27** with the prompt the creator shared. Updated daily (last update: 2026-11-20).
+Images and GIFs made with **ChatGPT Images 2.6** (OpenAI, released 2026-11-04; GPT-Image-2.6 Flare / Sunburst in the API) by creators on X: **95** works, **28** with the prompt the creator shared. Updated daily (last update: 2026-11-21).
 
 Browse with playable GIFs and one-click copy: **[jasonzhu.ai/en/prompts/chatgpt-images-2-6](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6)**
 
@@ -17,7 +17,7 @@ Browse with playable GIFs and one-click copy: **[jasonzhu.ai/en/prompts/chatgpt-
     <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118150226330734787"><img src="https://pbs.twimg.com/media/HWUs6utbwAAgLxv?format=jpg&name=small" width="200" alt="Woman spraying water in a sunny garden"></a><br><sub>Woman spraying water in a sunny garden</sub></td>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118381855166881928"><img src="https://pbs.twimg.com/media/HWYBDXJboAAM73l?format=jpg&name=small" width="200" alt="Kingfisher diving comparison across two image models"></a><br><sub>Kingfisher diving comparison across two image models</sub></td>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118308538564989025"><img src="https://pbs.twimg.com/tweet_video_thumb/HWW9tuiWsAArMUF.jpg" width="200" alt="Illustrated travel scenes in a looping GIF set"></a><br><sub>Illustrated travel scenes in a looping GIF set</sub></td>
-    <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118408795026043260"><img src="https://pbs.twimg.com/amplify_video_thumb/2118405386575269888/img/IhQYvdATP4n1FINn.jpg" width="200" alt="Grayscale corridor to wooden door, animated video"></a><br><sub>Grayscale corridor to wooden door, animated video</sub></td>
+    <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2123499286222741652"><img src="https://pbs.twimg.com/media/HXgvFslbcAAk6fP?format=jpg&name=small" width="200" alt="De Armas and Pattinson in GTA VI-style character posters"></a><br><sub>De Armas and Pattinson in GTA VI-style character posters</sub></td>
   </tr>
 </table>
 
@@ -28,7 +28,7 @@ Browse with playable GIFs and one-click copy: **[jasonzhu.ai/en/prompts/chatgpt-
 - [Illustration & anime](cases/illustration.md) (14)
 - [Product shots & ads](cases/product.md) (1)
 - [Posters, typography & design](cases/design.md) (21)
-- [Photo edits & reference images](cases/edit.md) (5)
+- [Photo edits & reference images](cases/edit.md) (6)
 - [Stickers & memes](cases/sticker.md) (5)
 - [Model comparisons](cases/comparison.md) (19)
 

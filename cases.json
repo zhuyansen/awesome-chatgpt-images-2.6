@@ -4,8 +4,8 @@
  "released": "2026-11-04T23:35:14Z",
  "inclusion_rule": "Original post by the creator, images / GIF / video attached, >= 5000 views on that post, creator states it was made with ChatGPT Images 2.6 (GPT-Image-2.6). Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-11-20T01:22:24.248Z",
- "updated_at": "2026-11-20T01:22:24.248Z",
+ "stats_checked_at": "2026-11-21T01:27:06.565Z",
+ "updated_at": "2026-11-21T01:27:06.565Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -985,6 +985,51 @@
    ],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2123499286222741652",
+   "category": "edit",
+   "title": {
+    "zh": "安娜·德·阿玛斯与罗伯特·帕丁森的 GTA VI 风角色海报",
+    "en": "De Armas and Pattinson in GTA VI-style character posters"
+   },
+   "creator": {
+    "handle": "Just_sharon7",
+    "name": "Sharon Riley"
+   },
+   "original_post_url": "https://x.com/Just_sharon7/status/2123499286222741652",
+   "posted_at": "2026-11-19T19:30:57.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "photo",
+     "width": 2336,
+     "height": 1744,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXgvFslbcAAk6fP?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 2336,
+     "height": 1744,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXgvHOpb0AARaTd?format=jpg&name=small"
+    }
+   ],
+   "views": 30539,
+   "likes": 354,
+   "bookmarks": 9,
+   "views_checked_at": "2026-11-21T01:27:06.565Z",
+   "tools_reported": [
+    "TapNow"
+   ],
+   "reference_assets": true,
+   "prompt": {
+    "kind": "full",
+    "source": "post",
+    "source_url": "https://x.com/Just_sharon7/status/2123499286222741652",
+    "length": 7791,
+    "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2123499286222741652"
+   },
    "resources": []
   },
   {

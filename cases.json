@@ -4,8 +4,8 @@
  "released": "2026-11-04T23:35:14Z",
  "inclusion_rule": "Original post by the creator, images / GIF / video attached, >= 5000 views on that post, creator states it was made with ChatGPT Images 2.6 (GPT-Image-2.6). Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-11-21T01:27:06.565Z",
- "updated_at": "2026-11-21T01:27:06.565Z",
+ "stats_checked_at": "2026-11-22T01:26:23.406Z",
+ "updated_at": "2026-11-22T01:26:23.406Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -518,6 +518,55 @@
     "Gemini Omni Flash"
    ],
    "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2123691270187196559",
+   "category": "edit",
+   "title": {
+    "zh": "穿新年服饰的白猫影棚九宫格写真",
+    "en": "White cat in Chinese New Year studio portrait grids"
+   },
+   "creator": {
+    "handle": "VaneAILab",
+    "name": "不叫韦恩"
+   },
+   "original_post_url": "https://x.com/VaneAILab/status/2123691270187196559",
+   "posted_at": "2026-11-20T08:13:49.000Z",
+   "language": "zh",
+   "media": [
+    {
+     "type": "photo",
+     "width": 1086,
+     "height": 1448,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXjdw0sbYAAXzAI?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1086,
+     "height": 1448,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXjdw0zbYAEutNl?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1086,
+     "height": 1448,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXjdw0pagAEQHNv?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1086,
+     "height": 1448,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXjdw0pakAAdyZH?format=jpg&name=small"
+    }
+   ],
+   "views": 49192,
+   "likes": 298,
+   "bookmarks": 322,
+   "views_checked_at": "2026-11-22T01:26:23.406Z",
+   "tools_reported": [],
+   "reference_assets": true,
    "prompt": null,
    "resources": []
   },
@@ -1609,6 +1658,63 @@
    "resources": []
   },
   {
+   "id": "2123822959085412744",
+   "category": "illustration",
+   "title": {
+    "zh": "复古博物志手绘风 GTA 角色研究图鉴",
+    "en": "GTA characters as vintage natural history study plates"
+   },
+   "creator": {
+    "handle": "Just_sharon7",
+    "name": "Sharon Riley"
+   },
+   "original_post_url": "https://x.com/Just_sharon7/status/2123822959085412744",
+   "posted_at": "2026-11-20T16:57:06.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "photo",
+     "width": 1792,
+     "height": 2240,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXlVaHxa0AADEvI?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1792,
+     "height": 2240,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXlVed4bgAAtLBa?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1792,
+     "height": 2240,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXlVeeBbMAAwFDG?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1792,
+     "height": 2240,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXlVedyaMAAoFzC?format=jpg&name=small"
+    }
+   ],
+   "views": 22375,
+   "likes": 309,
+   "bookmarks": 33,
+   "views_checked_at": "2026-11-22T01:26:23.406Z",
+   "tools_reported": [
+    "TapNow AI"
+   ],
+   "reference_assets": true,
+   "prompt": {
+    "kind": "full",
+    "source": "post",
+    "source_url": "https://x.com/Just_sharon7/status/2123822959085412744",
+    "length": 7844,
+    "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2123822959085412744"
+   },
+   "resources": []
+  },
+  {
    "id": "2118181775688241456",
    "category": "sticker",
    "title": {
@@ -2147,6 +2253,63 @@
    ],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2123882892279349442",
+   "category": "illustration",
+   "title": {
+    "zh": "四种水果的复古博物志植物学手绘图鉴",
+    "en": "Vintage botanical illustration plates of four fruits"
+   },
+   "creator": {
+    "handle": "sipteaandcoffee",
+    "name": "kold Coffee"
+   },
+   "original_post_url": "https://x.com/sipteaandcoffee/status/2123882892279349442",
+   "posted_at": "2026-11-20T20:55:16.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "photo",
+     "width": 1792,
+     "height": 2240,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXmMK_La8AATx1V?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1792,
+     "height": 2240,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXmMK-lbQAAk6CQ?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1792,
+     "height": 2240,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXmMK_MakAAQj1O?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1792,
+     "height": 2240,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXmMK_KaoAA-pvu?format=jpg&name=small"
+    }
+   ],
+   "views": 15855,
+   "likes": 103,
+   "bookmarks": 4,
+   "views_checked_at": "2026-11-22T01:26:23.406Z",
+   "tools_reported": [
+    "TapNow AI"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "post",
+    "source_url": "https://x.com/sipteaandcoffee/status/2123882892279349442",
+    "length": 886,
+    "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2123882892279349442"
+   },
    "resources": []
   },
   {
@@ -3651,6 +3814,61 @@
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2123829307579785405",
+   "category": "edit",
+   "title": {
+    "zh": "四张 GTA VI 罪恶都市风格角色海报",
+    "en": "Four GTA VI Vice City style character posters"
+   },
+   "creator": {
+    "handle": "Goodmanprotocol",
+    "name": "Saul Goodman"
+   },
+   "original_post_url": "https://x.com/Goodmanprotocol/status/2123829307579785405",
+   "posted_at": "2026-11-20T17:22:20.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "photo",
+     "width": 1122,
+     "height": 1402,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXlbdXnagAAq3Jw?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1122,
+     "height": 1402,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXlbeILasAAhQdH?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1122,
+     "height": 1402,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXlbe0DaYAAP4_B?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1122,
+     "height": 1402,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXlbfhabkAABSi0?format=jpg&name=small"
+    }
+   ],
+   "views": 7140,
+   "likes": 151,
+   "bookmarks": 82,
+   "views_checked_at": "2026-11-22T01:26:23.406Z",
+   "tools_reported": [],
+   "reference_assets": true,
+   "prompt": {
+    "kind": "full",
+    "source": "post",
+    "source_url": "https://x.com/Goodmanprotocol/status/2123829307579785405",
+    "length": 2874,
+    "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2123829307579785405"
+   },
    "resources": []
   },
   {

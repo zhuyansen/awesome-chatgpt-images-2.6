@@ -1,6 +1,6 @@
 # GIF 动图
 
-共 25 个作品，其中 8 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 26 个作品，其中 8 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 类型 | 创作者 | 提示词 |
 |---|---|---|---|
@@ -13,6 +13,7 @@
 | [循环 GIF 动图中的旅行风景插画组](https://x.com/devteamdrew/status/2118308538564989025) | gif | [@devteamdrew](https://x.com/devteamdrew) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2118308538564989025) |
 | [灰色走廊变木门的动画视频](https://x.com/cocktailpeanut/status/2118408795026043260) | video | [@cocktailpeanut](https://x.com/cocktailpeanut) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2118408795026043260) |
 | [头戴方巾墨镜的苔藓下巴头像动画](https://x.com/ingi_erlingsson/status/2121361947446677797) | video | [@ingi_erlingsson](https://x.com/ingi_erlingsson) | — |
+| [白发麻花辫少女日落场景，3D 游戏电影预告片](https://x.com/kevin_t_ngo/status/2124213815697158160) | video | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | — |
 | [红色黏土定格动画](https://x.com/lemomo_ai/status/2120042751509332310) | video | [@lemomo_ai](https://x.com/lemomo_ai) | — |
 | [《卖火柴的小女孩》动画绘本](https://x.com/Untethered_X/status/2119341030248165772) | video | [@Untethered_X](https://x.com/Untethered_X) | — |
 | [蓝发女仆吃白饭的表情 GIF](https://x.com/Gorden_Sun/status/2118166046175908016) | image | [@Gorden_Sun](https://x.com/Gorden_Sun) | [一句话指令](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2118166046175908016) |

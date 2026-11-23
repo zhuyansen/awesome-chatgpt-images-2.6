@@ -1,6 +1,6 @@
 # GIFs & animation
 
-25 works, 8 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+26 works, 8 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Type | Creator | Prompt |
 |---|---|---|---|
@@ -13,6 +13,7 @@
 | [Illustrated travel scenes in a looping GIF set](https://x.com/devteamdrew/status/2118308538564989025) | gif | [@devteamdrew](https://x.com/devteamdrew) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118308538564989025) |
 | [Grayscale corridor to wooden door, animated video](https://x.com/cocktailpeanut/status/2118408795026043260) | video | [@cocktailpeanut](https://x.com/cocktailpeanut) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118408795026043260) |
 | [Moss-chinned head in bandana and shades, animated](https://x.com/ingi_erlingsson/status/2121361947446677797) | video | [@ingi_erlingsson](https://x.com/ingi_erlingsson) | — |
+| [Animated 3D girl with white braid in sunset game trailer](https://x.com/kevin_t_ngo/status/2124213815697158160) | video | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | — |
 | [Red clay stop-motion animation](https://x.com/lemomo_ai/status/2120042751509332310) | video | [@lemomo_ai](https://x.com/lemomo_ai) | — |
 | [The Little Match Girl, animated picture book](https://x.com/Untethered_X/status/2119341030248165772) | video | [@Untethered_X](https://x.com/Untethered_X) | — |
 | [Blue-haired maid eating rice, reaction GIF](https://x.com/Gorden_Sun/status/2118166046175908016) | image | [@Gorden_Sun](https://x.com/Gorden_Sun) | [Brief](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118166046175908016) |

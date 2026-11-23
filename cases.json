@@ -4,8 +4,8 @@
  "released": "2026-11-04T23:35:14Z",
  "inclusion_rule": "Original post by the creator, images / GIF / video attached, >= 5000 views on that post, creator states it was made with ChatGPT Images 2.6 (GPT-Image-2.6). Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-11-22T01:26:23.406Z",
- "updated_at": "2026-11-22T01:26:23.406Z",
+ "stats_checked_at": "2026-11-23T01:29:18.983Z",
+ "updated_at": "2026-11-23T01:29:18.983Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -465,6 +465,41 @@
     "Meshy"
    ],
    "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2124144021392232613",
+   "category": "product",
+   "title": {
+    "zh": "日落海滨公路敞篷车，GTA 风格车险广告视频",
+    "en": "Sunset coastal drive, GTA-style car insurance video ad"
+   },
+   "creator": {
+    "handle": "Avenoxai",
+    "name": "Avenox"
+   },
+   "original_post_url": "https://x.com/Avenoxai/status/2124144021392232613",
+   "posted_at": "2026-11-21T14:12:54.000Z",
+   "language": "tr",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124143972864122880/img/RftMx0hTci_mYZ2Y.jpg"
+    }
+   ],
+   "views": 52993,
+   "likes": 206,
+   "bookmarks": 200,
+   "views_checked_at": "2026-11-23T01:29:18.983Z",
+   "tools_reported": [
+    "Claude Fable",
+    "Seedance",
+    "Claude Code"
+   ],
+   "reference_assets": true,
    "prompt": null,
    "resources": []
   },
@@ -1368,6 +1403,63 @@
    "resources": []
   },
   {
+   "id": "2124234296877809889",
+   "category": "design",
+   "title": {
+    "zh": "四款弧形镂空纸艺美妆杂志封面设计",
+    "en": "Four crescent paper-cutout beauty magazine covers"
+   },
+   "creator": {
+    "handle": "sipteaandcoffee",
+    "name": "kold Coffee"
+   },
+   "original_post_url": "https://x.com/sipteaandcoffee/status/2124234296877809889",
+   "posted_at": "2026-11-21T20:11:37.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "photo",
+     "width": 1744,
+     "height": 2336,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXrKl5ZbQAATWjU?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 880,
+     "height": 1168,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXrKolUaIAAB54P?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1744,
+     "height": 2336,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXrKqnfasAARjrC?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 880,
+     "height": 1168,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXrKr20bgAABKjP?format=jpg&name=small"
+    }
+   ],
+   "views": 25672,
+   "likes": 183,
+   "bookmarks": 54,
+   "views_checked_at": "2026-11-23T01:29:18.983Z",
+   "tools_reported": [
+    "TapNow"
+   ],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "post",
+    "source_url": "https://x.com/sipteaandcoffee/status/2124234296877809889",
+    "length": 2212,
+    "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2124234296877809889"
+   },
+   "resources": []
+  },
+  {
    "id": "2122497368625184947",
    "category": "product",
    "title": {
@@ -1933,6 +2025,43 @@
    "resources": []
   },
   {
+   "id": "2124213815697158160",
+   "category": "gif",
+   "title": {
+    "zh": "白发麻花辫少女日落场景，3D 游戏电影预告片",
+    "en": "Animated 3D girl with white braid in sunset game trailer"
+   },
+   "creator": {
+    "handle": "kevin_t_ngo",
+    "name": "Kevin Ngo"
+   },
+   "original_post_url": "https://x.com/kevin_t_ngo/status/2124213815697158160",
+   "posted_at": "2026-11-21T18:50:14.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2124213361152053248/img/_1ZpcxdvZ01YP8xm.jpg"
+    }
+   ],
+   "views": 19013,
+   "likes": 433,
+   "bookmarks": 218,
+   "views_checked_at": "2026-11-23T01:29:18.983Z",
+   "tools_reported": [
+    "Claude",
+    "fal",
+    "Tripo",
+    "Meshy",
+    "ElevenLabs"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2119154946969133308",
    "category": "illustration",
    "title": {
@@ -2403,6 +2532,63 @@
    "resources": []
   },
   {
+   "id": "2124087683983257695",
+   "category": "design",
+   "title": {
+    "zh": "地标建筑摄影与几何抽象分屏海报系列",
+    "en": "Landmarks in split photo and geometric poster series"
+   },
+   "creator": {
+    "handle": "ZaraIrahh",
+    "name": "Zara"
+   },
+   "original_post_url": "https://x.com/ZaraIrahh/status/2124087683983257695",
+   "posted_at": "2026-11-21T10:29:02.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "photo",
+     "width": 1086,
+     "height": 1448,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXpGbmZagAAgZGS?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1086,
+     "height": 1448,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXpGcvtaYAACjin?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1086,
+     "height": 1448,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXpGeAWbsAAR1rF?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1086,
+     "height": 1448,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXpGe0DaUAASXSm?format=jpg&name=small"
+    }
+   ],
+   "views": 15620,
+   "likes": 411,
+   "bookmarks": 230,
+   "views_checked_at": "2026-11-23T01:29:18.983Z",
+   "tools_reported": [
+    "OpenArt"
+   ],
+   "reference_assets": true,
+   "prompt": {
+    "kind": "full",
+    "source": "post",
+    "source_url": "https://x.com/ZaraIrahh/status/2124087683983257695",
+    "length": 1389,
+    "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2124087683983257695"
+   },
+   "resources": []
+  },
+  {
    "id": "2118685698056483227",
    "category": "comparison",
    "title": {
@@ -2437,6 +2623,57 @@
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2124175776727658761",
+   "category": "portrait",
+   "title": {
+    "zh": "罪恶都市街头系列：敞篷车、快餐店鳄鱼与赛车",
+    "en": "Vice City scenes: neon convertible, diner gator, race car"
+   },
+   "creator": {
+    "handle": "Just_sharon7",
+    "name": "Sharon Riley"
+   },
+   "original_post_url": "https://x.com/Just_sharon7/status/2124175776727658761",
+   "posted_at": "2026-11-21T16:19:05.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "photo",
+     "width": 880,
+     "height": 1168,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXqV96waEAAOlhx?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 880,
+     "height": 1168,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXqV_SJaYAExHAd?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 880,
+     "height": 1168,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXqWAmrbQAAjsee?format=jpg&name=small"
+    }
+   ],
+   "views": 14975,
+   "likes": 237,
+   "bookmarks": 9,
+   "views_checked_at": "2026-11-23T01:29:18.983Z",
+   "tools_reported": [
+    "TapNow"
+   ],
+   "reference_assets": true,
+   "prompt": {
+    "kind": "full",
+    "source": "post",
+    "source_url": "https://x.com/Just_sharon7/status/2124175776727658761",
+    "length": 2761,
+    "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2124175776727658761"
+   },
    "resources": []
   },
   {
@@ -3983,6 +4220,51 @@
     "source_url": "https://x.com/Diplomeme/status/2119302245233926342",
     "length": 6105,
     "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2119302158936146170"
+   },
+   "resources": []
+  },
+  {
+   "id": "2124201696830386391",
+   "category": "design",
+   "title": {
+    "zh": "石榴与草莓植物图鉴及几何重构分屏海报",
+    "en": "Botanical pomegranate and strawberry split geometry posters"
+   },
+   "creator": {
+    "handle": "Just_sharon7",
+    "name": "Sharon Riley"
+   },
+   "original_post_url": "https://x.com/Just_sharon7/status/2124201696830386391",
+   "posted_at": "2026-11-21T18:02:04.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "photo",
+     "width": 880,
+     "height": 1168,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXqtwLZb0AAcBKf?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 880,
+     "height": 1168,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXqtwLqacAALNEx?format=jpg&name=small"
+    }
+   ],
+   "views": 5131,
+   "likes": 185,
+   "bookmarks": 9,
+   "views_checked_at": "2026-11-23T01:29:18.983Z",
+   "tools_reported": [
+    "Higgsfield"
+   ],
+   "reference_assets": true,
+   "prompt": {
+    "kind": "full",
+    "source": "post",
+    "source_url": "https://x.com/Just_sharon7/status/2124201696830386391",
+    "length": 10636,
+    "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2124201696830386391"
    },
    "resources": []
   },

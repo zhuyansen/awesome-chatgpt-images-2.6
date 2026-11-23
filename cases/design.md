@@ -1,6 +1,6 @@
 # Posters, typography & design
 
-21 works, 9 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+24 works, 12 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Type | Creator | Prompt |
 |---|---|---|---|
@@ -10,9 +10,11 @@
 | [Money Moves fintech landing page](https://x.com/bogdan_qclay/status/2122244915946225682) | video | [@bogdan_qclay](https://x.com/bogdan_qclay) | — |
 | [Festive red illustrated WeChat envelope cover](https://x.com/VaneAILab/status/2123039101318255047) | image | [@VaneAILab](https://x.com/VaneAILab) | — |
 | [Scientific infographics on polymers and toxicity](https://x.com/guishou_56/status/2119617631422669200) | image | [@guishou_56](https://x.com/guishou_56) | — |
+| [Four crescent paper-cutout beauty magazine covers](https://x.com/sipteaandcoffee/status/2124234296877809889) | image | [@sipteaandcoffee](https://x.com/sipteaandcoffee) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2124234296877809889) |
 | [Glossy black bunny-girl costume reference sheet](https://x.com/1banana2546/status/2120320609531875716) | image | [@1banana2546](https://x.com/1banana2546) | — |
 | [Glass-object micro worlds, illustrated poster series](https://x.com/MrLarus/status/2119088172433109353) | image | [@MrLarus](https://x.com/MrLarus) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2119088172433109353) |
 | [Multi-outfit costume reference board](https://x.com/1banana2546/status/2119627454767829342) | image | [@1banana2546](https://x.com/1banana2546) | [Brief](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2119627454767829342) |
+| [Landmarks in split photo and geometric poster series](https://x.com/ZaraIrahh/status/2124087683983257695) | image | [@ZaraIrahh](https://x.com/ZaraIrahh) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2124087683983257695) |
 | [Stationery turned into a four-part miniature city](https://x.com/MrLarus/status/2119426684848107773) | image | [@MrLarus](https://x.com/MrLarus) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2119426684848107773) |
 | [Vintage pocket watch knowledge card](https://x.com/Leviwoyun/status/2120682994029727756) | video | [@Leviwoyun](https://x.com/Leviwoyun) | — |
 | [Paint, water, bubbles and honey adventure posters](https://x.com/MrLarus/status/2120183974912036870) | image | [@MrLarus](https://x.com/MrLarus) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2120183974912036870) |
@@ -24,4 +26,5 @@
 | [Hand-drawn figures with photorealistic fashion fabrics](https://x.com/MrLarus/status/2120192333148987761) | image | [@MrLarus](https://x.com/MrLarus) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2120192333148987761) |
 | [Pastel blossoms framing a promotional title card](https://x.com/vikktorrrre/status/2118128944058716210) | image | [@vikktorrrre](https://x.com/vikktorrrre) | — |
 | [Three branded ride-hailing campaigns](https://x.com/Diplomeme/status/2119302158936146170) | image | [@Diplomeme](https://x.com/Diplomeme) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2119302158936146170) |
+| [Botanical pomegranate and strawberry split geometry posters](https://x.com/Just_sharon7/status/2124201696830386391) | image | [@Just_sharon7](https://x.com/Just_sharon7) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2124201696830386391) |
 | [Four landmark monogram architectural posters](https://x.com/Aiwithkami/status/2121660880178106681) | image | [@Aiwithkami](https://x.com/Aiwithkami) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2121660880178106681) |

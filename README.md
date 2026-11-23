@@ -2,7 +2,7 @@
 
 English | [简体中文](README.zh-CN.md)
 
-Images and GIFs made with **ChatGPT Images 2.6** (OpenAI, released 2026-11-04; GPT-Image-2.6 Flare / Sunburst in the API) by creators on X: **99** works, **31** with the prompt the creator shared. Updated daily (last update: 2026-11-22).
+Images and GIFs made with **ChatGPT Images 2.6** (OpenAI, released 2026-11-04; GPT-Image-2.6 Flare / Sunburst in the API) by creators on X: **105** works, **35** with the prompt the creator shared. Updated daily (last update: 2026-11-23).
 
 Browse with playable GIFs and one-click copy: **[jasonzhu.ai/en/prompts/chatgpt-images-2-6](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6)**
 
@@ -23,11 +23,11 @@ Browse with playable GIFs and one-click copy: **[jasonzhu.ai/en/prompts/chatgpt-
 
 ## Categories
 
-- [GIFs & animation](cases/gif.md) (25)
-- [Portraits & photo](cases/portrait.md) (4)
+- [GIFs & animation](cases/gif.md) (26)
+- [Portraits & photo](cases/portrait.md) (5)
 - [Illustration & anime](cases/illustration.md) (16)
-- [Product shots & ads](cases/product.md) (1)
-- [Posters, typography & design](cases/design.md) (21)
+- [Product shots & ads](cases/product.md) (2)
+- [Posters, typography & design](cases/design.md) (24)
 - [Photo edits & reference images](cases/edit.md) (8)
 - [Stickers & memes](cases/sticker.md) (5)
 - [Model comparisons](cases/comparison.md) (19)

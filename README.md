@@ -2,7 +2,7 @@
 
 English | [简体中文](README.zh-CN.md)
 
-Images and GIFs made with **ChatGPT Images 2.6** (OpenAI, released 2026-11-04; GPT-Image-2.6 Flare / Sunburst in the API) by creators on X: **105** works, **35** with the prompt the creator shared. Updated daily (last update: 2026-11-23).
+Images and GIFs made with **ChatGPT Images 2.6** (OpenAI, released 2026-11-04; GPT-Image-2.6 Flare / Sunburst in the API) by creators on X: **116** works, **40** with the prompt the creator shared. Updated daily (last update: 2026-11-24).
 
 Browse with playable GIFs and one-click copy: **[jasonzhu.ai/en/prompts/chatgpt-images-2-6](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6)**
 
@@ -17,7 +17,7 @@ Browse with playable GIFs and one-click copy: **[jasonzhu.ai/en/prompts/chatgpt-
     <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118150226330734787"><img src="https://pbs.twimg.com/media/HWUs6utbwAAgLxv?format=jpg&name=small" width="200" alt="Woman spraying water in a sunny garden"></a><br><sub>Woman spraying water in a sunny garden</sub></td>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118381855166881928"><img src="https://pbs.twimg.com/media/HWYBDXJboAAM73l?format=jpg&name=small" width="200" alt="Kingfisher diving comparison across two image models"></a><br><sub>Kingfisher diving comparison across two image models</sub></td>
     <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118308538564989025"><img src="https://pbs.twimg.com/tweet_video_thumb/HWW9tuiWsAArMUF.jpg" width="200" alt="Illustrated travel scenes in a looping GIF set"></a><br><sub>Illustrated travel scenes in a looping GIF set</sub></td>
-    <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2123499286222741652"><img src="https://pbs.twimg.com/media/HXgvFslbcAAk6fP?format=jpg&name=small" width="200" alt="De Armas and Pattinson in GTA VI-style character posters"></a><br><sub>De Armas and Pattinson in GTA VI-style character posters</sub></td>
+    <td width="25%" align="center"><a href="https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2124546208442069073"><img src="https://pbs.twimg.com/media/HXvmHV6bkAAjV26?format=jpg&name=small" width="200" alt="Geometric dissection posters of everyday objects"></a><br><sub>Geometric dissection posters of everyday objects</sub></td>
   </tr>
 </table>
 
@@ -25,12 +25,12 @@ Browse with playable GIFs and one-click copy: **[jasonzhu.ai/en/prompts/chatgpt-
 
 - [GIFs & animation](cases/gif.md) (26)
 - [Portraits & photo](cases/portrait.md) (5)
-- [Illustration & anime](cases/illustration.md) (16)
+- [Illustration & anime](cases/illustration.md) (17)
 - [Product shots & ads](cases/product.md) (2)
-- [Posters, typography & design](cases/design.md) (24)
-- [Photo edits & reference images](cases/edit.md) (8)
+- [Posters, typography & design](cases/design.md) (27)
+- [Photo edits & reference images](cases/edit.md) (10)
 - [Stickers & memes](cases/sticker.md) (5)
-- [Model comparisons](cases/comparison.md) (19)
+- [Model comparisons](cases/comparison.md) (24)
 
 ## What gets included
 

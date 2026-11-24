@@ -1,6 +1,6 @@
 # 海报排版
 
-共 24 个作品，其中 12 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 27 个作品，其中 14 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 类型 | 创作者 | 提示词 |
 |---|---|---|---|
@@ -9,6 +9,8 @@
 | [展示穿搭模特与商品标签的时尚购物界面](https://x.com/viktoroddy/status/2119741442012893369) | video | [@viktoroddy](https://x.com/viktoroddy) | — |
 | [“Money Moves” 金融科技落地页](https://x.com/bogdan_qclay/status/2122244915946225682) | video | [@bogdan_qclay](https://x.com/bogdan_qclay) | — |
 | [喜庆红色插画微信红包封面](https://x.com/VaneAILab/status/2123039101318255047) | image | [@VaneAILab](https://x.com/VaneAILab) | — |
+| [手账拼贴风植物养护图文排版合集](https://x.com/VaneAILab/status/2124407558916169814) | image | [@VaneAILab](https://x.com/VaneAILab) | — |
+| [几何解构风的日常事物概念海报系列](https://x.com/Just_sharon7/status/2124546208442069073) | image | [@Just_sharon7](https://x.com/Just_sharon7) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2124546208442069073) |
 | [聚合物与毒性研究信息图组](https://x.com/guishou_56/status/2119617631422669200) | image | [@guishou_56](https://x.com/guishou_56) | — |
 | [四款弧形镂空纸艺美妆杂志封面设计](https://x.com/sipteaandcoffee/status/2124234296877809889) | image | [@sipteaandcoffee](https://x.com/sipteaandcoffee) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2124234296877809889) |
 | [亮黑色兔女郎服装设定图](https://x.com/1banana2546/status/2120320609531875716) | image | [@1banana2546](https://x.com/1banana2546) | — |
@@ -20,6 +22,7 @@
 | [颜料、水花、泡泡与蜂蜜冒险海报组](https://x.com/MrLarus/status/2120183974912036870) | image | [@MrLarus](https://x.com/MrLarus) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2120183974912036870) |
 | [互动黑胶唱片商店网页](https://x.com/AmirMushich/status/2119859995248312662) | video | [@AmirMushich](https://x.com/AmirMushich) | — |
 | [深色创意作品集网站首页](https://x.com/viktoroddy/status/2119985044542705916) | video | [@viktoroddy](https://x.com/viktoroddy) | — |
+| [纽约、东京、巴黎与罗马复古手绘旅行海报](https://x.com/Aiwithkami/status/2124401464932184540) | image | [@Aiwithkami](https://x.com/Aiwithkami) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2124401464932184540) |
 | [书本展开式游戏菜单](https://x.com/Stefan_3D_AI/status/2121647529750311377) | video | [@Stefan_3D_AI](https://x.com/Stefan_3D_AI) | — |
 | [嵌套拱门中的超现实地标旅行海报](https://x.com/Naiknelofar788/status/2122546769049624715) | image | [@Naiknelofar788](https://x.com/Naiknelofar788) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2122546769049624715) |
 | [纽约至伊斯坦布尔的四张地标字体海报](https://x.com/Naiknelofar788/status/2121485625769763094) | image | [@Naiknelofar788](https://x.com/Naiknelofar788) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2121485625769763094) |

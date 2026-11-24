@@ -4,8 +4,8 @@
  "released": "2026-11-04T23:35:14Z",
  "inclusion_rule": "Original post by the creator, images / GIF / video attached, >= 5000 views on that post, creator states it was made with ChatGPT Images 2.6 (GPT-Image-2.6). Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-11-23T01:29:18.983Z",
- "updated_at": "2026-11-23T01:29:18.983Z",
+ "stats_checked_at": "2026-11-24T11:10:02.832Z",
+ "updated_at": "2026-11-24T11:10:02.832Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -504,6 +504,45 @@
    "resources": []
   },
   {
+   "id": "2124518666939334736",
+   "category": "comparison",
+   "title": {
+    "zh": "铁道旁奔跑学生群像：Kling 4.0 与 GPT 2.6 对比",
+    "en": "Students running by tracks: Kling 4.0 vs GPT Image 2.6"
+   },
+   "creator": {
+    "handle": "iamfakhrealam",
+    "name": "Fakhr"
+   },
+   "original_post_url": "https://x.com/iamfakhrealam/status/2124518666939334736",
+   "posted_at": "2026-11-22T15:01:36.000Z",
+   "language": "",
+   "media": [
+    {
+     "type": "photo",
+     "width": 416,
+     "height": 562,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXvOcWsawAA6R7P?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 419,
+     "height": 555,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXvOcWnboAAwE9y?format=jpg&name=small"
+    }
+   ],
+   "views": 52093,
+   "likes": 171,
+   "bookmarks": 29,
+   "views_checked_at": "2026-11-24T11:07:17.177Z",
+   "tools_reported": [
+    "Kling"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2118360718554894395",
    "category": "gif",
    "title": {
@@ -637,6 +676,45 @@
    "resources": []
   },
   {
+   "id": "2124563674811474170",
+   "category": "comparison",
+   "title": {
+    "zh": "阴天湿地复古时尚大片：Kling 4.0 与 GPT 2.6 对比",
+    "en": "Retro fashion shoot on wet tarmac: Kling 4.0 vs GPT 2.6"
+   },
+   "creator": {
+    "handle": "AmControo",
+    "name": "Fathela Esq"
+   },
+   "original_post_url": "https://x.com/AmControo/status/2124563674811474170",
+   "posted_at": "2026-11-22T18:00:27.000Z",
+   "language": "",
+   "media": [
+    {
+     "type": "photo",
+     "width": 854,
+     "height": 554,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXv3YR-XoAAbYI8?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 838,
+     "height": 556,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXv3ZLyWgAATAXA?format=jpg&name=small"
+    }
+   ],
+   "views": 44206,
+   "likes": 217,
+   "bookmarks": 123,
+   "views_checked_at": "2026-11-24T11:07:17.177Z",
+   "tools_reported": [
+    "Kling"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2118188273134915596",
    "category": "portrait",
    "title": {
@@ -663,6 +741,45 @@
    "bookmarks": 115,
    "views_checked_at": "2026-11-05T16:32:09.076Z",
    "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2124517631160172938",
+   "category": "comparison",
+   "title": {
+    "zh": "草地复古妆容双人特写：Kling 4.0 与 GPT 2.6 对比",
+    "en": "Vintage beauty portrait on grass: Kling 4.0 vs GPT 2.6"
+   },
+   "creator": {
+    "handle": "Diptish09",
+    "name": "Dipti Sharma"
+   },
+   "original_post_url": "https://x.com/Diptish09/status/2124517631160172938",
+   "posted_at": "2026-11-22T14:57:29.000Z",
+   "language": "",
+   "media": [
+    {
+     "type": "photo",
+     "width": 424,
+     "height": 563,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXvNhUCbMAAVLPy?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 419,
+     "height": 555,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXvNhTyaIAEGKak?format=jpg&name=small"
+    }
+   ],
+   "views": 43213,
+   "likes": 300,
+   "bookmarks": 247,
+   "views_checked_at": "2026-11-24T11:07:17.177Z",
+   "tools_reported": [
+    "Kling"
+   ],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -1039,6 +1156,45 @@
    "resources": []
   },
   {
+   "id": "2124514480575172824",
+   "category": "comparison",
+   "title": {
+    "zh": "赛道故障风人像：Kling 4.0 与 GPT Image 2.6 对比",
+    "en": "Datamosh portrait: Kling 4.0 vs GPT Image 2.6"
+   },
+   "creator": {
+    "handle": "heysajib",
+    "name": "Mushfiq Sajib"
+   },
+   "original_post_url": "https://x.com/heysajib/status/2124514480575172824",
+   "posted_at": "2026-11-22T14:44:58.000Z",
+   "language": "",
+   "media": [
+    {
+     "type": "photo",
+     "width": 414,
+     "height": 558,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXvKqPTbAAAcScX?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 420,
+     "height": 554,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXvKqXtbcAA1z3z?format=jpg&name=small"
+    }
+   ],
+   "views": 36410,
+   "likes": 150,
+   "bookmarks": 96,
+   "views_checked_at": "2026-11-24T11:07:17.177Z",
+   "tools_reported": [
+    "Kling"
+   ],
+   "reference_assets": true,
+   "prompt": null,
+   "resources": []
+  },
+  {
    "id": "2118157265480122457",
    "category": "comparison",
    "title": {
@@ -1069,6 +1225,112 @@
    ],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2124407558916169814",
+   "category": "design",
+   "title": {
+    "zh": "手账拼贴风植物养护图文排版合集",
+    "en": "Scrapbook-style plant care social post layouts"
+   },
+   "creator": {
+    "handle": "VaneAILab",
+    "name": "不叫韦恩"
+   },
+   "original_post_url": "https://x.com/VaneAILab/status/2124407558916169814",
+   "posted_at": "2026-11-22T07:40:06.000Z",
+   "language": "",
+   "media": [
+    {
+     "type": "photo",
+     "width": 1086,
+     "height": 1448,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXtowq5agAAetfl?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1086,
+     "height": 1448,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXtoxFibgAABPEq?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1086,
+     "height": 1448,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXtox4DaAAAnqDl?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1086,
+     "height": 1448,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXtoyNFawAADtBM?format=jpg&name=small"
+    }
+   ],
+   "views": 33552,
+   "likes": 300,
+   "bookmarks": 414,
+   "views_checked_at": "2026-11-24T11:07:17.177Z",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2124546208442069073",
+   "category": "design",
+   "title": {
+    "zh": "几何解构风的日常事物概念海报系列",
+    "en": "Geometric dissection posters of everyday objects"
+   },
+   "creator": {
+    "handle": "Just_sharon7",
+    "name": "Sharon Riley"
+   },
+   "original_post_url": "https://x.com/Just_sharon7/status/2124546208442069073",
+   "posted_at": "2026-11-22T16:51:02.000Z",
+   "language": "",
+   "media": [
+    {
+     "type": "photo",
+     "width": 880,
+     "height": 1168,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXvmHV6bkAAjV26?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 880,
+     "height": 1168,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXvmNS_bUAA074C?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 880,
+     "height": 1168,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXvmRRdaUAA5_ue?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 880,
+     "height": 1168,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXvmTcFbkAAfSCm?format=jpg&name=small"
+    }
+   ],
+   "views": 30684,
+   "likes": 575,
+   "bookmarks": 143,
+   "views_checked_at": "2026-11-24T11:07:17.177Z",
+   "tools_reported": [
+    "TapNow"
+   ],
+   "reference_assets": true,
+   "prompt": {
+    "kind": "full",
+    "source": "post",
+    "source_url": "https://x.com/Just_sharon7/status/2124546208442069073",
+    "length": 7607,
+    "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2124546208442069073"
+   },
    "resources": []
   },
   {
@@ -2226,6 +2488,63 @@
    "resources": []
   },
   {
+   "id": "2124744066021925290",
+   "category": "edit",
+   "title": {
+    "zh": "四组萌趣卡通形象与天空云朵上下对照",
+    "en": "Four cute characters mirrored as fluffy sky clouds"
+   },
+   "creator": {
+    "handle": "Just_sharon7",
+    "name": "Sharon Riley"
+   },
+   "original_post_url": "https://x.com/Just_sharon7/status/2124744066021925290",
+   "posted_at": "2026-11-23T05:57:15.000Z",
+   "language": "",
+   "media": [
+    {
+     "type": "photo",
+     "width": 880,
+     "height": 1168,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXyamoEbgAAywOd?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 880,
+     "height": 1168,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXyamo4a4AA_QzB?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 880,
+     "height": 1168,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXyamoUacAAFAjo?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 880,
+     "height": 1168,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXyamoYbUAAL8zn?format=jpg&name=small"
+    }
+   ],
+   "views": 17208,
+   "likes": 251,
+   "bookmarks": 6,
+   "views_checked_at": "2026-11-24T11:10:02.832Z",
+   "tools_reported": [
+    "TapNow"
+   ],
+   "reference_assets": true,
+   "prompt": {
+    "kind": "full",
+    "source": "post",
+    "source_url": "https://x.com/Just_sharon7/status/2124744066021925290",
+    "length": 1546,
+    "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2124744066021925290"
+   },
+   "resources": []
+  },
+  {
    "id": "2118462563331735755",
    "category": "illustration",
    "title": {
@@ -3105,6 +3424,55 @@
    "resources": []
   },
   {
+   "id": "2124501062627598678",
+   "category": "edit",
+   "title": {
+    "zh": "极简水彩手绘日常人物插画三张",
+    "en": "Minimalist watercolor fashion sketches, set of three"
+   },
+   "creator": {
+    "handle": "Maercihh",
+    "name": "Maercih"
+   },
+   "original_post_url": "https://x.com/Maercihh/status/2124501062627598678",
+   "posted_at": "2026-11-22T13:51:39.000Z",
+   "language": "",
+   "media": [
+    {
+     "type": "photo",
+     "width": 1122,
+     "height": 1402,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXu-SQRacAAHb7P?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1122,
+     "height": 1402,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXu-SQVacAA40gz?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1080,
+     "height": 1080,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXu-SQebgAAkPzG?format=jpg&name=small"
+    }
+   ],
+   "views": 11675,
+   "likes": 353,
+   "bookmarks": 288,
+   "views_checked_at": "2026-11-24T11:07:17.177Z",
+   "tools_reported": [],
+   "reference_assets": true,
+   "prompt": {
+    "kind": "full",
+    "source": "post",
+    "source_url": "https://x.com/Maercihh/status/2124501062627598678",
+    "length": 4309,
+    "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2124501062627598678"
+   },
+   "resources": []
+  },
+  {
    "id": "2118332327902470228",
    "category": "edit",
    "title": {
@@ -3615,6 +3983,61 @@
    "resources": []
   },
   {
+   "id": "2124401464932184540",
+   "category": "design",
+   "title": {
+    "zh": "纽约、东京、巴黎与罗马复古手绘旅行海报",
+    "en": "Vintage travel posters for New York, Tokyo, Paris, Rome"
+   },
+   "creator": {
+    "handle": "Aiwithkami",
+    "name": "Kami AI"
+   },
+   "original_post_url": "https://x.com/Aiwithkami/status/2124401464932184540",
+   "posted_at": "2026-11-22T07:15:53.000Z",
+   "language": "",
+   "media": [
+    {
+     "type": "photo",
+     "width": 784,
+     "height": 1168,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXtj0wDbAAABcdT?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 784,
+     "height": 1168,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXtj1arbYAA8ZFj?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 784,
+     "height": 1168,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXtj2UaaUAA8EQg?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 784,
+     "height": 1168,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXtj3JubIAAg1sS?format=jpg&name=small"
+    }
+   ],
+   "views": 8510,
+   "likes": 223,
+   "bookmarks": 138,
+   "views_checked_at": "2026-11-24T11:07:17.177Z",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "post",
+    "source_url": "https://x.com/Aiwithkami/status/2124401464932184540",
+    "length": 1365,
+    "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2124401464932184540"
+   },
+   "resources": []
+  },
+  {
    "id": "2121647529750311377",
    "category": "design",
    "title": {
@@ -3645,6 +4068,45 @@
     "Claude Fable 5.2",
     "Tripo P2.0",
     "Higgsfield MCP"
+   ],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2124542401171820720",
+   "category": "comparison",
+   "title": {
+    "zh": "街头四人抓拍对比：Kling Image 4.0 与 GPT Image 2.6",
+    "en": "Candid street group walk: Kling Image 4.0 vs GPT Image 2.6"
+   },
+   "creator": {
+    "handle": "VermaAakash3",
+    "name": "Aakash Verma"
+   },
+   "original_post_url": "https://x.com/VermaAakash3/status/2124542401171820720",
+   "posted_at": "2026-11-22T16:35:55.000Z",
+   "language": "",
+   "media": [
+    {
+     "type": "photo",
+     "width": 373,
+     "height": 560,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXvkDLgaIAA0lGH?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 412,
+     "height": 560,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXvkDLzbYAASC5c?format=jpg&name=small"
+    }
+   ],
+   "views": 8209,
+   "likes": 106,
+   "bookmarks": 9,
+   "views_checked_at": "2026-11-24T11:07:17.177Z",
+   "tools_reported": [
+    "Kling Image 4.0"
    ],
    "reference_assets": false,
    "prompt": null,
@@ -4172,6 +4634,61 @@
    ],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2124723328414048351",
+   "category": "illustration",
+   "title": {
+    "zh": "四座世界名城的粉彩水彩手绘旅行明信片",
+    "en": "Four watercolor travel postcards of famous world cities"
+   },
+   "creator": {
+    "handle": "Naiknelofar788",
+    "name": "simeon-sanai"
+   },
+   "original_post_url": "https://x.com/Naiknelofar788/status/2124723328414048351",
+   "posted_at": "2026-11-23T04:34:51.000Z",
+   "language": "",
+   "media": [
+    {
+     "type": "photo",
+     "width": 1536,
+     "height": 1024,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXyImD7bQAABzR8?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1536,
+     "height": 1024,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXyImCmbUAAn3K6?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1536,
+     "height": 1024,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXyImBubQAAoOaT?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1536,
+     "height": 1024,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXyImC6aIAAUrw3?format=jpg&name=small"
+    }
+   ],
+   "views": 6641,
+   "likes": 221,
+   "bookmarks": 151,
+   "views_checked_at": "2026-11-24T11:10:02.832Z",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "post",
+    "source_url": "https://x.com/Naiknelofar788/status/2124723328414048351",
+    "length": 1551,
+    "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2124723328414048351"
+   },
    "resources": []
   },
   {

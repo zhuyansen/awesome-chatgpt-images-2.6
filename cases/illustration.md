@@ -1,6 +1,6 @@
 # Illustration & anime
 
-16 works, 4 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+17 works, 5 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Type | Creator | Prompt |
 |---|---|---|---|
@@ -20,3 +20,4 @@
 | [Repair workers on giant mechanical parts](https://x.com/MrLarus/status/2119822756347036091) | image | [@MrLarus](https://x.com/MrLarus) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2119822756347036091) |
 | [Autumn village rooftops among maple trees](https://x.com/DeryaTR_/status/2122068315690692778) | image | [@DeryaTR_](https://x.com/DeryaTR_) | — |
 | [Final Fantasy VII characters in cinematic anime style](https://x.com/AIna_artmusic/status/2121765678382252363) | image | [@AIna_artmusic](https://x.com/AIna_artmusic) | — |
+| [Four watercolor travel postcards of famous world cities](https://x.com/Naiknelofar788/status/2124723328414048351) | image | [@Naiknelofar788](https://x.com/Naiknelofar788) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2124723328414048351) |

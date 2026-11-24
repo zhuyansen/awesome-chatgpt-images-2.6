@@ -1,6 +1,6 @@
 # 模型对比
 
-共 19 个作品，其中 3 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 24 个作品，其中 3 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 类型 | 创作者 | 提示词 |
 |---|---|---|---|
@@ -8,9 +8,13 @@
 | [电梯镜自拍：GPT Image 2.6 与 Seedream 5.5 对比](https://x.com/simonecanciello/status/2120189335194706023) | image | [@simonecanciello](https://x.com/simonecanciello) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2120189335194706023) |
 | [四种图像模型生成的香港夜景自拍](https://x.com/VibeEverything/status/2120470049672826952) | image | [@VibeEverything](https://x.com/VibeEverything) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2120470049672826952) |
 | [五种模型对同一人像进行 15 次编辑的对比](https://x.com/VORTEX_Promos/status/2119928374235701452) | video | [@VORTEX_Promos](https://x.com/VORTEX_Promos) | — |
+| [铁道旁奔跑学生群像：Kling 4.0 与 GPT 2.6 对比](https://x.com/iamfakhrealam/status/2124518666939334736) | image | [@iamfakhrealam](https://x.com/iamfakhrealam) | — |
+| [阴天湿地复古时尚大片：Kling 4.0 与 GPT 2.6 对比](https://x.com/AmControo/status/2124563674811474170) | image | [@AmControo](https://x.com/AmControo) | — |
+| [草地复古妆容双人特写：Kling 4.0 与 GPT 2.6 对比](https://x.com/Diptish09/status/2124517631160172938) | image | [@Diptish09](https://x.com/Diptish09) | — |
 | [两种图像模型的电梯自拍对比](https://x.com/kentdhani/status/2121568922285777298) | image | [@kentdhani](https://x.com/kentdhani) | — |
 | [两种图像模型的翠鸟入水对比](https://x.com/NovaXCode/status/2118381855166881928) | image | [@NovaXCode](https://x.com/NovaXCode) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2118381855166881928) |
 | [三种图像模型的沙漠弓箭手人像对比](https://x.com/EmirAILab/status/2120163581673230500) | image | [@EmirAILab](https://x.com/EmirAILab) | — |
+| [赛道故障风人像：Kling 4.0 与 GPT Image 2.6 对比](https://x.com/heysajib/status/2124514480575172824) | image | [@heysajib](https://x.com/heysajib) | — |
 | [同一人像提示词：Sora 与 GPT-Image-2.6 对比](https://x.com/pigeon__s/status/2118157265480122457) | image | [@pigeon__s](https://x.com/pigeon__s) | — |
 | [三种图像模型中的精灵女英雄与猫咪肖像对比](https://x.com/lyraxana/status/2118884892427551046) | image | [@lyraxana](https://x.com/lyraxana) | — |
 | [三种图像模型的四组人物场景对比](https://x.com/ozansihay/status/2119803963738357803) | image | [@ozansihay](https://x.com/ozansihay) | — |
@@ -21,5 +25,6 @@
 | [四页图解式图像创作指南](https://x.com/gufutokuku999/status/2118946557319856526) | image | [@gufutokuku999](https://x.com/gufutokuku999) | — |
 | [四种模型的女性日常人像对比](https://x.com/EEJ_OOXO/status/2120772387348300055) | image | [@EEJ_OOXO](https://x.com/EEJ_OOXO) | — |
 | [同一时尚场景中的两张不同面孔](https://x.com/SOPHIA_AIART/status/2118685698056483227) | image | [@SOPHIA_AIART](https://x.com/SOPHIA_AIART) | — |
+| [街头四人抓拍对比：Kling Image 4.0 与 GPT Image 2.6](https://x.com/VermaAakash3/status/2124542401171820720) | image | [@VermaAakash3](https://x.com/VermaAakash3) | — |
 | [MiniMax H3-Image 与 GPT Image 2.6 人像对比](https://x.com/kentdhani/status/2122504273963761736) | image | [@kentdhani](https://x.com/kentdhani) | — |
 | [GPT Image 2.6 与 Seedream 5.5 的动漫角色对比](https://x.com/Mayz1169/status/2120147921069019473) | image | [@Mayz1169](https://x.com/Mayz1169) | — |

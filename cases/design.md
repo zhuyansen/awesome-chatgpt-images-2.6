@@ -1,6 +1,6 @@
 # Posters, typography & design
 
-24 works, 12 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+27 works, 14 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Type | Creator | Prompt |
 |---|---|---|---|
@@ -9,6 +9,8 @@
 | [Fashion storefront UI with styled models and product labels](https://x.com/viktoroddy/status/2119741442012893369) | video | [@viktoroddy](https://x.com/viktoroddy) | — |
 | [Money Moves fintech landing page](https://x.com/bogdan_qclay/status/2122244915946225682) | video | [@bogdan_qclay](https://x.com/bogdan_qclay) | — |
 | [Festive red illustrated WeChat envelope cover](https://x.com/VaneAILab/status/2123039101318255047) | image | [@VaneAILab](https://x.com/VaneAILab) | — |
+| [Scrapbook-style plant care social post layouts](https://x.com/VaneAILab/status/2124407558916169814) | image | [@VaneAILab](https://x.com/VaneAILab) | — |
+| [Geometric dissection posters of everyday objects](https://x.com/Just_sharon7/status/2124546208442069073) | image | [@Just_sharon7](https://x.com/Just_sharon7) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2124546208442069073) |
 | [Scientific infographics on polymers and toxicity](https://x.com/guishou_56/status/2119617631422669200) | image | [@guishou_56](https://x.com/guishou_56) | — |
 | [Four crescent paper-cutout beauty magazine covers](https://x.com/sipteaandcoffee/status/2124234296877809889) | image | [@sipteaandcoffee](https://x.com/sipteaandcoffee) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2124234296877809889) |
 | [Glossy black bunny-girl costume reference sheet](https://x.com/1banana2546/status/2120320609531875716) | image | [@1banana2546](https://x.com/1banana2546) | — |
@@ -20,6 +22,7 @@
 | [Paint, water, bubbles and honey adventure posters](https://x.com/MrLarus/status/2120183974912036870) | image | [@MrLarus](https://x.com/MrLarus) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2120183974912036870) |
 | [Interactive vinyl record store website](https://x.com/AmirMushich/status/2119859995248312662) | video | [@AmirMushich](https://x.com/AmirMushich) | — |
 | [Dark creative portfolio website homepage](https://x.com/viktoroddy/status/2119985044542705916) | video | [@viktoroddy](https://x.com/viktoroddy) | — |
+| [Vintage travel posters for New York, Tokyo, Paris, Rome](https://x.com/Aiwithkami/status/2124401464932184540) | image | [@Aiwithkami](https://x.com/Aiwithkami) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2124401464932184540) |
 | [Animated game book menu](https://x.com/Stefan_3D_AI/status/2121647529750311377) | video | [@Stefan_3D_AI](https://x.com/Stefan_3D_AI) | — |
 | [Surreal landmark travel posters with nested arches](https://x.com/Naiknelofar788/status/2122546769049624715) | image | [@Naiknelofar788](https://x.com/Naiknelofar788) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2122546769049624715) |
 | [Four typographic landmark posters: New York to Istanbul](https://x.com/Naiknelofar788/status/2121485625769763094) | image | [@Naiknelofar788](https://x.com/Naiknelofar788) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2121485625769763094) |

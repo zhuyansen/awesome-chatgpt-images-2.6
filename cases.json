@@ -4,8 +4,8 @@
  "released": "2026-11-04T23:35:14Z",
  "inclusion_rule": "Original post by the creator, images / GIF / video attached, >= 5000 views on that post, creator states it was made with ChatGPT Images 2.6 (GPT-Image-2.6). Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-11-24T11:10:02.832Z",
- "updated_at": "2026-11-24T11:10:02.832Z",
+ "stats_checked_at": "2026-11-25T01:20:24.143Z",
+ "updated_at": "2026-11-25T01:20:24.143Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -2388,6 +2388,63 @@
    ],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2124824781715624023",
+   "category": "sticker",
+   "title": {
+    "zh": "四款主图配六枚手绘贴纸的记忆纪念卡",
+    "en": "Set of four memory cards with matching cut-out stickers"
+   },
+   "creator": {
+    "handle": "Just_sharon7",
+    "name": "Sharon Riley"
+   },
+   "original_post_url": "https://x.com/Just_sharon7/status/2124824781715624023",
+   "posted_at": "2026-11-23T11:17:59.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "photo",
+     "width": 880,
+     "height": 1168,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXzkPYAbQAAV_pJ?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 880,
+     "height": 1168,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXzkPYTakAACu_v?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 880,
+     "height": 1168,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXzkPYJaIAAUbPF?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 880,
+     "height": 1168,
+     "thumbnail_url": "https://pbs.twimg.com/media/HXzkPX0bEAAU6IF?format=jpg&name=small"
+    }
+   ],
+   "views": 18804,
+   "likes": 339,
+   "bookmarks": 59,
+   "views_checked_at": "2026-11-25T01:20:24.143Z",
+   "tools_reported": [
+    "DomoAI"
+   ],
+   "reference_assets": true,
+   "prompt": {
+    "kind": "full",
+    "source": "post",
+    "source_url": "https://x.com/Just_sharon7/status/2124824781715624023",
+    "length": 5540,
+    "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2124824781715624023"
+   },
    "resources": []
   },
   {

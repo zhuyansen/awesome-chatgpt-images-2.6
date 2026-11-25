@@ -1,6 +1,6 @@
 # 表情包贴纸
 
-共 5 个作品，其中 2 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 6 个作品，其中 3 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 类型 | 创作者 | 提示词 |
 |---|---|---|---|
@@ -8,4 +8,5 @@
 | [奶油团子的日常表情 GIF 动图](https://x.com/Leviwoyun/status/2118157743840469222) | video | [@Leviwoyun](https://x.com/Leviwoyun) | — |
 | [古代官员与淡定藏狐微信动态表情包](https://x.com/vastxie/status/2118265895613346263) | gif | [@vastxie](https://x.com/vastxie) | — |
 | [蓝发女仆反应表情 GIF 动图](https://x.com/op7418/status/2118181775688241456) | gif | [@op7418](https://x.com/op7418) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2118181775688241456) |
+| [四款主图配六枚手绘贴纸的记忆纪念卡](https://x.com/Just_sharon7/status/2124824781715624023) | image | [@Just_sharon7](https://x.com/Just_sharon7) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2124824781715624023) |
 | [猫耳女孩日常情绪贴纸包](https://x.com/Mayz1169/status/2118355858208010412) | video | [@Mayz1169](https://x.com/Mayz1169) | — |

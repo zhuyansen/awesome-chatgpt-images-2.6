@@ -1,6 +1,6 @@
 # Stickers & memes
 
-5 works, 2 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+6 works, 3 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Type | Creator | Prompt |
 |---|---|---|---|
@@ -8,4 +8,5 @@
 | [Cream Puff daily-life sticker GIFs](https://x.com/Leviwoyun/status/2118157743840469222) | video | [@Leviwoyun](https://x.com/Leviwoyun) | — |
 | [Ancient official and stoic fox animated sticker packs](https://x.com/vastxie/status/2118265895613346263) | gif | [@vastxie](https://x.com/vastxie) | — |
 | [Blue-haired maid reaction sticker GIFs](https://x.com/op7418/status/2118181775688241456) | gif | [@op7418](https://x.com/op7418) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118181775688241456) |
+| [Set of four memory cards with matching cut-out stickers](https://x.com/Just_sharon7/status/2124824781715624023) | image | [@Just_sharon7](https://x.com/Just_sharon7) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2124824781715624023) |
 | [Catgirl daily mood sticker sheet](https://x.com/Mayz1169/status/2118355858208010412) | video | [@Mayz1169](https://x.com/Mayz1169) | — |

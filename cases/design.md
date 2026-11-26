@@ -1,6 +1,6 @@
 # Posters, typography & design
 
-27 works, 14 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+28 works, 15 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Type | Creator | Prompt |
 |---|---|---|---|
@@ -17,6 +17,7 @@
 | [Glass-object micro worlds, illustrated poster series](https://x.com/MrLarus/status/2119088172433109353) | image | [@MrLarus](https://x.com/MrLarus) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2119088172433109353) |
 | [Multi-outfit costume reference board](https://x.com/1banana2546/status/2119627454767829342) | image | [@1banana2546](https://x.com/1banana2546) | [Brief](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2119627454767829342) |
 | [Landmarks in split photo and geometric poster series](https://x.com/ZaraIrahh/status/2124087683983257695) | image | [@ZaraIrahh](https://x.com/ZaraIrahh) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2124087683983257695) |
+| [Artistic typography and graphic design poster series](https://x.com/MrLarus/status/2125257923131773007) | image | [@MrLarus](https://x.com/MrLarus) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2125257923131773007) |
 | [Stationery turned into a four-part miniature city](https://x.com/MrLarus/status/2119426684848107773) | image | [@MrLarus](https://x.com/MrLarus) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2119426684848107773) |
 | [Vintage pocket watch knowledge card](https://x.com/Leviwoyun/status/2120682994029727756) | video | [@Leviwoyun](https://x.com/Leviwoyun) | — |
 | [Paint, water, bubbles and honey adventure posters](https://x.com/MrLarus/status/2120183974912036870) | image | [@MrLarus](https://x.com/MrLarus) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2120183974912036870) |

@@ -4,8 +4,8 @@
  "released": "2026-11-04T23:35:14Z",
  "inclusion_rule": "Original post by the creator, images / GIF / video attached, >= 5000 views on that post, creator states it was made with ChatGPT Images 2.6 (GPT-Image-2.6). Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-11-25T01:20:24.143Z",
- "updated_at": "2026-11-25T01:20:24.143Z",
+ "stats_checked_at": "2026-11-26T01:26:45.620Z",
+ "updated_at": "2026-11-26T01:26:45.620Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -3053,6 +3053,61 @@
    "resources": []
   },
   {
+   "id": "2125257923131773007",
+   "category": "design",
+   "title": {
+    "zh": "区块化排版与文字融合艺术海报系列",
+    "en": "Artistic typography and graphic design poster series"
+   },
+   "creator": {
+    "handle": "MrLarus",
+    "name": "Larus Canus"
+   },
+   "original_post_url": "https://x.com/MrLarus/status/2125257923131773007",
+   "posted_at": "2026-11-24T15:59:08.000Z",
+   "language": "zh",
+   "media": [
+    {
+     "type": "photo",
+     "width": 941,
+     "height": 1672,
+     "thumbnail_url": "https://pbs.twimg.com/media/HX5uwWta4AAyL4c?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 941,
+     "height": 1672,
+     "thumbnail_url": "https://pbs.twimg.com/media/HX5uwWsakAAck6Z?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 941,
+     "height": 1671,
+     "thumbnail_url": "https://pbs.twimg.com/media/HX5uyJEbcAA8sEC?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 941,
+     "height": 1672,
+     "thumbnail_url": "https://pbs.twimg.com/media/HX5uygtaMAE0sUS?format=jpg&name=small"
+    }
+   ],
+   "views": 14784,
+   "likes": 230,
+   "bookmarks": 195,
+   "views_checked_at": "2026-11-26T01:26:45.620Z",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "author_reply",
+    "source_url": "https://x.com/MrLarus/status/2125258054933651679",
+    "length": 1276,
+    "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2125257923131773007"
+   },
+   "resources": []
+  },
+  {
    "id": "2118271313764925886",
    "category": "gif",
    "title": {
@@ -3684,6 +3739,40 @@
    "bookmarks": 150,
    "views_checked_at": "2026-11-10T01:42:28.736Z",
    "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2125113263327158332",
+   "category": "gif",
+   "title": {
+    "zh": "GTA 风格落日城市景观，AI 动作短片画面",
+    "en": "GTA-inspired sunset cityscape, AI short film frame"
+   },
+   "creator": {
+    "handle": "MonetizationDon",
+    "name": "LAPTOP LIFESTYLE BLOGGER"
+   },
+   "original_post_url": "https://x.com/MonetizationDon/status/2125113263327158332",
+   "posted_at": "2026-11-24T06:24:19.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125112131133595648/img/930vs3KAf3x6vXvL.jpg"
+    }
+   ],
+   "views": 11032,
+   "likes": 140,
+   "bookmarks": 21,
+   "views_checked_at": "2026-11-26T01:26:45.620Z",
+   "tools_reported": [
+    "Seedance 2.5",
+    "DomoAI"
+   ],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -4795,6 +4884,40 @@
     "length": 6105,
     "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2119302158936146170"
    },
+   "resources": []
+  },
+  {
+   "id": "2125194893853122823",
+   "category": "gif",
+   "title": {
+    "zh": "GTA 风格城市落日，AI 动作短片画面",
+    "en": "GTA-inspired city sunset, AI short film frame"
+   },
+   "creator": {
+    "handle": "MonetizationDon",
+    "name": "LAPTOP LIFESTYLE BLOGGER"
+   },
+   "original_post_url": "https://x.com/MonetizationDon/status/2125194893853122823",
+   "posted_at": "2026-11-24T11:48:41.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1920,
+     "height": 1080,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125194090098642945/img/-RCWORlMF2lAzBgn.jpg"
+    }
+   ],
+   "views": 6271,
+   "likes": 205,
+   "bookmarks": 14,
+   "views_checked_at": "2026-11-26T01:26:45.620Z",
+   "tools_reported": [
+    "Seedance 2.5",
+    "WaveSpeedAI"
+   ],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {

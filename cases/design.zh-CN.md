@@ -1,6 +1,6 @@
 # 海报排版
 
-共 27 个作品，其中 14 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 28 个作品，其中 15 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 类型 | 创作者 | 提示词 |
 |---|---|---|---|
@@ -17,6 +17,7 @@
 | [玻璃物件里的微型世界插画海报系列](https://x.com/MrLarus/status/2119088172433109353) | image | [@MrLarus](https://x.com/MrLarus) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2119088172433109353) |
 | [多套服装造型参考板](https://x.com/1banana2546/status/2119627454767829342) | image | [@1banana2546](https://x.com/1banana2546) | [一句话指令](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2119627454767829342) |
 | [地标建筑摄影与几何抽象分屏海报系列](https://x.com/ZaraIrahh/status/2124087683983257695) | image | [@ZaraIrahh](https://x.com/ZaraIrahh) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2124087683983257695) |
+| [区块化排版与文字融合艺术海报系列](https://x.com/MrLarus/status/2125257923131773007) | image | [@MrLarus](https://x.com/MrLarus) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2125257923131773007) |
 | [文具变成四幅微缩城市插画](https://x.com/MrLarus/status/2119426684848107773) | image | [@MrLarus](https://x.com/MrLarus) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2119426684848107773) |
 | [复古怀表知识卡片](https://x.com/Leviwoyun/status/2120682994029727756) | video | [@Leviwoyun](https://x.com/Leviwoyun) | — |
 | [颜料、水花、泡泡与蜂蜜冒险海报组](https://x.com/MrLarus/status/2120183974912036870) | image | [@MrLarus](https://x.com/MrLarus) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2120183974912036870) |

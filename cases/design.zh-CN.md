@@ -1,6 +1,6 @@
 # 海报排版
 
-共 28 个作品，其中 15 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 30 个作品，其中 17 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 类型 | 创作者 | 提示词 |
 |---|---|---|---|
@@ -13,6 +13,7 @@
 | [几何解构风的日常事物概念海报系列](https://x.com/Just_sharon7/status/2124546208442069073) | image | [@Just_sharon7](https://x.com/Just_sharon7) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2124546208442069073) |
 | [聚合物与毒性研究信息图组](https://x.com/guishou_56/status/2119617631422669200) | image | [@guishou_56](https://x.com/guishou_56) | — |
 | [四款弧形镂空纸艺美妆杂志封面设计](https://x.com/sipteaandcoffee/status/2124234296877809889) | image | [@sipteaandcoffee](https://x.com/sipteaandcoffee) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2124234296877809889) |
+| [超大首字母融合世界地标的四联建筑海报](https://x.com/Aiwithkami/status/2125476933056217417) | image | [@Aiwithkami](https://x.com/Aiwithkami) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2125476933056217417) |
 | [亮黑色兔女郎服装设定图](https://x.com/1banana2546/status/2120320609531875716) | image | [@1banana2546](https://x.com/1banana2546) | — |
 | [玻璃物件里的微型世界插画海报系列](https://x.com/MrLarus/status/2119088172433109353) | image | [@MrLarus](https://x.com/MrLarus) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2119088172433109353) |
 | [多套服装造型参考板](https://x.com/1banana2546/status/2119627454767829342) | image | [@1banana2546](https://x.com/1banana2546) | [一句话指令](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2119627454767829342) |
@@ -29,6 +30,7 @@
 | [纽约至伊斯坦布尔的四张地标字体海报](https://x.com/Naiknelofar788/status/2121485625769763094) | image | [@Naiknelofar788](https://x.com/Naiknelofar788) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2121485625769763094) |
 | [手绘人物与写实布料融合的时尚海报](https://x.com/MrLarus/status/2120192333148987761) | image | [@MrLarus](https://x.com/MrLarus) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2120192333148987761) |
 | [彩色花朵环绕的宣传标题卡](https://x.com/vikktorrrre/status/2118128944058716210) | image | [@vikktorrrre](https://x.com/vikktorrrre) | — |
+| [圣诞插画与复古几何色卡上下拼贴海报三张](https://x.com/Just_sharon7/status/2125520256022216961) | image | [@Just_sharon7](https://x.com/Just_sharon7) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2125520256022216961) |
 | [三个品牌的网约车广告系列](https://x.com/Diplomeme/status/2119302158936146170) | image | [@Diplomeme](https://x.com/Diplomeme) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2119302158936146170) |
 | [石榴与草莓植物图鉴及几何重构分屏海报](https://x.com/Just_sharon7/status/2124201696830386391) | image | [@Just_sharon7](https://x.com/Just_sharon7) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2124201696830386391) |
 | [四幅地标字母构成建筑海报](https://x.com/Aiwithkami/status/2121660880178106681) | image | [@Aiwithkami](https://x.com/Aiwithkami) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2121660880178106681) |

@@ -4,8 +4,8 @@
  "released": "2026-11-04T23:35:14Z",
  "inclusion_rule": "Original post by the creator, images / GIF / video attached, >= 5000 views on that post, creator states it was made with ChatGPT Images 2.6 (GPT-Image-2.6). Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-11-26T01:26:45.620Z",
- "updated_at": "2026-11-26T01:26:45.620Z",
+ "stats_checked_at": "2026-11-27T01:26:13.859Z",
+ "updated_at": "2026-11-27T01:26:13.859Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -1752,6 +1752,61 @@
    ],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2125476933056217417",
+   "category": "design",
+   "title": {
+    "zh": "超大首字母融合世界地标的四联建筑海报",
+    "en": "Four landmark posters with oversized initials"
+   },
+   "creator": {
+    "handle": "Aiwithkami",
+    "name": "Kami AI"
+   },
+   "original_post_url": "https://x.com/Aiwithkami/status/2125476933056217417",
+   "posted_at": "2026-11-25T06:29:24.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "photo",
+     "width": 784,
+     "height": 1168,
+     "thumbnail_url": "https://pbs.twimg.com/media/HX81siQbcAA7t-k?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 784,
+     "height": 1168,
+     "thumbnail_url": "https://pbs.twimg.com/media/HX81r0LbMAAvH5y?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 784,
+     "height": 1168,
+     "thumbnail_url": "https://pbs.twimg.com/media/HX81q4SbYAAqjEl?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 784,
+     "height": 1168,
+     "thumbnail_url": "https://pbs.twimg.com/media/HX81tRqaEAACiCH?format=jpg&name=small"
+    }
+   ],
+   "views": 24963,
+   "likes": 514,
+   "bookmarks": 466,
+   "views_checked_at": "2026-11-27T01:26:13.859Z",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "post",
+    "source_url": "https://x.com/Aiwithkami/status/2125476933056217417",
+    "length": 2784,
+    "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2125476933056217417"
+   },
    "resources": []
   },
   {
@@ -4750,6 +4805,57 @@
    "resources": []
   },
   {
+   "id": "2125520256022216961",
+   "category": "design",
+   "title": {
+    "zh": "圣诞插画与复古几何色卡上下拼贴海报三张",
+    "en": "Three holiday illustrations paired with retro posters"
+   },
+   "creator": {
+    "handle": "Just_sharon7",
+    "name": "Sharon Riley"
+   },
+   "original_post_url": "https://x.com/Just_sharon7/status/2125520256022216961",
+   "posted_at": "2026-11-25T09:21:33.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "photo",
+     "width": 880,
+     "height": 1168,
+     "thumbnail_url": "https://pbs.twimg.com/media/HX9c2vraAAA2jk1?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 880,
+     "height": 1168,
+     "thumbnail_url": "https://pbs.twimg.com/media/HX9c2v4acAAW74h?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 880,
+     "height": 1168,
+     "thumbnail_url": "https://pbs.twimg.com/media/HX9c2vqaAAAKIfj?format=jpg&name=small"
+    }
+   ],
+   "views": 6986,
+   "likes": 189,
+   "bookmarks": 11,
+   "views_checked_at": "2026-11-27T01:26:13.859Z",
+   "tools_reported": [
+    "TapNow AI"
+   ],
+   "reference_assets": true,
+   "prompt": {
+    "kind": "full",
+    "source": "post",
+    "source_url": "https://x.com/Just_sharon7/status/2125520256022216961",
+    "length": 2834,
+    "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2125520256022216961"
+   },
+   "resources": []
+  },
+  {
    "id": "2120147921069019473",
    "category": "comparison",
    "title": {
@@ -4917,6 +5023,41 @@
     "WaveSpeedAI"
    ],
    "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2125586355124306111",
+   "category": "illustration",
+   "title": {
+    "zh": "风格化动画短片《The Last Court》与角色设定",
+    "en": "Stylized animation \"The Last Court\" and character sheets"
+   },
+   "creator": {
+    "handle": "itsPixieVerse",
+    "name": "PIXEL"
+   },
+   "original_post_url": "https://x.com/itsPixieVerse/status/2125586355124306111",
+   "posted_at": "2026-11-25T13:44:13.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "video",
+     "width": 1080,
+     "height": 1214,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125581323792420864/img/tWerXfWJcBT_2Np2.jpg"
+    }
+   ],
+   "views": 5589,
+   "likes": 148,
+   "bookmarks": 115,
+   "views_checked_at": "2026-11-27T01:26:13.859Z",
+   "tools_reported": [
+    "Midjourney",
+    "Seedance",
+    "WaveSpeedAI"
+   ],
+   "reference_assets": true,
    "prompt": null,
    "resources": []
   },

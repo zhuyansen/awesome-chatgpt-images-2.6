@@ -4,8 +4,8 @@
  "released": "2026-11-04T23:35:14Z",
  "inclusion_rule": "Original post by the creator, images / GIF / video attached, >= 5000 views on that post, creator states it was made with ChatGPT Images 2.6 (GPT-Image-2.6). Later posts that embed another account's upload are excluded.",
  "views_threshold": 5000,
- "stats_checked_at": "2026-11-27T01:26:13.859Z",
- "updated_at": "2026-11-27T01:26:13.859Z",
+ "stats_checked_at": "2026-11-28T01:29:44.422Z",
+ "updated_at": "2026-11-28T01:29:44.422Z",
  "model_attribution": "As stated by each creator; not independently reproduced.",
  "cases": [
   {
@@ -354,6 +354,42 @@
    "bookmarks": 156,
    "views_checked_at": "2026-11-05T16:32:09.076Z",
    "tools_reported": [],
+   "reference_assets": false,
+   "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2125773150701125998",
+   "category": "gif",
+   "title": {
+    "zh": "会说话的电灯泡少女带字幕角色动画",
+    "en": "Talking chibi lightbulb girl animation with subtitles"
+   },
+   "creator": {
+    "handle": "sunnariwakaru1",
+    "name": "すん / AIでめんどうな仕事を消す人/365日AI触っている変な人"
+   },
+   "original_post_url": "https://x.com/sunnariwakaru1/status/2125773150701125998",
+   "posted_at": "2026-11-26T02:06:28.000Z",
+   "language": "ja",
+   "media": [
+    {
+     "type": "video",
+     "width": 1080,
+     "height": 1920,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2125773123509526528/img/DuRlfPEGDKJ0X8N_.jpg"
+    }
+   ],
+   "views": 76982,
+   "likes": 494,
+   "bookmarks": 762,
+   "views_checked_at": "2026-11-28T01:29:44.422Z",
+   "tools_reported": [
+    "Codex",
+    "Claude",
+    "Fable 5.2",
+    "ElevenLabs"
+   ],
    "reference_assets": false,
    "prompt": null,
    "resources": []
@@ -2124,6 +2160,57 @@
    "resources": []
   },
   {
+   "id": "2125916156494262704",
+   "category": "edit",
+   "title": {
+    "zh": "原图转潮玩手办钥匙扣对比海报组图",
+    "en": "Original photo to vinyl doll keychain comparison posters"
+   },
+   "creator": {
+    "handle": "sipteaandcoffee",
+    "name": "kold Coffee"
+   },
+   "original_post_url": "https://x.com/sipteaandcoffee/status/2125916156494262704",
+   "posted_at": "2026-11-26T11:34:43.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "photo",
+     "width": 880,
+     "height": 1168,
+     "thumbnail_url": "https://pbs.twimg.com/media/HYDFYfQbYAAOl1y?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 880,
+     "height": 1168,
+     "thumbnail_url": "https://pbs.twimg.com/media/HYDFYfCagAESdXb?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 880,
+     "height": 1168,
+     "thumbnail_url": "https://pbs.twimg.com/media/HYDFYfCaIAIH36B?format=jpg&name=small"
+    }
+   ],
+   "views": 20846,
+   "likes": 173,
+   "bookmarks": 17,
+   "views_checked_at": "2026-11-28T01:29:44.422Z",
+   "tools_reported": [
+    "TapNow"
+   ],
+   "reference_assets": true,
+   "prompt": {
+    "kind": "full",
+    "source": "post",
+    "source_url": "https://x.com/sipteaandcoffee/status/2125916156494262704",
+    "length": 2751,
+    "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2125916156494262704"
+   },
+   "resources": []
+  },
+  {
    "id": "2118181775688241456",
    "category": "sticker",
    "title": {
@@ -2597,6 +2684,112 @@
    "tools_reported": [],
    "reference_assets": false,
    "prompt": null,
+   "resources": []
+  },
+  {
+   "id": "2125797925695684995",
+   "category": "design",
+   "title": {
+    "zh": "四位经典虚构女性角色极简负空间海报",
+    "en": "Minimalist negative-space posters of four iconic heroines"
+   },
+   "creator": {
+    "handle": "DeepBlueX0",
+    "name": "DeepBlue深藍"
+   },
+   "original_post_url": "https://x.com/DeepBlueX0/status/2125797925695684995",
+   "posted_at": "2026-11-26T03:44:55.000Z",
+   "language": "zh",
+   "media": [
+    {
+     "type": "photo",
+     "width": 941,
+     "height": 1672,
+     "thumbnail_url": "https://pbs.twimg.com/media/HYBZ7-Jb0AAUQy6?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 941,
+     "height": 1672,
+     "thumbnail_url": "https://pbs.twimg.com/media/HYBZ7-RaUAA4Yzl?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 941,
+     "height": 1672,
+     "thumbnail_url": "https://pbs.twimg.com/media/HYBZ7-PaQAA1g2n?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 941,
+     "height": 1672,
+     "thumbnail_url": "https://pbs.twimg.com/media/HYBZ7-Ea0AAmvfR?format=jpg&name=small"
+    }
+   ],
+   "views": 17462,
+   "likes": 467,
+   "bookmarks": 259,
+   "views_checked_at": "2026-11-28T01:29:44.422Z",
+   "tools_reported": [],
+   "reference_assets": false,
+   "prompt": {
+    "kind": "full",
+    "source": "post",
+    "source_url": "https://x.com/DeepBlueX0/status/2125797925695684995",
+    "length": 452,
+    "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2125797925695684995"
+   },
+   "resources": []
+  },
+  {
+   "id": "2125896985832288732",
+   "category": "edit",
+   "title": {
+    "zh": "摄影与复古平涂插画双联海报系列",
+    "en": "Photo and retro flat-illustration diptych poster series"
+   },
+   "creator": {
+    "handle": "Just_sharon7",
+    "name": "Sharon Riley"
+   },
+   "original_post_url": "https://x.com/Just_sharon7/status/2125896985832288732",
+   "posted_at": "2026-11-26T10:18:33.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "photo",
+     "width": 880,
+     "height": 1168,
+     "thumbnail_url": "https://pbs.twimg.com/media/HYCw9dtacAAcpEY?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 880,
+     "height": 1168,
+     "thumbnail_url": "https://pbs.twimg.com/media/HYCw9dpasAAmmMq?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 880,
+     "height": 1168,
+     "thumbnail_url": "https://pbs.twimg.com/media/HYCw9deb0AAhzpO?format=jpg&name=small"
+    }
+   ],
+   "views": 17322,
+   "likes": 209,
+   "bookmarks": 11,
+   "views_checked_at": "2026-11-28T01:29:44.422Z",
+   "tools_reported": [
+    "TapNow"
+   ],
+   "reference_assets": true,
+   "prompt": {
+    "kind": "full",
+    "source": "post",
+    "source_url": "https://x.com/Just_sharon7/status/2125896985832288732",
+    "length": 1590,
+    "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2125896985832288732"
+   },
    "resources": []
   },
   {
@@ -3710,6 +3903,41 @@
     "length": 77,
     "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118513591490163168"
    },
+   "resources": []
+  },
+  {
+   "id": "2126053444452757556",
+   "category": "gif",
+   "title": {
+    "zh": "含角色状态栏的像素风俯视角 RPG 森林小径动画",
+    "en": "Animated pixel-art RPG forest path with character HUD"
+   },
+   "creator": {
+    "handle": "gamemangaanime",
+    "name": "ち～ぽん✨🤔"
+   },
+   "original_post_url": "https://x.com/gamemangaanime/status/2126053444452757556",
+   "posted_at": "2026-11-26T20:40:15.000Z",
+   "language": "ja",
+   "media": [
+    {
+     "type": "video",
+     "width": 1280,
+     "height": 1120,
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2126052332521811968/img/iPL1E-rJdlq_9C1i.jpg"
+    }
+   ],
+   "views": 11234,
+   "likes": 182,
+   "bookmarks": 98,
+   "views_checked_at": "2026-11-28T01:29:44.422Z",
+   "tools_reported": [
+    "Opus 5.6",
+    "Sonnet 5.5 High",
+    "Claude Code"
+   ],
+   "reference_assets": false,
+   "prompt": null,
    "resources": []
   },
   {
@@ -5103,6 +5331,55 @@
     "source_url": "https://x.com/Just_sharon7/status/2124201696830386391",
     "length": 10636,
     "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2124201696830386391"
+   },
+   "resources": []
+  },
+  {
+   "id": "2125972504040943855",
+   "category": "edit",
+   "title": {
+    "zh": "生活照转复古波普风波点双联海报系列",
+    "en": "Candid photos turned into retro pop-art diptych posters"
+   },
+   "creator": {
+    "handle": "Ziha_ai",
+    "name": "Ziha"
+   },
+   "original_post_url": "https://x.com/Ziha_ai/status/2125972504040943855",
+   "posted_at": "2026-11-26T15:18:38.000Z",
+   "language": "en",
+   "media": [
+    {
+     "type": "photo",
+     "width": 1086,
+     "height": 1448,
+     "thumbnail_url": "https://pbs.twimg.com/media/HYD4nMXaYAAhn74?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1086,
+     "height": 1448,
+     "thumbnail_url": "https://pbs.twimg.com/media/HYD4nMgaMAAnL9Z?format=jpg&name=small"
+    },
+    {
+     "type": "photo",
+     "width": 1086,
+     "height": 1448,
+     "thumbnail_url": "https://pbs.twimg.com/media/HYD4nMZboAAomg6?format=jpg&name=small"
+    }
+   ],
+   "views": 5036,
+   "likes": 161,
+   "bookmarks": 100,
+   "views_checked_at": "2026-11-28T01:29:44.422Z",
+   "tools_reported": [],
+   "reference_assets": true,
+   "prompt": {
+    "kind": "full",
+    "source": "post",
+    "source_url": "https://x.com/Ziha_ai/status/2125972504040943855",
+    "length": 1590,
+    "page_url": "https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2125972504040943855"
    },
    "resources": []
   },

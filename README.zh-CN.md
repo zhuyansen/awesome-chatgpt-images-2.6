@@ -2,7 +2,7 @@
 
 [English](README.md) | 简体中文
 
-X 上用 **ChatGPT Images 2.6**（OpenAI 2026-11-04 发布，API 名 GPT-Image-2.6 Flare / Sunburst）做的图片和 GIF 作品，**123** 个，其中 **44** 个附作者公开的提示词。每天自动更新（最近一次：2026-11-27）。
+X 上用 **ChatGPT Images 2.6**（OpenAI 2026-11-04 发布，API 名 GPT-Image-2.6 Flare / Sunburst）做的图片和 GIF 作品，**129** 个，其中 **48** 个附作者公开的提示词。每天自动更新（最近一次：2026-11-28）。
 
 在线浏览（GIF 可直接播放、提示词一键复制）：**[jasonzhu.ai/zh/prompts/chatgpt-images-2-6](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6)**
 
@@ -23,12 +23,12 @@ X 上用 **ChatGPT Images 2.6**（OpenAI 2026-11-04 发布，API 名 GPT-Image-2
 
 ## 分类
 
-- [GIF 动图](cases/gif.zh-CN.md)（28）
+- [GIF 动图](cases/gif.zh-CN.md)（30）
 - [人像摄影](cases/portrait.zh-CN.md)（5）
 - [插画动漫](cases/illustration.zh-CN.md)（18）
 - [产品广告](cases/product.zh-CN.md)（2）
-- [海报排版](cases/design.zh-CN.md)（30）
-- [改图与参考图](cases/edit.zh-CN.md)（10）
+- [海报排版](cases/design.zh-CN.md)（31）
+- [改图与参考图](cases/edit.zh-CN.md)（13）
 - [表情包贴纸](cases/sticker.zh-CN.md)（6）
 - [模型对比](cases/comparison.zh-CN.md)（24）
 

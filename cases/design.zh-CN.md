@@ -1,6 +1,6 @@
 # 海报排版
 
-共 30 个作品，其中 17 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 31 个作品，其中 18 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 类型 | 创作者 | 提示词 |
 |---|---|---|---|
@@ -17,6 +17,7 @@
 | [亮黑色兔女郎服装设定图](https://x.com/1banana2546/status/2120320609531875716) | image | [@1banana2546](https://x.com/1banana2546) | — |
 | [玻璃物件里的微型世界插画海报系列](https://x.com/MrLarus/status/2119088172433109353) | image | [@MrLarus](https://x.com/MrLarus) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2119088172433109353) |
 | [多套服装造型参考板](https://x.com/1banana2546/status/2119627454767829342) | image | [@1banana2546](https://x.com/1banana2546) | [一句话指令](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2119627454767829342) |
+| [四位经典虚构女性角色极简负空间海报](https://x.com/DeepBlueX0/status/2125797925695684995) | image | [@DeepBlueX0](https://x.com/DeepBlueX0) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2125797925695684995) |
 | [地标建筑摄影与几何抽象分屏海报系列](https://x.com/ZaraIrahh/status/2124087683983257695) | image | [@ZaraIrahh](https://x.com/ZaraIrahh) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2124087683983257695) |
 | [区块化排版与文字融合艺术海报系列](https://x.com/MrLarus/status/2125257923131773007) | image | [@MrLarus](https://x.com/MrLarus) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2125257923131773007) |
 | [文具变成四幅微缩城市插画](https://x.com/MrLarus/status/2119426684848107773) | image | [@MrLarus](https://x.com/MrLarus) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2119426684848107773) |

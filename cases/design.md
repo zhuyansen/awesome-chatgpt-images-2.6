@@ -1,6 +1,6 @@
 # Posters, typography & design
 
-30 works, 17 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+31 works, 18 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Type | Creator | Prompt |
 |---|---|---|---|
@@ -17,6 +17,7 @@
 | [Glossy black bunny-girl costume reference sheet](https://x.com/1banana2546/status/2120320609531875716) | image | [@1banana2546](https://x.com/1banana2546) | — |
 | [Glass-object micro worlds, illustrated poster series](https://x.com/MrLarus/status/2119088172433109353) | image | [@MrLarus](https://x.com/MrLarus) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2119088172433109353) |
 | [Multi-outfit costume reference board](https://x.com/1banana2546/status/2119627454767829342) | image | [@1banana2546](https://x.com/1banana2546) | [Brief](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2119627454767829342) |
+| [Minimalist negative-space posters of four iconic heroines](https://x.com/DeepBlueX0/status/2125797925695684995) | image | [@DeepBlueX0](https://x.com/DeepBlueX0) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2125797925695684995) |
 | [Landmarks in split photo and geometric poster series](https://x.com/ZaraIrahh/status/2124087683983257695) | image | [@ZaraIrahh](https://x.com/ZaraIrahh) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2124087683983257695) |
 | [Artistic typography and graphic design poster series](https://x.com/MrLarus/status/2125257923131773007) | image | [@MrLarus](https://x.com/MrLarus) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2125257923131773007) |
 | [Stationery turned into a four-part miniature city](https://x.com/MrLarus/status/2119426684848107773) | image | [@MrLarus](https://x.com/MrLarus) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2119426684848107773) |

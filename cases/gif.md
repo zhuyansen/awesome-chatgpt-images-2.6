@@ -1,11 +1,12 @@
 # GIFs & animation
 
-28 works, 8 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
+30 works, 8 with a prompt. Titles link to the original post on X; prompt links open the page with the original text and its source.
 
 | Work | Type | Creator | Prompt |
 |---|---|---|---|
 | [Bear makes tea in a gentle picture-book animation](https://x.com/Leviwoyun/status/2119275395736584576) | video | [@Leviwoyun](https://x.com/Leviwoyun) | — |
 | [Surreal bouncing grayscale faces, looping GIF](https://x.com/tianmakibo/status/2118263296520519786) | image | [@tianmakibo](https://x.com/tianmakibo) | — |
+| [Talking chibi lightbulb girl animation with subtitles](https://x.com/sunnariwakaru1/status/2125773150701125998) | video | [@sunnariwakaru1](https://x.com/sunnariwakaru1) | — |
 | [Four-color textured background loops](https://x.com/gbroai/status/2118360718554894395) | gif | [@gbroai](https://x.com/gbroai) | — |
 | [Standing backflip GIF at three complexity levels](https://x.com/gabrielchua/status/2118135343354720648) | video | [@gabrielchua](https://x.com/gabrielchua) | [Brief](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118135343354720648) |
 | [Woman spraying water in a sunny garden](https://x.com/nima2qisi2/status/2118150226330734787) | image | [@nima2qisi2](https://x.com/nima2qisi2) | [Full prompt](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118150226330734787) |
@@ -25,6 +26,7 @@
 | [Green-haired chibi schoolgirl loop GIF](https://x.com/midori_tatsuta/status/2118519274482586001) | gif | [@midori_tatsuta](https://x.com/midori_tatsuta) | — |
 | [Chibi horned girls in ornate dresses, dancing GIFs](https://x.com/798145343h/status/2118164732989608405) | gif | [@798145343h](https://x.com/798145343h) | — |
 | [Anime girl controlling a floating sphere](https://x.com/MiraMusic_AI/status/2118513591490163168) | image | [@MiraMusic_AI](https://x.com/MiraMusic_AI) | [Brief](https://jasonzhu.ai/en/prompts/chatgpt-images-2-6/2118513591490163168) |
+| [Animated pixel-art RPG forest path with character HUD](https://x.com/gamemangaanime/status/2126053444452757556) | video | [@gamemangaanime](https://x.com/gamemangaanime) | — |
 | [GTA-inspired sunset cityscape, AI short film frame](https://x.com/MonetizationDon/status/2125113263327158332) | video | [@MonetizationDon](https://x.com/MonetizationDon) | — |
 | [Anime character GIF poster collection](https://x.com/Leviwoyun/status/2118991862564262140) | video | [@Leviwoyun](https://x.com/Leviwoyun) | — |
 | [Pixel-art witch casting spells, looping GIF](https://x.com/Mayz1169/status/2119108577927548944) | gif | [@Mayz1169](https://x.com/Mayz1169) | — |

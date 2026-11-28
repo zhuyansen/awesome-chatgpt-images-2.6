@@ -1,11 +1,12 @@
 # GIF 动图
 
-共 28 个作品，其中 8 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
+共 30 个作品，其中 8 个附提示词。标题链接到 X 原帖，提示词链接到带原文和出处的页面。
 
 | 作品 | 类型 | 创作者 | 提示词 |
 |---|---|---|---|
 | [小熊煮茶的治愈系绘本动画](https://x.com/Leviwoyun/status/2119275395736584576) | video | [@Leviwoyun](https://x.com/Leviwoyun) | — |
 | [超现实灰度人脸弹跳循环 GIF](https://x.com/tianmakibo/status/2118263296520519786) | image | [@tianmakibo](https://x.com/tianmakibo) | — |
+| [会说话的电灯泡少女带字幕角色动画](https://x.com/sunnariwakaru1/status/2125773150701125998) | video | [@sunnariwakaru1](https://x.com/sunnariwakaru1) | — |
 | [四色纹理背景循环 GIF](https://x.com/gbroai/status/2118360718554894395) | gif | [@gbroai](https://x.com/gbroai) | — |
 | [三种复杂度的站立后空翻 GIF](https://x.com/gabrielchua/status/2118135343354720648) | video | [@gabrielchua](https://x.com/gabrielchua) | [一句话指令](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2118135343354720648) |
 | [阳光花园里喷水的女性](https://x.com/nima2qisi2/status/2118150226330734787) | image | [@nima2qisi2](https://x.com/nima2qisi2) | [完整提示词](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2118150226330734787) |
@@ -25,6 +26,7 @@
 | [绿发 Q 版女学生循环 GIF](https://x.com/midori_tatsuta/status/2118519274482586001) | gif | [@midori_tatsuta](https://x.com/midori_tatsuta) | — |
 | [华丽礼服的 Q 版角角女孩舞蹈 GIF](https://x.com/798145343h/status/2118164732989608405) | gif | [@798145343h](https://x.com/798145343h) | — |
 | [操控悬浮球体的动漫女孩](https://x.com/MiraMusic_AI/status/2118513591490163168) | image | [@MiraMusic_AI](https://x.com/MiraMusic_AI) | [一句话指令](https://jasonzhu.ai/zh/prompts/chatgpt-images-2-6/2118513591490163168) |
+| [含角色状态栏的像素风俯视角 RPG 森林小径动画](https://x.com/gamemangaanime/status/2126053444452757556) | video | [@gamemangaanime](https://x.com/gamemangaanime) | — |
 | [GTA 风格落日城市景观，AI 动作短片画面](https://x.com/MonetizationDon/status/2125113263327158332) | video | [@MonetizationDon](https://x.com/MonetizationDon) | — |
 | [动漫角色 GIF 海报合集](https://x.com/Leviwoyun/status/2118991862564262140) | video | [@Leviwoyun](https://x.com/Leviwoyun) | — |
 | [像素风女巫施放魔法循环 GIF](https://x.com/Mayz1169/status/2119108577927548944) | gif | [@Mayz1169](https://x.com/Mayz1169) | — |
